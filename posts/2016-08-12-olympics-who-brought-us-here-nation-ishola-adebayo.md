@@ -1,0 +1,19 @@
+---
+title: 'Olympics: Who brought us here as a Nation?  - Ishola Adebayo'
+slug: olympics-who-brought-us-here-nation-ishola-adebayo
+layout: post
+---
+
+In 1952, the Nigerian team made their first appearance and since then, Nigerian athletes have always participated in every tournaments of the summer Olympic games except for the 1976 Summer Olympic Games which held in Montreal due to the African boycott. Though, Nigeria has never participated in the Winter Olympic Games.
+
+As usual, the Nigerian team was billed to compete at the 2016 Summer Olympics in Rio de Janeiro from August 5 to 21, 2016, however, not without controversy.
+
+If we as a country with vast Human and material resources can't find a way to successfully manage and finance our team to the Olympic without late preparation, corruption and bribery, racketeering, drug performances and other demanding vices accompanied with the recent Olympic outing, how is the purpose of the outing to our Nation's corporate image (Internationally) going to be achieved? Actually, 'Olympism' is a way that "seeks to create a way of life based on the joy of effort, the educational value of good example, social responsibility and respect for universal fundamental ethical principles." Does this definition define our latest Olympic outing? 
+
+Disgraceful as it is, we heard about the case of the U-23 football team who were stranded in Atlanta and almost made us lose the opening match against Japan before Delta Airline came to the rescue, as if this isn't enough, another one rubbed our face and dent our global image as the much publicized new kit that was unveiled before President Buhari at the Aso Villa on the day Team Nigeria was officially handed over to the Nigeria Olympic Committee, NOC, failed to arrive Rio on time for the Opening Ceremony on Saturday. As a result of the non-arrival of their kits, Team Nigeria athletes had to march in tracksuits with one foreign journalist, Alexander Wolff of American Magazine, Sports Illustrated, taking to twitter to ridicule the country thus: “Nigeria, marching in sweats because official outfits didn’t make it to Rio. Can we agree that they’re a country to pull for these two weeks?”
+
+The Youth and Sports Development Ministry was sent to the cleaners through social media outbursts from Nigerians as a result of the poor dressing. One of the quotes read “Shame on Nigeria. Shame! Shame! Shame! We are not capable of doing anything right. It is impossible to do the right thing. We are always coming up with stupid excuses that no one else seems to have. I could not find the right words to explain to my daughter here in Houston why we dressed like no other country. I was embarrassed. The opening ceremony was exciting until we appeared shamelessly and I did not need to be told that they left their official attire in Nigeria. We are ridiculous and shameless.” In truism, despite the near-exaggeration of the comments, they summarize the state of our nation and the depth at which corruption has eaten into our systems, in the comity of other countries, we still showcase our lackadaisical and obscure attitude to pressing international competition like the Olympic. This is utterly outrageous!
+
+As various embarrassing happenings have continued to surge on Team Nigeria like a tsunami, the Nigerian Government (as usually said and not always done) promises to investigate the rot in the Olympic mess that brought international discomfort to the Nigerian team. Investigation isn't enough but bringing the culprits to book will go a long way in putting things in the normal way they should be.
+
+Be it as it may, we equally call on the government to take swift actions to stem the tide and avoid future occurrence because we can't afford to have this crucial issue swept under the carpet as it is normally done in some other cases. If we can't get it right by organizing a shame-free Olympic outing, when and what can we get right as a country?

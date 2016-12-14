@@ -1,0 +1,22 @@
+---
+title: Imo State Back to Land for Agriculture Policy, Matters Arising!!! – Ishola
+  Adebayo
+slug: imo-state-back-land-agriculture-policy-matters-ari
+layout: post
+---
+
+The decline in the nation's economy has forced governments to look inwards and explore areas they have great strength and limitless advantage. This may be the reason why Governor Rochas Okorocha gave a paradigm shift and came out with a policy thrust on the ‘Back-to-Land for Agriculture’ policy of the state government which will enable public servants engage in agriculture as a way to be self-reliant. Governor Okorocha instructed public servants in the state to now work from Mondays to Wednesdays, and use Thursdays and Fridays for agriculture (farming) while Saturdays can be used for ceremonies. And the directive took effect from August 1, 2016.
+
+There is no controversy in the life-saving opportunities in agriculture, especially in this sardonic economic recession period. Farming remains a fundamentally beneficial job for the individual and the society. When the food supply improves, the standard of life increases and cost of life reduces, but I have reservations in making civil service seem as if there isn’t much work to be done by civil servants. Private Multinational firm won't reduce the work days of his workers from the five days to three and expect the same productivity and outcome. The assumption that a large percentage of civil servants are part-time farmers and agricultural business owners, does not justify the reduction of their work days, and possible further decline in productivity.
+
+We all know, the sum of ₦2 Billion was set aside for the program and it is already becoming a norm to have such money mismanaged in our clime through distribution of fertilizers and farm equipments which has always remained a racketeering business in Nigeria. Over the years, full-time farmers have had to lament the poor handling and mismanagement of the fertilizer distribution because past governments failed to destroy the racketeering scourge.
+
+Responsively, in a bid to curb the racketeering syndicate in the distribution of fertilizers, the last administration introduced Nigeria Incentive-Based Risk Sharing Systems for Agricultural Lending (NIRSAL) by the Central Bank of Nigeria (CBN) which involves de-risk lending to the agricultural sector. It will be a great move for IMO state executive council to take from the portrait of this.
+
+Importantly, I think the State Government would have been better placed if the Government massively invested in training and sensitization of the 'civil farmers' about Agricultural Science, economics, extension, harvesting, cropping, soil testing and other fundamentals, before kick starting the program. The sudden and furious commencement only mirrors the intention of the state government to supplement workers salary and give reasons if perhaps, in subsequent months, there occurs the inability to pay the workers 'Mondays - Wednesdays' salaries.
+
+"Nemo dat quad non habet - You can't give what you don't have", non-farmers can't successfully practice farming without basic knowledge of the basics. And if we are relying on the crude and primitive farming ways for this program, indeed, something is wrong somewhere.
+
+On another note, if teachers, nurses, doctors and those involved in Internally Generated Revenue (IGR) drive can be exempted from this policy and relieved of the farming rigors, what made other portfolios non-essential to get same exemptions? The state government needs to come bold on this and explain the reasons for the exemption so as not to send some core and relevant disciplines to the back seat owing to the 'Back to Land for Agriculture' policy.
+
+To ensure that the objective of the program is met, I suggest the four core principles in executing the programmes.  The first principle hammers on the Agricultural training and empowerment to the civil farmers. The second approach is creating a synergy and strong partnership with the private sector, civil society, non-governmental organizations and particularly full-time farmers.  The third principle is to see farming as a worthy investment and endeavor so that the practitioners won't be psychologically dejected by the wretched lens we usually use in viewing farming. While the fourth borders on constant monitoring, evaluation, assessment and transparency on the part of the state government and the civil farmers.
