@@ -1,6 +1,6 @@
 prose:
   rooturl: ""
-  media: "attachments"
+  media: "media"
   ignore: ["_prose.yml"]
   metadata:
     posts:
