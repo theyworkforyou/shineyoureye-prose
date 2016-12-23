@@ -4,7 +4,7 @@ slug: senate-president-saraki-cct-timeline
 layout: post
 ---
 
-![SP Saraki @ CCT](/file_archive/SPSarakiCCT "Senate President @ CCT")
+![SP Saraki @ CCT](/media_root/file_archive/SP_Saraki__CCT.jpg "Senate President @ CCT")
 
 -	May 2003 - May 2011 - Dr. Olubukola Abubakar Saraki as Governor of Kwara State, as required by law, filed and submitted four asset declaration forms and submitted same to the Code of Conduct Bureau
 

@@ -18,4 +18,4 @@ APGA = 1,
 
 PDP = 13
 
-![State Assembly Speakers](/file_archive/StateAssemblySpeakersDeputies "State Assembly Speakers & Deputies")
+![State Assembly Speakers](/media_root/file_archive/SYE_-_State_Assembly_speakers_and_deputies.jpg "State Assembly Speakers & Deputies")

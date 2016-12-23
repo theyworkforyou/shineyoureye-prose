@@ -4,7 +4,7 @@ slug: senator-tinubu-meets-constituents
 layout: post
 ---
 
-![Senator Tinubu and Constituents](/file_archive/SenatorTinubuTHMMarch2016 "Senator Tinubu meets with Constituents")
+![Senator Tinubu and Constituents](/media_root/file_archive/SenatorRemiMarch2016_V8mD4qu.jpg "Senator Tinubu meets with Constituents")
 
 Nigerian citizens in their various constituencies always wonder where the opinions and ideas their legislators’ present in the National Assembly originate from when they barely hold meetings with their constituents to discuss relevant issues.
 

@@ -4,4 +4,4 @@ slug: inec-chairman-senate
 layout: post
 ---
 
-![INEC Chairman at Senate](/file_archive/INECChairman-Senate "INEC Chairman at the Senate")
+![INEC Chairman at Senate](/media_root/file_archive/INEC_Chairman_at_the_Senate_1.jpg "INEC Chairman at the Senate")

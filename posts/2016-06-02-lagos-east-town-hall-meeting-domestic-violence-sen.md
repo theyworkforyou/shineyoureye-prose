@@ -6,11 +6,11 @@ layout: post
 
 A drizzle greeted constituents as they poured in to Mercy Hall on CMD Road, Magodo. From the gate, police men give directions to a 50m by 30m hall. Right inside, two things stand out, women in geles singing in Yoruba with passion, and ‘empowerment’ tools which filled up to one-fifth of the hall. The latter included cartons of Indomie noodles, cartons of Power oil, hair dryers, as well as mini gas cookers well branded with the senator’s photo and name.
 
-![LagosEastTHM2016a](/file_archive/LagosEastTHM2016a "LagosEastTHM2016a")
+![LagosEastTHM2016a](/media_root/file_archive/1_PEJmazx.jpg "LagosEastTHM2016a")
 
 The women’s continue to sing as ‘honourables’ are called to the high table. Consequently, the Oba of Ketu is ushered into the hall and straight to the table. Right about that time, the ‘Youth Leader’ is called up. The women began to sing:
 
-![LagosEastTHM2016b](/file_archive/LagosEastTHM2016b "LagosEastTHM2016b")
+![LagosEastTHM2016b](/media_root/file_archive/2_aChhGyV.jpg "LagosEastTHM2016b")
 
 “Eje ki omode ko wa… Jojolo, omokekere jojolo…”
 
@@ -18,11 +18,11 @@ A song purposed for Yoruba children aged 10 years and thereabout. Ironically, th
 
 In order to move on, the constituents urged the women to keep quiet for the opening prayer. Immediately, it was time to say the National Prayer. But some way, somehow, it was just the 1st stanza of the National Anthem that was sung.
 
-![LagosEastTHM2016c](/file_archive/LagosEastTHM2016c "LagosEastTHM2016c")
+![LagosEastTHM2016c](/media_root/file_archive/3_52Bg5gi.jpg "LagosEastTHM2016c")
 
 Finally, it was time for Senator Ashafa to address the people. Firstly, he couldn’t help but show a sign of being fed up with the women’s over-singing stunts. He repeatedly stressed “Ese pupo o, ese…”.
 
-![LagosEastTHM2016d](/file_archive/LagosEastTHM2016d "LagosEastTHM2016d")
+![LagosEastTHM2016d](/media_root/file_archive/4_v1jDSnc.jpg "LagosEastTHM2016d")
 
 **Run-down of NASS Events**
 

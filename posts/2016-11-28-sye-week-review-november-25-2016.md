@@ -4,4 +4,4 @@ slug: sye-week-review-november-25-2016
 layout: post
 ---
 
-![SYE Week Review (November 25, 2016)](/file_archive/SYEWeekReview25November2016 "SYE Week Review (November 25, 2016)")
+![SYE Week Review (November 25, 2016)](/media_root/file_archive/SYE__Weekly_Review_..._Nov.25.jpeg "SYE Week Review (November 25, 2016)")

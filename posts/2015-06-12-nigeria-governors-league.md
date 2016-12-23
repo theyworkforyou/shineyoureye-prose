@@ -4,4 +4,4 @@ slug: nigeria-governors-league
 layout: post
 ---
 
-![Governors League](/file_archive/GovernorsLeague "Nigeria Governors League")
+![Governors League](/media_root/file_archive/Complete_Sports_-_Governors_League.jpg "Nigeria Governors League")

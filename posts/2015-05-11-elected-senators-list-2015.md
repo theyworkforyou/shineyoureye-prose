@@ -4,4 +4,4 @@ slug: elected-senators-list-2015
 layout: post
 ---
 
-![8th Assembly Senators](/file_archive/ElectedSenators2015 "Elected Senators List (2015)")
+![8th Assembly Senators](/media_root/file_archive/Elected_Senators.jpg "Elected Senators List (2015)")

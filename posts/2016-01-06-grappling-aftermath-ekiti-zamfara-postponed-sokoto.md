@@ -5,7 +5,7 @@ slug: grappling-aftermath-ekiti-zamfara-postponed-sokoto
 layout: post
 ---
 
-![IMAGE](/file_archive/LGAElectionBlogIshola "Grappling With the Aftermath of Ekiti, Zamfara & Postponed Sokoto Council Polls")
+![IMAGE](/media_root/file_archive/Ekiti_Zamfara__Sokoto_LGA_Polls2.jpg "Grappling With the Aftermath of Ekiti, Zamfara & Postponed Sokoto Council Polls")
 
 The aftermath of the Ekiti State Local Government election held in 16 councils of the state, where the Peoples Democratic Party (PDP) was declared winner of all the seats, was quite predictable, as the All Progressives Congress (APC) had declined to participate in the election.
 

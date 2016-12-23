@@ -4,7 +4,7 @@ slug: taraba-comprehension
 layout: post
 ---
 
-![Taraba Map](/file_archive/Taraba-Map "Taraba Comprehension(Map)")
+![Taraba Map](/media_root/file_archive/Nigeria_Taraba_State_map.png "Taraba Comprehension(Map)")
 
 Since the 4th republic began in 1999, Taraba North had produced Rev. Jolly Nyame as governor (8 years), Taraba Central produced Danbaba Suntai who was to end his 8 years tenure in 2015. 
 

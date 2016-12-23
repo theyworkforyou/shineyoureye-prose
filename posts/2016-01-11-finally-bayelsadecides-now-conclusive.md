@@ -4,7 +4,7 @@ slug: finally-bayelsadecides-now-conclusive
 layout: post
 ---
 
-![Bayelsa Decided](/file_archive/BayelsaDecided "Bayelsa Decided")
+![Bayelsa Decided](/media_root/file_archive/BayelsaDecided.jpg "Bayelsa Decided")
 
 Governor Seriakae Dickson was on January 9th returned as the winner of the Bayelsa State governorship election. This followed the declaration of the results of the supplementary elections conducted in Southern Ijaw Local Government Area and 101 polling units in six other local government areas. 
 

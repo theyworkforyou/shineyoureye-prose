@@ -8,7 +8,7 @@ layout: post
 
 -- Justice Kayode Bamisile (rtd) (Ekiti SIEC Chairman)
 
-![Ekiti LG Polls](/file_archive/Ekiti-Map "Ekiti LG Polls")
+![Ekiti LG Polls](/media_root/file_archive/ekiti.png "Ekiti LG Polls")
 
 The first of local government [elections](http://www.shineyoureye.org/info/local-government-elections "LG Polls") in this new political dispensation will take place tomorrow in Ekiti State. 
 

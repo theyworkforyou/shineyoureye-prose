@@ -14,6 +14,6 @@ If you have questions for the candidates email rsvp@eienigeria.org or send an sm
 
 The debate will be aired live. please be on time.
 
-![Osun Debate Flyer](http://www.shineyoureye.org/media_root/images/Osun_Debate_Flyer.jpg "Osun Debate Flyer")
+![Osun Debate Flyer](/media_root/images/Osun_Debate_Flyer.jpg "Osun Debate Flyer")
 
 EiE Nigeria is committed to promoting good governance and civic engagement and encourages everyone to Register | Select | Vote | Protect.

@@ -14,4 +14,4 @@ To ensure that the exercise turns out a success, the Ondo State Commissioner of 
 
 All is set. Kick-off is less than 24 hours. Residents in Ondo's 18 LGAs have the **priviledge to choose from 17 political parties**. This is a decision they must make themselves. May the people win!
 
-![Ondo Local Government Areas](/file_archive/Ondo-LGAs "Ondo LG Election 2016")
+![Ondo Local Government Areas](/media_root/file_archive/Ondo_-_Political.jpg "Ondo LG Election 2016")

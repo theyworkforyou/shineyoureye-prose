@@ -8,6 +8,6 @@ The bye- election to replace the impeached Governor Murtala Nyako has been slate
 
 The Independent National Electoral Commission has issued a time table for the schedule of activities associated with the bye-election.  
 
-![Adamawa Governorship Bye-election Timetable](http://www.shineyoureye.org/file_archive/Adamawa-Bye-Election-Timetable "Adamawa Bye-Election October 11")
+![Adamawa Governorship Bye-election Timetable](/media_root/file_archive/Adamawa_INEC_Time-Table.png "Adamawa Bye-Election October 11")
 
 Where the election is unable to produce a winner, a run off is expected to come up seven days after the announcement of the election’s results.

@@ -4,7 +4,7 @@ slug: kogi-bayelsa-guber-polls-inconclusive-elections-an
 layout: post
 ---
 
-![Kogi & Bayelsa Polls](/file_archive/Kogi-Bayelsa-Election-Report "Kogi & Bayelsa Polls 2015")
+![Kogi & Bayelsa Polls](/media_root/file_archive/SYE_Blog_-_Kogi__Bayelsa_1.jpg "Kogi & Bayelsa Polls 2015")
 
 Another set of elections have come and gone. The same problems and symptoms have emerged. It is unnerving that at this stage in our development, we still cannot get our elections right. It is obvious that the people in authority do not want free, fair and credible elections.
 

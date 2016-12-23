@@ -4,7 +4,7 @@ slug: senator-buruji-withdraws-suit-against-young-man
 layout: post
 ---
 
-![Buruji-Babington-Ashaye](/file_archive/Buruji-Ashaye "Senator Buruji Withdraws Court Case")
+![Buruji-Babington-Ashaye](/media_root/file_archive/Buruji-Ashaye.jpg "Senator Buruji Withdraws Court Case")
 
 Beyond doubt, Senator Buruji Kashamu [Senator Buruji Kashamu](http://www.shineyoureye.org/person/buruji-kashamu/ "Senator Buruji Kashamu") appeared at the Magistsrate Court in Isabo, Abeokuta. Based on rumors, over 100 awaiting citizens flooded the court premises, not for interest in the court case, but for the expected Naira rain by the famous money-bag. Immediately the Ogun-East senator stepped into the court room, he was called up as a complainant to open a case against Deji Babington-Ashaye.
 

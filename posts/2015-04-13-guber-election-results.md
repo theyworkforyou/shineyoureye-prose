@@ -14,4 +14,4 @@ Results from 2 states in South East are yet to be declared (Abia and Imo)
 
 1 Incumbent governor awaiting result declaration (election declared inconclusive in Imo)
 
-![Guber Elction Update](/file_archive/GuberElectionUpdate "Update On Gubernatorial Elections")
+![Guber Elction Update](/media_root/file_archive/SYE_Guber_Election_Update.jpg "Update On Gubernatorial Elections")

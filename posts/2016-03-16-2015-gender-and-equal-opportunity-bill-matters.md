@@ -4,7 +4,7 @@ slug: 2015-gender-and-equal-opportunity-bill-matters
 layout: post
 ---
 
-View/Download the [2015 GEO Bill](http://www.shineyoureye.org/media_root/file_archive/2015_GEO_BILL.pdf "2015 GEO Bill")
+View/Download the [2015 GEO Bill](/media_root/file_archive/2015_GEO_BILL.pdf "2015 GEO Bill")
 
 The Nigerian Senate on Tuesday, 15th of March, 2016 voted against the Gender and Equal Opportunity (GEO) Bill. The bill could not pass the second reading after the Senate President, Bukola Saraki, put the bill to vote with the “Nays” having it.
 
@@ -16,4 +16,4 @@ The questions on the lips of many Nigerians - How can one explain to people that
 
 No doubt, this could easily affect the fundamental human right in the country and might dent the chances to prevent violence against women leading to more cases like Ese Orurus’.
 
-View/Download the [2015 GEO Bill](http://www.shineyoureye.org/media_root/file_archive/2015_GEO_BILL.pdf "2015 GEO Bill")
+View/Download the [2015 GEO Bill](/media_root/file_archive/2015_GEO_BILL.pdf "2015 GEO Bill")

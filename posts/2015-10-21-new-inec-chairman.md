@@ -8,7 +8,7 @@ President Buhari nominates Prof. Mahmud Yakubu as INEC Chairman.
 
 New INEC Commissioners have also been nominated in line with the Constitution - Amina Zakari (North West), Anthonia Okoosi-Simbine (North Central), Baba Arfo (North East), Mohammed Lecky (South South), Soyebi Solomon (South West)
 
-![New INEC Boss](/file_archive/Mahmood-Yakubu "New INEC Chairman!")
+![New INEC Boss](/media_root/file_archive/Mahmood_Yakubu.jpg "New INEC Chairman!")
 
 - Native of Bauchi State
 

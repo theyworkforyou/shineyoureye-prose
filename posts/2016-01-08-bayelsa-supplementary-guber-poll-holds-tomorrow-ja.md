@@ -18,4 +18,4 @@ From the first ballot, the incumbent Governor and candidate of the Peoples Democ
 
 Sylva won only in his locality –Brass, while Dickson won in 4 of 5 local government areas announced, garnering a total of 81,929 votes against Sylva’s of 56,514 votes. 25,415 votes currently separate the 2 aspirants as they head on to tomorrow’s rerun both aiming to garner needed votes from the Southern Ijaw voters.
 
-![Seriake Vs Sylva](/file_archive/BayelsaTussle "Bayelsa Supplementary Poll 2016")
+![Seriake Vs Sylva](/media_root/file_archive/Bayelsa_Blog1_2016.jpg "Bayelsa Supplementary Poll 2016")

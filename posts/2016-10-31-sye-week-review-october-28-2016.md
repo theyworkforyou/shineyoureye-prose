@@ -4,4 +4,4 @@ slug: sye-week-review-october-28-2016
 layout: post
 ---
 
-![SYE Week Review (October 28, 2016)](/file_archive/SYEWeekReview28October2016 "SYE Week Review (October 28, 2016)")
+![SYE Week Review (October 28, 2016)](/media_root/file_archive/Shineyoure_weekly_review_-_Oct._28_2016.png "SYE Week Review (October 28, 2016)")
