@@ -57,6 +57,11 @@ prose:
           label: "Published"
           element: "checkbox"
           value: "true"
+      - name: "featured"
+        field:
+          label: "Featured"
+          element: "checkbox"
+          value: "false"
       - name: "title"
         field:
           label: "Title"
