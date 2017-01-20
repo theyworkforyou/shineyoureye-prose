@@ -51,6 +51,13 @@ prose:
           label: "Slug"
           element: "text"
           value: "an-awesome-headline"
+      - name: "eventdate"
+        field:
+          label: "Event date"
+          element: "text"
+          help: "The date of the event"
+          value: CURRENT_DATETIME
+          type: "datetime"
     summaries:
       - name: "published"
         field:
