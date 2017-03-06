@@ -1,8 +1,9 @@
 ---
 title: Democracy Resources
 slug: democracy-resources
-permalink: "/info/democracy-resources/"
+permalink: /info/democracy-resources/
 layout: page
+published: true
 ---
 
 **Democracy** noun \di-ˈmä-krə-sē\- A government in which the supreme power is vested in the people.
@@ -45,13 +46,13 @@ The work of the government in Nigeria is divided into three levels:
 
 ### _Local_
 
- A Local Government Council represents each Local Government Area. The local government is responsible for things like:
+A Local Government Council represents each Local Government Area and is headed by an elected Local Government Chairman. The local government is responsible for things like:
 
--construction and maintenance of roads streets, street lightings, drains and other public highways
+- Construction and maintenance of roads streets, street lightings, drains and other public highways
 
--establishment, maintenance and regulation of markets, motorparks and public conveniences
+- Establishment, maintenance and regulation of markets, motorparks and public conveniences
 
-- registration of all births, deaths and marriages
+- Registration of all births, deaths and marriages
 
 ### _State_
 
