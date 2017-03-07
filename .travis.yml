@@ -1,0 +1,20 @@
+language: ruby
+branches:
+  only:
+    - gh-pages
+cache: bundler
+script:
+  - git clone 'https://github.com/theyworkforyou/shineyoureye-sinatra.git'
+  # So that Travis can cache the bundle, copy Gemfile and Gemfile.lock
+  # into the top level directory before installing:
+  - cp shineyoureye-sinatra/Gemfile{,.lock} .
+  - bundle install
+  - cd shineyoureye-sinatra
+  - git show -s --oneline
+  # This is done by bin/deploy anyway, but we need the data for the tests:
+  - bin/prepare-data
+  # Check that the tests pass, just in case:
+  - bundle exec rake test && bin/deploy
+sudo: false
+rvm:
+  - 2.3.1

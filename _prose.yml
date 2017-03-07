@@ -1,7 +1,7 @@
 prose:
   rooturl: ""
   media: "media"
-  ignore: ["_prose.yml"]
+  ignore: ["_prose.yml", ".travis.yml"]
   metadata:
     posts:
       - name: "published"
