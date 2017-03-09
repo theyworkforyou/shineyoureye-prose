@@ -1,18 +1,18 @@
 ---
 title: State Government Elections
 slug: state-government-elections
-permalink: "/info/state-government-elections/"
+permalink: /info/state-government-elections/
 layout: page
+published: true
 ---
 
 STATE | INCUMBENT GOVERNOR | PARTY |ELECTION DATE
 
 ------------------|------------------|------------------|------------------
 
-Kogi State |[Idris Wada](http://www.shineyoureye.org/person/idris-wada/ "Idris Wada") | PDP | DONE (November 21, 2015)
+Anambra State |[Willie Obiano](http://www.shineyoureye.org/person/Willie-Obiano/ "Willie Obiano") | APGA | November 18, 2017
 
-Bayelsa State | [Seriake Dickson](http://www.shineyoureye.org/person/henry-seriake-dickson/ "Seriake Dickson") | PDP | DONE (December 5, 2015)
+Osun State | [Rauf Aregbesola](http://www.shineyoureye.org/person/rauf-aregbesola/ "Rauf Aregbesola") | APC | 2018
 
-Edo State | [Adams Oshiomhole](http://www.shineyoureye.org/person/adams-oshiomhole/ "Adams Oshiomhole") | APC | 2016
+Ekiti State | [Ayodele Fayose](http://www.shineyoureye.org/person/adams-oshiomhole/ "Fayose Ayodele") | PDP | 2018
 
-Ondo State | [Olusegun Mimiko](http://www.shineyoureye.org/person/olusegun-mimiko/ "Olusegun Mimiko") | PDP | 2016
