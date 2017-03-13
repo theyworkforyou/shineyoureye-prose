@@ -1,21 +1,22 @@
 ---
 title: Elections
 slug: elections
-permalink: "/info/elections/"
+permalink: /info/elections/
 layout: page
+published: true
 ---
 
 ELECTIONS | TENURE ELAPSES	| ELECTIONS DATE 
 
 ------------- | -------------  | ------------- 
 
-Presidential Elections | May 29, 2019 | 2019
+Presidential Elections | May 29, 2019 | February 16, 2019
 
-National Assembly Elections | May 29, 2019 | 2019
+National Assembly Elections | May 29, 2019 | February 16, 2019
 
-[State Government Elections](http://www.shineyoureye.org/info/state-government-elections "State Government Elections") | May 29, 2019 | 2019
+[State Government Elections](http://www.shineyoureye.org/info/state-government-elections "State Government Elections") | May 29, 2019 | March 2, 2019
 
-State Assembly Elections | May 29, 2019 | 2019
+State Assembly Elections | May 29, 2019 | March 2, 2019
 
 []()
 
