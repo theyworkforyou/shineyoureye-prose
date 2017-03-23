@@ -2,6 +2,10 @@ language: ruby
 branches:
   only:
     - gh-pages
+notifications:
+  email:
+    recipients:
+      - shineyoureye-deployment@mysociety.org
 cache: bundler
 script:
   - git clone 'https://github.com/theyworkforyou/shineyoureye-sinatra.git'
