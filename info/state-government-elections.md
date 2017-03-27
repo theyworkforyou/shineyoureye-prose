@@ -9,10 +9,8 @@ STATE | INCUMBENT GOVERNOR | PARTY |ELECTION DATE
 
 ------------------|------------------|------------------|------------------
 
-Kogi State |[Idris Wada](http://www.shineyoureye.org/person/idris-wada/ "Idris Wada") | PDP | DONE (November 21, 2015)
+Anambra State |[Willie Obiano](/person/willie-obiano/ "Willie Obiano") | APGA | November 18, 2017
 
-Bayelsa State | [Seriake Dickson](http://www.shineyoureye.org/person/henry-seriake-dickson/ "Seriake Dickson") | PDP | DONE (December 5, 2015)
+Osun State | [Rauf Aregbesola](/person/rauf-aregbesola/ "Rauf Aregbesola") | APC | 2018
 
-Edo State | [Adams Oshiomhole](http://www.shineyoureye.org/person/adams-oshiomhole/ "Adams Oshiomhole") | APC | 2016
-
-Ondo State | [Olusegun Mimiko](http://www.shineyoureye.org/person/olusegun-mimiko/ "Olusegun Mimiko") | PDP | 2016
+Ekiti State | [Ayodele Fayose](/person/ayodele-fayose/ "Ayodele Fayose") | PDP | 2018
