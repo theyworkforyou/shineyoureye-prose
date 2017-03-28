@@ -8,7 +8,7 @@ March 17, 2016.
 
 At 10:50am, Blue Roof Event Centre was filled with the echo “APC! APC! APC”!
 
-Right about the same time, [Senator Adeola](http://www.shineyoureye.org/person/solomon-olamilekan-adeola/ "Senator Adeola") (AKA Yayi), 50 minutes late, was squeezed in by black-vested bodyguards, as his employees (constituents) stood in ovation seeking to, if possible, look through the numerous geles.
+Right about the same time, [Senator Adeola](/person/solomon-olamilekan-adeola/ "Senator Adeola") (AKA Yayi), 50 minutes late, was squeezed in by black-vested bodyguards, as his employees (constituents) stood in ovation seeking to, if possible, look through the numerous geles.
 
 ![LagosWestTHMMarch2016](/media_root/file_archive/1_kexu9g6.jpg "LagosWestTHMMarch2016")
 

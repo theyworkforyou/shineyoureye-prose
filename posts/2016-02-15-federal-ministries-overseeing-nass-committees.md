@@ -12,7 +12,7 @@ while Science & Technology, Solid Minerals and Water Resources Ministries each h
 
 Budget and National Planning, with 6 committees in each legislature, has the highest number of committees in the Senate. However, Finance Ministry has a total of 15 committees, making it the federal ministry with the highest number of committees in the National Assembly
 
-[View Table](http://www.shineyoureye.org/info/federal-ministries-and-nass-committees "View Table")
+[View Table](/info/federal-ministries-and-nass-committees "View Table")
 
 Miscellaneous committees that do not fall under any particular federal ministry are as follows:
 
@@ -52,4 +52,4 @@ Miscellaneous committees that do not fall under any particular federal ministry 
 
 - Public Petitions
 
-[View Table](http://www.shineyoureye.org/info/federal-ministries-and-nass-committees "View Table")
+[View Table](/info/federal-ministries-and-nass-committees "View Table")

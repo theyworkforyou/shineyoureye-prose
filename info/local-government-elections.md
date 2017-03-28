@@ -19,7 +19,7 @@ Akwa Ibom | PDP	| June 9, 2012 |
 
 Adamawa | APC 	| November 24, 2012 | 
 
-Abia 	| PDP 	|  | December 17, 2016
+Abia 	| PDP 	|  | December 21, 2016
 
 Bauchi | APC 	|  | 
 
@@ -33,7 +33,7 @@ Cross River | PDP  | September 21, 2013 |
 
 Delta   | PDP 	| October 25, 2014 | 
 
-Ebonyi 	| PDP 	| October 5, 2013 | 
+Ebonyi 	| PDP 	| October 5, 2013 | April 22, 2017
 
 Edo 	| APC 	| April 20, 2013 | 
 
@@ -47,7 +47,7 @@ Gombe 	| PDP 	| February 23, 2013 |
 
 Imo* 	| APC   |  |	 
 
-Jigawa 	| APC 	| January 18, 2014 | 
+Jigawa 	| APC 	| January 18, 2014 | July 1, 2017
 
 Kaduna 	| APC 	| December 1, 2012 | 
 
@@ -73,7 +73,7 @@ Ondo 	| PDP 	|  | April 23, 2016
 
 Osun 	| APC 	|  | 
 
-Oyo 	| APC 	| December 15, 2007 | February 11, 2017
+Oyo 	| APC 	| December 15, 2007 | 
 
 Plateau | APC	| February 25, 2014 | 
 
@@ -81,7 +81,7 @@ Rivers 	| PDP  | May 23, 2015 |
 
 Sokoto 	| APC 	| July 23, 2011 | March 12, 2016
 
-Taraba 	| PDP 	| May 12, 2012 | 
+Taraba 	| PDP 	| May 12, 2012 | February 25, 2017
 
 Yobe 	| APC 	| December 28, 2013 | February 11, 2017
 

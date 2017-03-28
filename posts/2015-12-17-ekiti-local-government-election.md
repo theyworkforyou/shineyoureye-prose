@@ -10,7 +10,7 @@ layout: post
 
 ![Ekiti LG Polls](/media_root/file_archive/ekiti.png "Ekiti LG Polls")
 
-The first of local government [elections](http://www.shineyoureye.org/info/local-government-elections "LG Polls") in this new political dispensation will take place tomorrow in Ekiti State. 
+The first of local government [elections](/info/local-government-elections "LG Polls") in this new political dispensation will take place tomorrow in Ekiti State. 
 
 However, the timing is precisely 14 months after the governor was sworn-in.
 
