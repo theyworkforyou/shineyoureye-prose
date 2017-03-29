@@ -1,0 +1,4 @@
+---
+featured: true
+published: true
+---
