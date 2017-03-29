@@ -32,4 +32,4 @@ A Bill for an Act to amend the CCB Act CAP C15 LFN 2004 and for other related ma
 
 > Though the majority will always have its way, let it be on record that I and the people of Lagos West don't support this amendment.
 
-10. The ‘Bill for an Act to amend the CCB and Tribunal Act CAP C15 LFN’ is forwarded to the [Judiciary, human Rights and Legal Matters Committee](/organisation/judiciary-human-rights-and-legal-matters-committee-senate/people/ "Judiciary, human Rights and Legal Matters Committee") to report back to the Senate in 2 Weeks - April 28, 2016.
+10. The ‘Bill for an Act to amend the CCB and Tribunal Act CAP C15 LFN’ is forwarded to the Judiciary, human Rights and Legal Matters Committee to report back to the Senate in 2 Weeks - April 28, 2016.
