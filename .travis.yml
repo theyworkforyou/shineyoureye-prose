@@ -18,7 +18,7 @@ script:
   # This is done by bin/deploy anyway, but we need the data for the tests:
   - bin/prepare-data dab18a0144a7df
   # Check that the tests pass, just in case:
-  - bundle exec rake test && bin/deploy
+  - bundle exec rake test && bin/deploy staging
 sudo: false
 rvm:
   - 2.3.1
