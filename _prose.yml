@@ -1,6 +1,6 @@
 prose:
   rooturl: ""
-  media: "media"
+  media: "media/prose-images"
   ignore: ["_prose.yml", ".travis.yml"]
   metadata:
     posts:
