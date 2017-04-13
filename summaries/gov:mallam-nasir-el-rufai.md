@@ -1,4 +1,3 @@
 ---
 featured: true
-published: true
 ---

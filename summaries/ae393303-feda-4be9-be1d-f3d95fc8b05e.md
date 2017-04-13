@@ -1,6 +1,5 @@
 ---
 featured: false
-published: true
 ---
 Target Achievement(s): To bring meaningful development to my people and the Nigerian people, thereby reducing poverty, provide development in areas of health care services, education, water resources, minerals development development and security of life and property
 
