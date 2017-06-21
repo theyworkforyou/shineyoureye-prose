@@ -1,13 +1,14 @@
 ---
 title: INEC 2014 Voter Registration and PVC Distribution
 slug: inec-2014-voter-registration-and-pvc-distribution
-permalink: "/info/inec-2014-voter-registration-and-pvc-distribution/"
+permalink: /info/inec-2014-voter-registration-and-pvc-distribution/
 layout: page
+published: true
 ---
 
 INEC Commencement of Distribution of Permanent Voter Cards and Continuous Voter Registration Exercise
 
-This is to inform the general public that the Independent National Electoral Comission (INEC) will commence the nationwide distribution of Permanent Voters’ Cards (PVCs) and the Continuous Voter Registration (CVR) exercise in three phases as follows:
+This is to inform the general public that the Independent National Electoral Comission (INEC) will commence the nationwide distribution of Permanent Voters’ Cards (PVCs) and the Continuous Voter Registration (CVR) exercise in three phases as follows: jjjjjjjjjjjjjjjjjj
 
  
 
