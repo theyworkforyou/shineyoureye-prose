@@ -7,4 +7,4 @@ title: Local Government Elections
 
 ![Kebbi LG Decides](http://www.shineyoureye.org/info/local-government-elections "Local Government Elections")
 
-![Lagos LG Decides](http://www.shineyoureye.org/info/local-government-elections "Local Government Elections")
+
