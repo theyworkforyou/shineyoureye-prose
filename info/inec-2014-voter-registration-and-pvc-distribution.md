@@ -8,7 +8,7 @@ published: true
 
 INEC Commencement of Distribution of Permanent Voter Cards and Continuous Voter Registration Exercise
 
-This is to inform the general public that the Independent National Electoral Comission (INEC) will commence the nationwide distribution of Permanent Voters’ Cards (PVCs) and the Continuous Voter Registration (CVR) exercise in three phases as follows:
+This is to inform the general public that the Independent National Electoral Comission (INEC) will commence the nationwide distribution of Permanent Voters’ Cards (PVCs) and the Continuous Voter Registration (CVR) exercise in three phases as follows:jj
 
  
 
