@@ -5,6 +5,6 @@ eventdate: '2017-07-15'
 title: Local Government Elections
 ---
 
-![#KebbiLGDecides](www.shineyoureye.org/info/local-government-elections)
+![Kebbi LG Decides](http://www.shineyoureye.org/info/local-government-elections "Local Government Elections")
 
-![#LagosLGDecides](www.shineyoureye.org/info/local-government-elections)
+![Lagos LG Decides](http://www.shineyoureye.org/info/local-government-elections "Local Government Elections")
