@@ -2,7 +2,7 @@
 published: true
 slug: local-government-elections
 eventdate: '2017-07-15'
-title: Kebbi LG Decides
+title: Local Government Elections
 layout: page
 ---
 
