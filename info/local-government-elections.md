@@ -5,7 +5,7 @@ permalink: "/info/local-government-elections/"
 layout: page
 ---
 
-### Local Government Elections in Nigeria (as of November 8, 2016)
+### Local Government Elections in Nigeria (as of April 7, 2017)
 
 ---------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Bauchi | APC 	|  |
 
 Bayelsa | PDP 	| March 23, 2013 | 
 
-Benue 	| APC 	| November 24, 2012 | 
+Benue 	| APC 	| November 24, 2012 | June 3, 2017
 
 Borno | APC 	|  | 
 
@@ -55,13 +55,13 @@ Kano 	| APC	| May 17, 2014 |
 
 Katsina | APC 	| August 2, 2014 | 
 
-Kebbi 	| APC 	| September 15, 2012 | 
+Kebbi 	| APC 	| September 15, 2012 | July 15, 2017
 
 Kogi 	| PDP 	| May 4, 2013 | 
 
 Kwara 	| APC 	| October 26, 2013 | 
 
-Lagos 	| APC 	| October 22, 2011| 
+Lagos 	| APC 	| October 22, 2011| July 22, 2017
 
 Nasarawa | APC	| March 22, 2014 | 
 
