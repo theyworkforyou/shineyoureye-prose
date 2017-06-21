@@ -1,7 +1,7 @@
 ---
 title: 'INEC Nationwide Continuous Voter Registration Exercise '
 slug: inec-nationwide-continuous-voter-registration-exercise
-permalink: /info/inec-2014-voter-registration-and-pvc-distribution/
+permalink: /info/inec-nationwide-continuous-voter-registration-exercise/
 layout: page
 published: true
 ---
