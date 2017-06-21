@@ -1,15 +1,38 @@
 ---
-title: INEC 2014 Voter Registration and PVC Distribution
-slug: inec-2014-voter-registration-and-pvc-distribution
-permalink: "/info/inec-2014-voter-registration-and-pvc-distribution/"
+title: 'INEC Nationwide Continuous Voter Registration Exercise '
+slug: inec-nationwide-continuous-voter-registration-exercise
+permalink: /info/inec-nationwide-continuous-voter-registration-exercise/
 layout: page
+published: true
 ---
 
-INEC Commencement of Distribution of Permanent Voter Cards and Continuous Voter Registration Exercise
+INEC COMMENCES THE YEAR ROUND NATIONWIDE CONTINUOUS VOTER REGISTRATION        (CVR) AND PERMANENT VOTER CARD (PVC) DISTRIBUTION EXERCISE
 
+**INTRODUCTION:**
+
+Continuous Voter Registration (CVR) is an exercise meant for the registration of citizens who turned 18 years of age after the last registration exercise; or those who for one reason or another could not register in the previous exercises.
+
+The 2010 Electoral Act (as amended) mandates the Commission to carry out CVR nationwide and to make available to every political party within     60 days. After each year, the names of the addresses of each person registered during that year.
+
+In pursuance of this requirement, the Commission has developed the modality for the conduct of the Continuous      Voter Registration (CVR) exercise nationwide.
+
+The date for the commencement for the CVR exercise is Thursday, 27th April, 2017 at the INEC Local Government offices nationwide and remains continuous all year round.
+
+**CVR CENTRES**: The Continuous Voter Registration shall be carried out in the Local Government Area offices or at such other locations within the Local Government Areas as may be designated by the Commission. The list of such centres for the CVR Exercise shall be publicized in the Local Government Areas.
 This is to inform the general public that the Independent National Electoral Comission (INEC) will commence the nationwide distribution of Permanent Voters’ Cards (PVCs) and the Continuous Voter Registration (CVR) exercise in three phases as follows:
 
  
+
+
+
+
+
+
+
+
+
+
+
 
 **PHASE ONE**
 
