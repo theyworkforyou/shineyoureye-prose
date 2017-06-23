@@ -1,6 +1,6 @@
 ---
 published: true
-slug: saraki-cct-buharis-fight-against-corruption-matters-arising-ishola-adebayo
+slug: saraki-cct-and-buhari-s-fight-against-corruption-matters-arising-ishola-adebayo
 title: >-
   Saraki, CCT and Buhari's fight against corruption: Matters Arising! –Ishola
   Adebayo
