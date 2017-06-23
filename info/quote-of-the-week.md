@@ -3,5 +3,5 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“Followers who tell the truth and leaders who listen to it, are an unbeatable combination.”_
-**- Warren Bennis**
+_“I am not saying the legislature cannot contribute to the budget, but I hold the view that it cannot increase the budget because they do not collect the revenue with which to run or implement the budget.”_
+**- Raji Fashola (Minister of Works, Power and Housing)**
