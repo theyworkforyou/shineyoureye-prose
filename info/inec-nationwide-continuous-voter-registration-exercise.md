@@ -33,7 +33,7 @@ The main activities for the Nationwide CVR are:
 
 To be Eligible for CVR, a person:
 
-1) Must be a citizen of Nigeria
+1) Must be a citizen of Nigeria.
 
 2) Must have attained the age of 18 years, on or before the registration day.
 
@@ -41,11 +41,11 @@ To be Eligible for CVR, a person:
 
 4) Is resident, work or originate from the local government covered by the Registration Area Centre.
 
-6) Not subject to any legal incapacity to vote under any law, rules or regulations in force in Nigeria
+6) Not subject to any legal incapacity to vote under any law, rules or regulations in force in Nigeria.
 
 7) Must present him/herself to the CVR officers for registration and is able to provide proof of identity,    age and nationality, if requested;
 
-8) Has registered before but his/her name/photograph/fingerprints were not captured; such a person must        provide his/her Temporary Voters Card (TVC)
+8) Has registered before but his/her name/photograph/fingerprints were not captured; such a person must        provide his/her Temporary Voters Card (TVC).
 
 9) Has PVC or TVC but names not on Register of Voters.
 
@@ -53,13 +53,13 @@ To be Eligible for CVR, a person:
 
 The registration process is based on the following:
 
-**CVR is done in person and not by proxy**
+-CVR is done in person and not by proxy.
 
-**Multiple registrations is not allowed**
+-Multiple registrations is not allowed.
 
-**Registration is a pre-requisite for voting in elections**
+-Registration is a pre-requisite for voting in elections.
 
-**CVR must include as many eligible citizens as poosible and registration must be accessible by all citizens**
+-CVR must include as many eligible citizens as poosible and registration must be accessible by all citizens.
 
 Temporary Voters Card (TVCs) will be issued to registrants at the point of registration, while the PVCs of those registered in Quarter 1 (Q1) should be ready for collection in Quarter 3 (Q3), and Quarter 2 (Q2) will be ready in Quarter 4 (Q4) etc.
 
