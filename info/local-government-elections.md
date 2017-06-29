@@ -1,8 +1,9 @@
 ---
 title: Local Government Elections
 slug: local-government-elections
-permalink: "/info/local-government-elections/"
+permalink: /info/local-government-elections/
 layout: page
+published: true
 ---
 
 ### Local Government Elections in Nigeria (as of April 7, 2017)
@@ -12,7 +13,7 @@ layout: page
 STATE | GOVERNING PARTY	| PREVIOUS | MOST RECENT
 ------------- | -------------  | ------------- | -------------
 Anambra | APGA 	| January 11, 2014 |
-Akwa Ibom | PDP	| June 9, 2012 |
+Akwa Ibom | PDP	| June 9, 2012 | November 11, 2017
 Adamawa | APC 	| November 24, 2012 |
 Abia 	| PDP 	|  | December 21, 2016
 Bauchi | APC 	|  |
