@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“What we stand to lose at the advanced stage of conflict is more devastating than whatever gains we anticipate. All hands must be on deck to keep Nigeria as one entity.”_
+_“The process of recalling a senator ends in the chamber here. You need to bring it and convince all senators that the man is not performing.”_
 
-   **- Francis Alimikhena (Senator, Edo North)**
+   **Aliyu Sabi-Abdullahi (Senator, Niger North)**
