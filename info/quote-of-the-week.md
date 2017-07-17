@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“The process of recalling a senator ends in the chamber here. You need to bring it and convince all senators that the man is not performing.”_
+_“Many Nigerians have been jailed for stealing just N1000 and we are proposing a bill that will further promote corruption, no way it can’t happen as we can’t make separate laws for treasury looters in this country.”_
 
-   **Aliyu Sabi-Abdullahi (Senator, Niger North)**
+   **Ehiozuwa Johnson Agbonayinma(Federal House of Representatives, Egor/Ikpoba-okha)**
