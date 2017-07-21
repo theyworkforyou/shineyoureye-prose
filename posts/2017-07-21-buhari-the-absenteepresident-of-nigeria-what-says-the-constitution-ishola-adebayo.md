@@ -39,7 +39,4 @@ This is explained in Chapter VI, Section 144. Which says:
 
 In Turkey, Cemal Gürsel's presidency was terminated by the TBMM (Turkish Grand National Assembly) in accordance with the Constitution on March 28, 1966. 
 
-Hopefully, FEC will do the needful if Buhari is staying longer in vacation than necessary
-
-
-
+Hopefully, FEC will do the needful if Buhari stays longer in vacation than necessary.
