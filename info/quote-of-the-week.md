@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“Many Nigerians have been jailed for stealing just N1000 and we are proposing a bill that will further promote corruption, no way it can’t happen as we can’t make separate laws for treasury looters in this country.”_
+_“We must accept the fact that this nation belongs to us and we do not have any other nation on the face of the earth outside Nigeria. So, it’s incumbent on us to fix Nigeria and make it better not only for us but for generations yet unborn.”_
 
-   **Ehiozuwa Johnson Agbonayinma(Federal House of Representatives, Egor/Ikpoba-okha)**
+   **Rochas Okorocha(Governor, Imo State)**
