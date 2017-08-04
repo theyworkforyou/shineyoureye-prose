@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“It is therefore my submission that the burden that the privilege of leadership places upon us is such that our tenured positions in the executive and legislature must not be wasted on conflicts and division.”_
+_“We cannot belittle or weaken the institution because it is that institution that separates democracy from dictatorship. When you weaken the parliament, you have weakened democracy.”_
 
-   **Prof. Yemi Osinbajo(Acting President of Nigeria)**
+   **Bukola Saraki(Senate President)**
