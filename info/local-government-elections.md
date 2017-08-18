@@ -35,7 +35,7 @@ Kano 	| APC	| May 17, 2014 |
 Katsina | APC 	| August 2, 2014 |
 Kebbi 	| APC 	| September 15, 2012 | July 15, 2017
 Kogi 	| PDP 	| May 4, 2013 |
-Kwara 	| APC 	| October 26, 2013 | November 4, 2017
+Kwara 	| APC 	| October 26, 2013 | November 18, 2017
 Lagos 	| APC 	| October 22, 2011| July 22, 2017
 Nasarawa | APC	| March 22, 2014 |
 Niger 	| APC 	| October 8, 2011 |
