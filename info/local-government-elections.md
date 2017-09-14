@@ -25,7 +25,7 @@ Delta   | PDP 	| October 25, 2014 |
 Ebonyi 	| PDP 	| October 5, 2013 | April 22, 2017
 Edo 	| APC 	| April 20, 2013 |
 Ekiti 	| PDP 	|  | December 19, 2015
-Enugu 	| PDP 	| November 2, 2013 |
+Enugu 	| PDP 	| November 2, 2013 | November 4, 2017
 FCT   | APC |  |  March 19, 2016
 Gombe 	| PDP 	| February 23, 2013 |
 Imo* 	| APC   |  |	 
