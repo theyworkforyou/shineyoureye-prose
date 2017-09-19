@@ -9,10 +9,10 @@ Legal Aid Council of Nigeria provides free, qualitative and timely legal aid ser
 
 For Free Legal services
 
-*General Information*
+**GENERAL INFORMATION**
 info@legalaidcouncil.gov.ng
 
-*STATE OFFICES*
+**STATE OFFICES**
 Federal Secretariat Complex-08035486837
 
 F.C.T. Office-08039697287
@@ -87,7 +87,7 @@ Taraba State-08033928429
 
 Zamfara State-08026164604
 
-*HOT-LINE*
+**HOT-LINE**
 
 08034175847
 
