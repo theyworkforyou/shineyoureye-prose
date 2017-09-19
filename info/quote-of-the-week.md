@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“Until coming out of recession translates into meaningful improvement in peoples' lives, our work cannot be said to be done”_
+_“Over the years, our over-reliance on statutory transfers from the Federation Account has resulted in the unsustainable culture where 36 state commissioners of finance come to Abuja every month to collect their share of revenue derived from crude oil.”_
 
-   **President Muhammadu Buhari (President of the Federal Republic of Nigeria)**
+   **Prof. Yemi Osinbajo (Vice President of Nigeria)**
