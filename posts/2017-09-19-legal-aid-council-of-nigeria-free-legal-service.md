@@ -1,7 +1,8 @@
 ---
 published: true
-slug: an-awesome-headline
+slug: legal-aid-council-of-nigeria-free-legal-service
 title: 'Legal Aid Council of Nigeria: Free Legal Service'
+Layout: Post
 ---
 
 Legal Aid Council of Nigeria provides free, qualitative and timely legal aid services in Nigeria. They also ensure social justice and give voice to the voiceless.
