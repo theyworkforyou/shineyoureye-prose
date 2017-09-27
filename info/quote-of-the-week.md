@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“Over the years, our over-reliance on statutory transfers from the Federation Account has resulted in the unsustainable culture where 36 state commissioners of finance come to Abuja every month to collect their share of revenue derived from crude oil.”_
+_“To set this country on the path of greatness and prosperity, complete elimination of all forms of corrupt practices must be in the front burner and our collective consciousness always.”_
 
-   **Prof. Yemi Osinbajo (Vice President of Nigeria)**
+   **President Muhammadu Buhari (President of Nigeria)**
