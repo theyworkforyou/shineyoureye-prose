@@ -30,7 +30,7 @@ FCT   | APC |  |  March 19, 2016
 Gombe 	| PDP 	| February 23, 2013 |
 Imo* 	| APC   |  |	 
 Jigawa 	| APC 	| January 18, 2014 | July 1, 2017
-Kaduna 	| APC 	| December 1, 2012 |
+Kaduna 	| APC 	| December 1, 2012 | December 30, 2017
 Kano 	| APC	| May 17, 2014 |
 Katsina | APC 	| August 2, 2014 |
 Kebbi 	| APC 	| September 15, 2012 | July 15, 2017
@@ -43,7 +43,7 @@ Ogun 	| APC 	| July 22, 2013 | October 8, 2016
 Ondo 	| PDP 	|  | April 23, 2016
 Osun 	| APC 	|  |
 Oyo 	| APC 	| December 15, 2007 |
-Plateau | APC	| February 25, 2014 |
+Plateau | APC	| February 25, 2014 | February 17, 2018
 Rivers 	| PDP  | May 23, 2015 |
 Sokoto 	| APC 	| July 23, 2011 | March 12, 2016
 Taraba 	| PDP 	| May 12, 2012 | February 25, 2017
