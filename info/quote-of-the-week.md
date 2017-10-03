@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“To set this country on the path of greatness and prosperity, complete elimination of all forms of corrupt practices must be in the front burner and our collective consciousness always.”_
+_“n as much as you continue to have bad governance, people will continue to agitate across the country.”_
 
-   **President Muhammadu Buhari (President of Nigeria)**
+   **Nyesom Wike (River State Governor)**
