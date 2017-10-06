@@ -1,0 +1,23 @@
+---
+published: true
+slug: ngo-regulatory-bill-and-the-citizens-outcry-matters-arising-ishola-adebayo
+title: 'NGO Regulation Bill and the Citizens’ Outcry: Matters Arising – Ishola Adebayo'
+Layout: Post
+---
+There is a controversial bill now making its way through the National Assembly. Titled “Non-Governmental Organization (NGO) Regulation Bill”, it has already passed first and second readings in the House of Representatives and is now at the committee stage. It is sponsored by Deputy Majority Leader of the House, Hon. Buba Jibril. Going by the letter and spirit of the bill, it constitutes a deliberate violation of the Nigerian citizens guaranteed freedom of thought, opinion and expression, and freedom of association, as contained both in Nigeria’s 1999 Constitution (as amended) and in international law to which Nigeria is a signatory.
+
+The NGO Bill plans to set up a Commission for regulation of NGOs in Nigeria on all thematic areas. The Bill proposes a Commission with board members made up of several government representatives with three NGO representatives, where latter members must be approved by a National Voluntary Organization Agency before they can be appointed as members of the board. It is of course submitted that a discriminatory method of appointment singled out for NGO members is undemocratic and should not be considered.
+
+The proposed bill creates bureaucracy for the enjoyment of a free and civil society, not mindful of Constitutional guarantee to exist in association whether registered or not. For instance, Sec. 11 of the NGO Bill requires all NGOs to be registered with the commission and issued a license to operate in Nigeria. However, Sec. 13 (1) of the Bill gives broad powers to the NGO commission to receive, approve or refuse registration of the NGO, if it so pleases, thus making it near impossible to associate. The proposed bill does not acknowledge the registration covered on the Company and Allied Matters Act, 1990 (CAMA) which is the law that incorporation of companies in Nigeria. 
+
+In that regard, an “un-registered NGO due to refusal of the commission, cannot operate in Nigeria even if such an NGO has already been registered by the Corporate Affairs Commission and deemed a body corporate entity with legal powers to sue and be sued. Again issuing another registration certificate to an NGO that has been registered under CAMA is a duplication of work by government agencies and a waste of tax payers’ money.
+
+Another major concern with the NGO Regulation Bill is its possibility of affecting citizenship rights, when it provides a blanket clause on the requirement for “work permit in respect of prospective employees of a registered NGO” before such employee can work with the NGO. 
+
+The law does not here differentiate prospective employees as “expatriate/foreigners” from citizens. According to Wikipedia, “Work permit is the permission to take a job within a foreign country.” Invariably therefore citizens working in Nigeria cannot be heard to have obtained work permit before exercising their citizens’ right to work free of immigration laws.
+
+No doubt, as any other human endeavour, NGOs can engage in excesses, such as corrupt practices and the promotion of strange foreign traditions such as same-sex marriage or behaviour which are against our laws and lore. There is however enough laws and regulations already existing to bring errant NGOs and their promoters to book. We do not need any additional effort in this pursuit, so the NGO Regulation Bill should be rested.
+
+Sadly, this dangerous NGO Regulation bill came at a time when the federal government was toying with the idea of creating a commission to regulate social media content for citizens. A similar measure earlier sponsored by Hon. Jibril’s counterpart in the Senate, Deputy Majority Leader, Bala Ibn Na’Allah, had failed to pass through the upper chamber. But ironically, citizens on social media channels are routinely persecuted across the country with the public space being increasingly circumscribed by a government that came to power on the agenda of “Change”.
+
+This obnoxious bill does more than merely seek to stifle free speech, freedom of association and freedom of assembly of Nigerian citizens. It will kill the incredible network of voluntary organizations holding the nation together. At a time of lean resources, the bill also seeks to create another meaningless agency that will add to the already bloated government overheads. It is hoped that all stakeholders in the national democratic project will work collectively to ensure that this bill does not see the light of day.
