@@ -21,7 +21,7 @@ Bayelsa | PDP 	| March 23, 2013 |
 Benue 	| APC 	| November 24, 2012 | June 3, 2017
 Borno | APC 	|  |
 Cross River | PDP  | September 21, 2013 |
-Delta   | PDP 	| October 25, 2014 |
+Delta   | PDP 	| October 25, 2014 | January 6, 2018
 Ebonyi 	| PDP 	| October 5, 2013 | April 22, 2017
 Edo 	| APC 	| April 20, 2013 |
 Ekiti 	| PDP 	|  | December 19, 2015
