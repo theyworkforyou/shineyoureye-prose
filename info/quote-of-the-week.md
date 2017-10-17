@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“In as much as you continue to have bad governance, people will continue to agitate across the country.”_
+_“In this modern time, we cannot fight corruption alone, but we need every Nigerian to join the anti-graft war because of the negative effect of corruption. Corruption does not discriminate against ethnicity, religion or political affiliation.”_
 
-   **Nyesom Wike (River State Governor)**
+   **Ibrahim Magu (Acting EFCC Chairman)**
