@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“In this modern time, we cannot fight corruption alone, but we need every Nigerian to join the anti-graft war because of the negative effect of corruption. Corruption does not discriminate against ethnicity, religion or political affiliation.”_
+_“For our democracy to thrive and continue to be strong, we need strong party in government and strong party in the opposition. It has to be that way; otherwise, party in government will get away with impunity and that is not good for democracy.”_
 
-   **Ibrahim Magu (Acting EFCC Chairman)**
+   **Olusegun Obasanjo (Former President of Nigeria)**
