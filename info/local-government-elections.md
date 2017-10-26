@@ -41,7 +41,7 @@ Nasarawa | APC	| March 22, 2014 |
 Niger 	| APC 	| October 8, 2011 |
 Ogun 	| APC 	| July 22, 2013 | October 8, 2016
 Ondo 	| PDP 	|  | April 23, 2016
-Osun 	| APC 	|  |
+Osun 	| APC 	|  | January 27, 2018
 Oyo 	| APC 	| December 15, 2007 |
 Plateau | APC	| February 25, 2014 | February 17, 2018
 Rivers 	| PDP  | May 23, 2015 |
