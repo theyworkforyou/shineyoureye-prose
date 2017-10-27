@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“For our democracy to thrive and continue to be strong, we need strong party in government and strong party in the opposition. It has to be that way; otherwise, party in government will get away with impunity and that is not good for democracy.”_
+_“Corruption fight is a cardinal focus of this present administration and government is poised to tame the monster that is ravaging our economy and causing untold hardship to its citizens.”_
 
-   **Olusegun Obasanjo (Former President of Nigeria)**
+   **Prof. Yemi Osinbajo (Vice President of Nigeria)**
