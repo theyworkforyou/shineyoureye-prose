@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“The current rate of rural-to-urban migration is alarming and unsustainable – congesting the cities and stretching resources to breaking point, while undermining the economic viability of some states. People must be able to see a future for themselves in every corner of this country, not just in the big cities.”_
+_“The leaders there today will vacate the place tomorrow so if you the youths don’t start preparing today by getting mentored and learning the ropes, there is no way you will perform very well if the mantle of leadership falls on you tomorrow. So, there is need for you to go in there and participate”._
 
-   **Bukola Saraki (Senator, Kwara Central)**
+   **Prof. Yemi Osinbajo (Vice President of Nigeria)**
