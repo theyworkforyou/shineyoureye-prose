@@ -1,7 +1,8 @@
 ---
 published: true
-slug: EiE Fundraising
+slug: eie-fundraising
 eventdate: '2017-12-17 13:24 +0100'
 title: EiE Fundraising
 ---
-![]({{site.baseurl}}/media/prose-images/EiE%20Fundraising.png)
+![EiE Fundraising.png]({{site.baseurl}}/media/prose-images/EiE Fundraising.png)
+
