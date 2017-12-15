@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“The leaders there today will vacate the place tomorrow so if you the youths don’t start preparing today by getting mentored and learning the ropes, there is no way you will perform very well if the mantle of leadership falls on you tomorrow. So, there is need for you to go in there and participate”._
+_“It is futile to point fingers or cast blame on any one administration and/or government programme. Nigeria’s youths deserve our immediate interest, best thinking and above all, our best efforts to create workable solutions to include their concerns in our national investment framework.”_
 
-   **Prof. Yemi Osinbajo (Vice President of Nigeria)**
+   **Bukola Saraki (Senate President)**
