@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“Any nation that does not emphasize integrity will always fail. The values of integrity and hardwork are necessary for the development of our nation.”_
+_“There is the need for all of us to sustain efforts at building confidence in the country's democratic institutions, notably the judiciary and the INEC.”_
 
-   **Prof. Yemi Osinbajo(Vice President of Nigeria)**
+   **President Muhammadu Buhari (President of Nigeria)**
