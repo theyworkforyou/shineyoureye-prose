@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“There is the need for all of us to sustain efforts at building confidence in the country's democratic institutions, notably the judiciary and the INEC.”_
+_“We can collectively save ourselves from the position we find ourselves.  It will not come through self-pity, fruitless complaint or protest, but through constructive and positive engagement and collective action for the good of our nation and us and our children and their children.”_
 
-   **President Muhammadu Buhari (President of Nigeria)**
+   **Olusegun Obasanjo (Former President of Nigeria)**
