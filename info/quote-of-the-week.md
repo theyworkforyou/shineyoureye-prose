@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“We can collectively save ourselves from the position we find ourselves.  It will not come through self-pity, fruitless complaint or protest, but through constructive and positive engagement and collective action for the good of our nation and us and our children and their children.”_
+_“But as long as we run the current system of government, it is not even a matter of debate. We must uphold the core principles of separation of powers because our development, peace and security depend on it.”_
 
-   **Olusegun Obasanjo (Former President of Nigeria)**
+   **Bukola Saraki (Senator, Kwara Central)**
