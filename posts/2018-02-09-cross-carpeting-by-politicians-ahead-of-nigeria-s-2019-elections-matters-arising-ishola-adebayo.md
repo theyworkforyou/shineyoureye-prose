@@ -1,7 +1,7 @@
 ---
 published: true
 slug: >-
-  cross-carpeting-by-politicians-ahead-of-nigerias-2019-elections-matters-arising-ishola-adebayo
+  cross-carpeting-by-politicians-ahead-of-nigeria-s-2019-elections-matters-arising-ishola-adebayo
 title: >-
   Cross Carpeting by Politicians ahead of Nigeria’s 2019 Elections: Matters
   Arising! -Ishola Adebayo
