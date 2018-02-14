@@ -42,7 +42,7 @@ Niger 	| APC 	| October 8, 2011 |
 Ogun 	| APC 	| July 22, 2013 | October 8, 2016
 Ondo 	| PDP 	|  | April 23, 2016
 Osun 	| APC 	|  | January 27, 2018
-Oyo 	| APC 	| December 15, 2007 |
+Oyo 	| APC 	| December 15, 2007 | May 12, 2018
 Plateau | APC	| February 25, 2014 |
 Rivers 	| PDP  | May 23, 2015 |
 Sokoto 	| APC 	| July 23, 2011 | March 12, 2016
