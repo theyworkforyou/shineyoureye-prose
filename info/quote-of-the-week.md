@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“But as long as we run the current system of government, it is not even a matter of debate. We must uphold the core principles of separation of powers because our development, peace and security depend on it.”_
+_“This is the time for us to reinvent the will and tap into the resourcefulness of the younger generation, stimulate their entrepreneurial initiatives and provoke a conducive environment to grow the national economy both at the micro and macro levels.”_
 
-   **Bukola Saraki (Senator, Kwara Central)**
+   **General Ibrahim Babangida (Former President of Nigeria)**
