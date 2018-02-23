@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“This is the time for us to reinvent the will and tap into the resourcefulness of the younger generation, stimulate their entrepreneurial initiatives and provoke a conducive environment to grow the national economy both at the micro and macro levels.”_
+_"The question of the capacity of the state to deliver on its most important role of security, justice and rule of law is often threatened because we have not invested enough in institutions that make it possible."_
 
-   **General Ibrahim Babangida (Former President of Nigeria)**
+   **Prof. Yemi Osinbajo (Vice President of Nigeria)**
