@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_"The question of the capacity of the state to deliver on its most important role of security, justice and rule of law is often threatened because we have not invested enough in institutions that make it possible."_
+_"But I think that the important thing to bear in mind about Nigeria’s anti-corruption fight is that the government has done what it ought to do by focusing on grand corruption. Grand corruption is the type we experienced years before when, for example, $15 billion was lost in defence contracts.”_
 
    **Prof. Yemi Osinbajo (Vice President of Nigeria)**
