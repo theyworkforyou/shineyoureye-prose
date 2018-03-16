@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_"But I think that the important thing to bear in mind about Nigeria’s anti-corruption fight is that the government has done what it ought to do by focusing on grand corruption. Grand corruption is the type we experienced years before when, for example, $15 billion was lost in defence contracts.”_
+_"The Dapchi and Chibok pupils are our girls and must enjoy our protection. They must live to achieve their individual ambitions; to be great women of tomorrow. It is our duty to protect them. We are determined to restore peace to all parts of the country – from the West to the East; North to the South.”_
 
-   **Prof. Yemi Osinbajo (Vice President of Nigeria)**
+   **President Muhammadu Buhari (President of Nigeria)**
