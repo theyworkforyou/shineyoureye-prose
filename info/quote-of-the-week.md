@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_"The Dapchi and Chibok pupils are our girls and must enjoy our protection. They must live to achieve their individual ambitions; to be great women of tomorrow. It is our duty to protect them. We are determined to restore peace to all parts of the country – from the West to the East; North to the South.”_
+_"If we stick to the policy of ensuring that as far as public finance is concerned, there is no impunity and we hold people to account, I am confident that this country has what it takes to make the kind of progress we deserve to make as a nation.”_
 
-   **President Muhammadu Buhari (President of Nigeria)**
+   **Prof. Yemi Osinbajo (Vice President of Nigeria)**
