@@ -5,6 +5,7 @@ slug: >-
 title: >-
   Why Active Citizens Should Begin to Organize; Taraba & Gombe as Case Study!
   -Ishola Adebayo
+Layout: Post
 ---
 The beginning of good governance which is the responsibility of all arms and all the tiers of government is openness, engagement and transparency. It does not matter what else we try to do as long as one arm of government shrouds its activities, administration and management in opaqueness and practices rife with corruption. Only very little, if anything at all, can be achieved in putting Nigeria on the path of sustainable and enduring democratic system, development and progress if Nigerian politicians continue with this trend.
 
@@ -22,4 +23,3 @@ Rather than result to unrest and heating up the polity, Active Citizens’ shoul
 
 By so doing, we will be breeding a community of concerned and active citizens which is essentially what Nigeria requires for social justice and equity to prevail.  
 Ask questions anywhere and everywhere!
-
