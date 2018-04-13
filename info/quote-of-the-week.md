@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_"Our insistence on probity is to encourage people to be accountable and accept honesty as a lifestyle so as to secure the future of our youths.”_
+_"When we allow laws to be violated and nobody takes action, it then allows for impunity and when you give room to impunity, it will result to anarchy which will in turn breed a lawless society.”_
 
-   **President Muhammadu Buhari (President of Nigeria)**
+   **Samuel Ortom (Governor of Benue State)**
