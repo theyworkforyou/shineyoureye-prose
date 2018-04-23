@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_"When we allow laws to be violated and nobody takes action, it then allows for impunity and when you give room to impunity, it will result to anarchy which will in turn breed a lawless society.”_
+_"We very strongly believe that this country has the talent and these young people demonstrated it eloquently. They have the talent and the creativity and all that it takes to make the kind of difference that could be done in technology.”_
 
-   **Samuel Ortom (Governor of Benue State)**
+   **Prof. Yemi Osinbajo (Vice President of Nigeria)**
