@@ -30,7 +30,7 @@ FCT   | APC |  |  March 19, 2016
 Gombe 	| PDP 	| February 23, 2013 |
 Imo* 	| APC   |  |	 
 Jigawa 	| APC 	| January 18, 2014 | July 1, 2017
-Kaduna 	| APC 	| December 1, 2012 | December 30, 2017
+Kaduna 	| APC 	| December 1, 2012 | May 12, 2018
 Kano 	| APC	| May 17, 2014 | February 10, 2018
 Katsina | APC 	| August 2, 2014 |
 Kebbi 	| APC 	| September 15, 2012 | July 15, 2017
