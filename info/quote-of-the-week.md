@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“While a free and objective media can foster transparency by disseminating important electoral information, a stifled or compromised media is capable of undermining the electoral process, ultimately weakening democracy.”_
+_“Integrity and credibility is one out of so many qualities a leader needs especially in a troublesome country like Nigeria.”_
 
-   **Prof. Mahmood Yakubu (INEC Chairman)**
+   **Shehu Sani (Senator, Kaduna Central)**
