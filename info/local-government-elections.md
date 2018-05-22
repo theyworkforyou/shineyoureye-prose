@@ -44,7 +44,7 @@ Ondo 	| PDP 	|  | April 23, 2016
 Osun 	| APC 	|  | January 27, 2018
 Oyo 	| APC 	| December 15, 2007 | May 12, 2018
 Plateau | APC	| February 25, 2014 |
-Rivers 	| PDP  | May 23, 2015 |
+Rivers 	| PDP  | May 23, 2015 | June 16, 2018
 Sokoto 	| APC 	| July 23, 2011 | March 12, 2016
 Taraba 	| PDP 	| May 12, 2012 | February 25, 2017
 Yobe 	| APC 	| December 28, 2013 | February 11, 2017
