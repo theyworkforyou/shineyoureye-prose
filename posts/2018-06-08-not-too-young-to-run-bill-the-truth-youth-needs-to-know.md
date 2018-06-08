@@ -1,7 +1,8 @@
 ---
 published: true
-slug: an-awesome-headline
+slug: not-too-young-to-run-bill-the-truth-youth-needs-to-know
 title: 'Not Too Young To Run Bill: The Truth Youth Needs To Know'
+Layout: Post
 ---
 
 It is no longer news that the longly awaited ‘#NotTooYoungtoRun’ bill has been finally signed into law by President Muhammadu Buhari. The bill was initially championed by a PDP member, Hon. Tony Nwulu, representing Oshodi Isolo, Lagos at the Federal House of Representatives. Hon Tony Nwulu presented the bill before the National Assembly in 2016. Ever since then, the buzz around the campaign was strongly felt across major social and new media channels. 
