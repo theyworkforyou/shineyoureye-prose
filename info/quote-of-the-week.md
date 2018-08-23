@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“If you want to be elected, you have to be very clear from the beginning on what you want to do, for the people and you should hit the ground running from day one.”_
+_“I don’t think you people voted us only to pay salaries. You are looking for good roads, electricity, education and others. So, we can’t do magic. It’s only when we have the funds that we can do all those things.”_
 
-   **Prof. Attahiru Jega (Former INEC Chairman)**
+   **Abdulaziz Yari (Zamfara State Governor)**
