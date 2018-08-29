@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“I don’t think you people voted us only to pay salaries. You are looking for good roads, electricity, education and others. So, we can’t do magic. It’s only when we have the funds that we can do all those things.”_
+_“Nigeria will no longer be a byword for corruption and plundering of public resources. That is the path we have chosen to take, and our country will eventually get to a new shore.”_
 
-   **Abdulaziz Yari (Zamfara State Governor)**
+   **Muhammadu Buhari (President of Nigeria)**
