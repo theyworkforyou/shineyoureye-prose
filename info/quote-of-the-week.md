@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“Educating our young girls is the foundation for Nigeria's growth and development.”_
+_“The work for Nigeria is not complete for as long there is anyone Nigerian who goes to bed on an empty stomach.”_
 
-   **Ngozi Okonjo-Iweala (Ex- Minister of Finance)**
+   **Ibrahim Babangidda (Former Nigerian President)**
