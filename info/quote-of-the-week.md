@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“The work for Nigeria is not complete for as long there is anyone Nigerian who goes to bed on an empty stomach.”_
+_“No matter how much you pray or fast, our country cannot grow without some of us deciding to do the hard work that makes nations work…”_
 
-   **Ibrahim Babangidda (Former Nigerian President)**
+   **Yemi Osinbajo (Vice President of Nigeria)**
