@@ -3,6 +3,6 @@ published: true
 slug: quote-of-the-week
 title: Quote of the Week
 ---
-_“No matter how much you pray or fast, our country cannot grow without some of us deciding to do the hard work that makes nations work…”_
+_“The independence of the judiciary, the legislature and the executive arms of government would uphold and deepen democratic culture in the country…”_
 
-   **Yemi Osinbajo (Vice President of Nigeria)**
+   **Samuel Ortom (Governor of Benue State)**
