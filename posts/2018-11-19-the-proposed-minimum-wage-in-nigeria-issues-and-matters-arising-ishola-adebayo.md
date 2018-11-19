@@ -4,7 +4,7 @@ slug: the-proposed-minimum-wage-in-nigeria-issues-and-matters-arising-ishola-ade
 title: >-
   The Proposed Minimum Wage in Nigeria: Issues and Matters Arising! ~Ishola
   Adebayo
-Layout: Post
+Layout: post
 ---
 
 There is no better way to subtly impoverish and, most likely, kill a people than to drastically reduce their purchasing power. This is aptly what the managers of the Nigerian economy are doing right now. 
