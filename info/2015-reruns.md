@@ -1,8 +1,9 @@
 ---
-title: 2015 RERUNS
+title: RERUNS
 slug: 2015-reruns
-permalink: "/info/2015-reruns/"
+permalink: /info/2015-reruns/
 layout: page
+published: true
 ---
 
 Senate
