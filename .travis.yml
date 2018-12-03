@@ -21,4 +21,4 @@ script:
   - bundle exec rake test && travis_wait bin/deploy production
 sudo: false
 rvm:
-  - 2.3.1
+  - 2.5.3
