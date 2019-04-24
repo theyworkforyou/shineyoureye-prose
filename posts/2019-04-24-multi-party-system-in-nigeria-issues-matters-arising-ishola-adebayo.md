@@ -13,7 +13,7 @@ While it is not clear what specific measure(s) the body may take, the extant ele
 
 Indeed, political parties are a necessity for the Nigerian democratic form of government to the extent that no person can aspire to public office unless ‘he is a member of a political party and is sponsored by that party’, as Section 65 (2) (b) provides.
 
-Of the 91 political parties that appeared on the ballot papers in the 2019 general elections the presidency was won by one of the two main parties; the governorship positions were also shared by the two major parties. None of the new associations won any gubernatorial election. Beside the two major parties, only five others namely Labour Party (LP), All Progressives Grand Alliance (APGA), Young Progressive Party (YPP), People’s Redemption Party (PRP), and Action Alliance (AA) won one or more seats in the federal legislature.
+Of the 91 political parties that appeared on the ballot papers in the 2019 general elections the presidency was won by one of the two main parties; the governorship positions were also shared by the two major parties. None of the new associations won any gubernatorial election. Beside the two major parties, only ten others won one or more seats in the federal legislature.
 
 Apart from making the ballot paper long, somewhat unwieldy in the hands of voters, this poor showing does not speak of preparedness for the tough challenge of the contest to govern Nigeria, or even of a purposeful seriousness. Truth be told, these parties have grossly underperformed.
 
