@@ -17,7 +17,3 @@ State Assembly Elections | May 29, 2019 | March 2, 2019
 [Local Government Elections](/info/local-government-elections "Local Government Elections")
 
 ==================
-
-[2015 Reruns](/info/2015-reruns "2015 Reruns")
-
-==================
