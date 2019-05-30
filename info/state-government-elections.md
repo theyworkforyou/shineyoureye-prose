@@ -8,6 +8,5 @@ published: true
 
 STATE | INCUMBENT GOVERNOR | PARTY |ELECTION DATE
 ------------------|------------------|------------------|------------------
-Anambra State |Willie Obiano| APGA | November 18, 2017
-Osun State | Rauf Aregbesola| APC | September 22, 2018
-Ekiti State |Ayodele Fayose| PDP | July 14, 2018
+Kogi State | Yahaya Bello | APC | November 16, 2019
+Bayelsa State | Seiake Dickson | PDP | November 16, 2019
