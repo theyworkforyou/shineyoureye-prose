@@ -16,13 +16,13 @@ A Bill for an Act to amend the CCB Act CAP C15 LFN 2004 and for other related ma
 
 3. [Senator Jibrin Barau](/person/jibrin-barau/ "Senator Jibrin Barau") (Kano North) – says amendment is about fairness in our judicial system.
 
-4. [Senator Samuel Anyanwu](/person/samuel-anyanwu/ "Senator Samuel Anyanwu") (Imo East) declares supports.
+4. Senator Samuel Anyanwu (Imo East) declares supports.
 
-5. [Senator Biodun Olujimi](/person/biodun-christine-olujimi/ "Senator Biodun Olujimi") (Ekiti South) says 'if you don't assist your neighbour when his house is burning, it will extend to yours'.
+5. Senator Biodun Olujimi (Ekiti South) says 'if you don't assist your neighbour when his house is burning, it will extend to yours'.
 
-6. [Senator Yahaya Abdullahi](/person/yahaya-abdullahi/ "Senator Yahaya Abdullahi") (Kebbi North) supports, but says Senate should however be mindful of timing for the sake of public perception. 
+6. Senator Yahaya Abdullahi (Kebbi North) supports, but says Senate should however be mindful of timing for the sake of public perception. 
 
-7. [Senator Abu Ibrahim](/person/ibrahim-abu/ "Senator Abu Ibrahim") (Katsina South) - says the timing is right!
+7. Senator Abu Ibrahim (Katsina South) - says the timing is right!
 
 8. [DSP Senator Ike Ekweremadu](/person/ekweremadu-ike/ "Senator Ike Ekweremadu") (Enugu West) – says that the amendment has nothing to do with SP's case at the CCT; puts the question forward and the ‘Bill for an Act to amend the CCB and Tribunal Act CAP C15 LFN’ passes 2nd reading.
 
