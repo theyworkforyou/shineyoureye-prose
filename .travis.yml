@@ -16,7 +16,7 @@ script:
   - cd shineyoureye-sinatra
   - git show -s --oneline
   # This is done by bin/deploy anyway, but we need the data for the tests:
-  - bin/prepare-data 68b19308fbf4c0c6966ee6fc68d5437a7d29c2b7
+  - bin/prepare-data 58119e69e1c751d65b5de74181cabe041dc43aac
   # Check that the tests pass, just in case:
   - bundle exec rake test && travis_wait bin/deploy production
 sudo: false
