@@ -7,7 +7,7 @@ title: Profile of the 9th National Assembly Newly Elected Leaders
     <div class="col-sm-8 col-md-9">
         <header class="person__key-info">
 
-            <h2>Senator</h2>
+            <h2>Senate President</h2>
             <h1 class="person__name">Ahmad Ibrahim Lawan</h1>
 
 
@@ -115,7 +115,7 @@ title: Profile of the 9th National Assembly Newly Elected Leaders
     <div class="col-sm-8 col-md-9">
         <header class="person__key-info">
 
-            <h2>Senator</h2>
+            <h2>Deputy Senate President</h2>
             <h1 class="person__name">Ovie Omo Agege</h1>
 
 
@@ -193,7 +193,7 @@ title: Profile of the 9th National Assembly Newly Elected Leaders
     <div class="col-sm-8 col-md-9">
         <header class="person__key-info">
 
-            <h2>Representative</h2>
+            <h2>Speaker, House of Representatives</h2>
             <h1 class="person__name">Femi Gbajabiamila</h1>
 
 
@@ -290,7 +290,7 @@ title: Profile of the 9th National Assembly Newly Elected Leaders
     <div class="col-sm-8 col-md-9">
         <header class="person__key-info">
 
-            <h2>Representative</h2>
+            <h2>Deputy Speaker, House of Representatives</h2>
             <h1 class="person__name">Ahmed Idris</h1>
 
 
