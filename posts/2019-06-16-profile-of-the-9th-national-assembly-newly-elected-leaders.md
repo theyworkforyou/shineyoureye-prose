@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 slug: profile-of-the-9th-national-assembly-newly-elected-leaders
 title: Profile of the 9th National Assembly Newly Elected Leaders
 ---
