@@ -3,7 +3,7 @@ published: false
 slug: profile-of-the-9th-national-assembly-newly-elected-leaders
 title: Profile of the 9th National Assembly Newly Elected Leaders
 ---
-```
+```html
 <div class="row">
     <div class="col-sm-8 col-md-9">
         <header class="person__key-info">
@@ -102,7 +102,8 @@ title: Profile of the 9th National Assembly Newly Elected Leaders
             alt="Ahmad Ibrahim Lawan">
     </div>
 </div>
-
+<br>
+---
 <div class="row">
     <div class="col-sm-4 col-md-3">
 
@@ -186,7 +187,8 @@ title: Profile of the 9th National Assembly Newly Elected Leaders
         </section>
     </div>
 </div>
-
+<br>
+---
 
 <div class="row">
     <div class="col-sm-8 col-md-9">
@@ -276,7 +278,8 @@ title: Profile of the 9th National Assembly Newly Elected Leaders
             alt="Femi Gbajabiamila">
     </div>
 </div>
-
+<br>
+---
 <div class="row">
     <div class="col-sm-4 col-md-3">
 
