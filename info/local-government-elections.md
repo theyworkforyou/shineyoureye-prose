@@ -20,38 +20,38 @@ Anambra | APGA 	| January 11, 2014 |  |Local governments run by Caretaker Commit
 Akwa Ibom | PDP	| June 9, 2012 | November 11, 2017  |Have elected Chairmen. 
 Adamawa | APC 	| November 24, 2012 |  |Caretaker Committee appointed to head the administration after the end of elected Chairmen’s tenure.
 Abia 	| PDP 	|  | December 21, 2016  |The elected Chairmen have completed their tenure and the governor has appointed Transition Committee Chairmen.
-Bauchi | APC 	|  |  |Governor sacked all Caretaker Committee, Director of Administration in each LGA is expected to take over administration.
+Bauchi | PDP 	|  |  |Governor sacked all Caretaker Committee, Director of Administration in each LGA is expected to take over administration.
 Bayelsa | PDP 	| March 23, 2013 |July 27, 2019  |Local governments run by Caretaker Committees.
-Benue 	| APC 	| November 24, 2012 | June 3, 2017  |Tenure of elected council officials ended in June 2019, Governor appointed Caretaker Committee to take over administration.
+Benue 	| PDP 	| November 24, 2012 | June 3, 2017  |Tenure of elected council officials ended in June 2019, Governor appointed Caretaker Committee to take over administration.
 Borno | APC 	|  |  |Local government run by Caretaker Committees.
 Cross River | PDP  | September 21, 2013 |  |Local governments run by Caretaker Committees.
 Delta   | PDP 	| October 25, 2014 | January 6, 2018  |Have elected Chairmen.
 Ebonyi 	| PDP 	| October 5, 2013 | April 22, 2017  |Have elected Chairmen.
 Edo 	| APC 	| April 20, 2013 |March 3, 2018  |Have elected Chairmen.
-Ekiti 	| PDP 	| December 19, 2015| December 23, 2017  |The Chairmen were suspended and Governor Fayemi appointed Coordinating Directors to control the affairs of the LGA.
+Ekiti 	| APC 	| December 19, 2015| December 23, 2017  |The Chairmen were suspended and Governor Fayemi appointed Coordinating Directors to control the affairs of the LGA.
 Enugu 	| PDP 	| November 2, 2013 | November 4, 2017  |Have elected Chairmen.
 FCT   | APC | March 19, 2016| March 2, 2019  |Have elected Chairmen.
-Gombe 	| PDP 	| February 23, 2013 |February 25, 2017  |Governor Yahaya dissolves Council Chairmen and directed Council Secretaries to take over administration.
-Imo 	| APC   |  |August 25, 2018  |All local government chairmen are suspended, and Deputy Chairmen are Acting Chairmen.	 
+Gombe 	| APC 	| February 23, 2013 |February 25, 2017  |Governor Yahaya dissolves Council Chairmen and directed Council Secretaries to take over administration.
+Imo 	| PDP   |  |August 25, 2018  |All local government chairmen are suspended, and Deputy Chairmen are Acting Chairmen.	 
 Jigawa 	| APC 	| July 1, 2017 |June 29, 2019  |Have elected Chairmen.
 Kaduna 	| APC 	| December 1, 2012 | May 12, 2018  |Have elected Chairmen.
 Kano 	| APC	| May 17, 2014 | February 10, 2018  |Have elected Chairmen.
 Katsina | APC 	| August 2, 2014 |  |Local government run by Caretaker Committees.
 Kebbi 	| APC 	| September 15, 2012 | July 15, 2017  |Have elected Chairmen.
-Kogi 	| PDP 	| May 4, 2013 |  |Local government run by Caretaker Committees.
+Kogi 	| APC 	| May 4, 2013 |  |Local government run by Caretaker Committees.
 Kwara 	| APC 	| October 26, 2013 | November 18, 2017  |All local government chairmen suspended and Director of Administration in each LGA is expected to take over administration.
 Lagos 	| APC 	| October 22, 2011| July 22, 2017  |Have elected Chairmen.
 Nasarawa | APC	| March 22, 2014 |May 26, 2018  |Have elected Chairmen.
 Niger 	| APC 	| October 8, 2011 |January 16, 2016  |Have elected Chairmen.
 Ogun 	| APC 	| July 22, 2013 | October 8, 2016  |State government suspended council boss and directed Head of local government administration to take over.
-Ondo 	| PDP 	|  | April 23, 2016  |Governor sacked all elected Chairmen in 2017 and appointed Caretaker Committees. The Caretaker Committees was dissolved on June 13, 2019 and were directed to handover to Directors of Local Government Administration in respective councils.
+Ondo 	| APC 	|  | April 23, 2016  |Governor sacked all elected Chairmen in 2017 and appointed Caretaker Committees. The Caretaker Committees was dissolved on June 13, 2019 and were directed to handover to Directors of Local Government Administration in respective councils.
 Osun 	| APC 	|  | January 27, 2018  |Have elected Chairmen.
-Oyo 	| APC 	| December 15, 2007 | May 12, 2018  |
+Oyo 	| PDP 	| December 15, 2007 | May 12, 2018  |
 Plateau | APC	| February 25, 2014 | October 10, 2018  |Have elected Chairmen.
 Rivers 	| PDP  | May 23, 2015 | June 16, 2018  |Have elected Chairmen.
-Sokoto 	| APC 	| July 23, 2011 | March 12, 2016  |Caretaker Committee appointed to head the administration after the end of elected Chairmen’s tenure.
+Sokoto 	| PDP 	| July 23, 2011 | March 12, 2016  |Caretaker Committee appointed to head the administration after the end of elected Chairmen’s tenure.
 Taraba 	| PDP 	| May 12, 2012 | February 25, 2017  |Caretaker Committee appointed to head the administration after the end of elected Chairmen’s tenure.
 Yobe 	| APC 	| December 28, 2013 | February 11, 2017  |Caretaker Committee appointed to head the administration after the end of elected Chairmen’s tenure.
-Zamfara | APC   | January 2, 2016 | April 27, 2019 |Have elected Chairmen.
+Zamfara | PDP   | January 2, 2016 | April 27, 2019 |Have elected Chairmen.
 
 -----------
