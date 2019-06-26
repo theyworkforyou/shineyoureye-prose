@@ -15,7 +15,6 @@ Each of the states has enacted its own legislation. While core functions of loca
 
 STATE | GOVERNING PARTY	| PREVIOUS | MOST RECENT | NOTES
 ------------- | -------------  | ------------- | -------------|---------
-<img width=150/>|<img width=150/>|<img width=150/>|<img width=150/>|
 Anambra | APGA 	| January 11, 2014 |  |Local governments run by Caretaker Committees.
 Akwa Ibom | PDP	| June 9, 2012 | November 11, 2017  |Have elected Chairmen. 
 Adamawa | APC 	| November 24, 2012 |  |Caretaker Committee appointed to head the administration after the end of elected Chairmen’s tenure.
@@ -53,5 +52,6 @@ Sokoto 	| PDP 	| July 23, 2011 | March 12, 2016  |Caretaker Committee appointed 
 Taraba 	| PDP 	| May 12, 2012 | February 25, 2017  |Caretaker Committee appointed to head the administration after the end of elected Chairmen’s tenure.
 Yobe 	| APC 	| December 28, 2013 | February 11, 2017  |Caretaker Committee appointed to head the administration after the end of elected Chairmen’s tenure.
 Zamfara | PDP   | January 2, 2016 | April 27, 2019 |Have elected Chairmen.
+<img width=150/>|<img width=150/>|<img width=150/>|<img width=150/>|
 
 -----------
