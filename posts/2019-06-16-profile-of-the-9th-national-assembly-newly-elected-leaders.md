@@ -10,8 +10,8 @@ The following personnel have been appointed into leadership positions of both ho
 Senate
 =========
 
-Name | Position | State | District
------|-------|---------|----------
+Name | Position | State | District |
+----------|----------|----------|----------|
 [Ahmed Ibrahim Lawan](/person/lawan-ahmad-ibrahim/ "Ahmed Ibrahim Lawan") | Senate President | Yobe | Yobe North
 [Obarisi Ovie Omo-Agege](/person/ovie-omo-agege/ "Obarisi Ovie Omo-Agege") | Deputy Senate President | Delta | Delta Central
 [Abdullahi Abubakar Yahaya](/person/yahaya-abdullahi/ "Abdullahi Abubakar Yahaya") | Senate Leader | Kebbi | Kebbi North
