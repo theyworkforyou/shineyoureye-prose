@@ -8,14 +8,14 @@ published: true
 
 **Career**
 
-• Vertinary Research Officer, 1992 – 2006
-• Senator (APC), Niger North Senatorial District, 2005
-• Chairman, Senate Committee on Media & Public Affairs Commission
-• Vice Chairman Senate Service Committee
+* Vertinary Research Officer, 1992 – 2006
+* Senator (APC), Niger North Senatorial District, 2005
+* Chairman, Senate Committee on Media & Public Affairs Commission
+* Vice Chairman Senate Service Committee
 
 **Education**
 
-• Ahmadu Bello University, Zaria, BSc. Vertinary Science, 1992
-• University of Calabar, 2000
-• Ogun State University, 2004
-• Borgu Secondary School, 1984
+* Ahmadu Bello University, Zaria, BSc. Vertinary Science, 1992
+* University of Calabar, 2000
+* Ogun State University, 2004
+* Borgu Secondary School, 1984
