@@ -19,6 +19,7 @@ Name | Position | State | District |
 [Orji Uzor Kalu](/person/orji-uzor-kalu/ "Orji Uzor Kalu") | Chief Whip | Abia | Abia North
 [Abdullahi Aliyu Sabi](/person/aliyu-sabi-abdullahi/ "Abdullahi Aliyu Sabi") | Deputy Chief Whip | Niger | Niger North
 [Enyinnaya Abaribe](/person/abaribe-enyinnaya-harcourt/ "Enyinnaya Abaribe") | Senate Minority Leader | Abia | Abia South
+[Emmanuel Bwacha](/person/bwacha-emmanuel/ "Emmanuel Bwacha") | Deputy Senate Minority Leader | Taraba | Taraba South
 [Philip Aduda](/person/aduda-philip-tanimu/ "Philip Aduda") | Senate Minority Whip | Federal Capital Territory| Federal Capital Territory
 [Sahabi Ya’U](/person/sahabi-yau/ "Sahabi Ya’U") | Deputy Senate Minority Whip| Zamfara | Zamfara North
 
