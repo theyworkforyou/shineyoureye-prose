@@ -34,5 +34,6 @@ Name | Position | State | Constituency
 [Peter Akpatason](/person/peter-ohiozoje-akpatason/ "Peter Akpatason") | Deputy House Leader | Edo |Akoko Edo
 [Mohammed Tahir Monguno](/person/mohammed-monguno/ "Mohammed Tahir Monguno") | Chief Whip | Borno |Monguno/Marte/Nganzai
 [Ndudi Godwin Elumelu](/person/ndudi-elumelu/ "Ndudi Godwin Elumelu") | Minority Leader | Delta | Aniocha North/Aniocha South/Oshimili North/Oshimili South
+[Toby Okechukwu](/person/toby-okechukwu-toby/ "Toby Okechukwu") | Deputy Minority Leader | Enugu | Aninri/Awgu/Oji River
 [Gideon Gwani Lucas](/person/gideon-gwani/ "Gideon Gwani Lucas") | Minority Whip | Kaduna | Kaura
 [Adesegun Adekoya Abdul Majid](/person/adekoya-adesegun/ "Adesegun Adekoya Abdul Majid") | Deputy Minority Whip | Ogun | Ijebu East/Ijebu North/Ogun Waterside
