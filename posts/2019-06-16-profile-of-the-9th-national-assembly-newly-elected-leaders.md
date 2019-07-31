@@ -26,7 +26,7 @@ Name | Position | State | District |
 
 House of Representatives
 =======
-Name | Position | State | District
+Name | Position | State | Constituency
 -----|-------|---------|----------
 [Femi Gbajabiamila](/person/femi-gbajabiamila/ "Femi Gbajabiamila") | Speaker, House Of Representatives | Lagos | Surulere I
 [Ahmed Idris Wase](/person/ahmed-idris-maje/ "Ahmed Idris Wase") | Deputy Speaker, House Of Representatives | Plateau | Wase
