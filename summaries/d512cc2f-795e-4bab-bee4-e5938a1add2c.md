@@ -4,6 +4,7 @@ published: true
 ---
 Legistlative Interest(s): NA
 
+* Vice Chairman at Local Content Committee (Senate) from June 2019 to June 2023
 * Vice Chairman at Legislative Compliance Committee (Senate) from June 2019 to June 2023
 * Chairman at Media & Public Affairs Commission (Senate) from June 2015 to June 2019
 * Vice-Chairman at Senate Services Committee (Senate) from June 2015 to June 2019
