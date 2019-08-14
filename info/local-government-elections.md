@@ -20,7 +20,7 @@ Akwa Ibom | PDP	| June 9, 2012 | November 11, 2017  |Have elected Chairmen.
 Adamawa | APC 	| November 24, 2012 |  |Caretaker Committee appointed to head the administration after the end of elected Chairmen’s tenure.
 Abia 	| PDP 	|  | December 21, 2016  |The elected Chairmen have completed their tenure and the governor has appointed Transition Committee Chairmen.
 Bauchi | PDP 	|  |  |Governor sacked all Caretaker Committee, Director of Administration in each LGA is expected to take over administration.
-Bayelsa | PDP 	| March 23, 2013 |July 27, 2019  |Local governments run by Caretaker Committees.
+Bayelsa | PDP 	| July 27, 2019 | August 10, 2019  |Have elected Chairmen. 
 Benue 	| PDP 	| November 24, 2012 | June 3, 2017  |Tenure of elected council officials ended in June 2019, Governor appointed Caretaker Committee to take over administration.
 Borno | APC 	|  |  |Local government run by Caretaker Committees.
 Cross River | PDP  | September 21, 2013 |  |Local governments run by Caretaker Committees.
