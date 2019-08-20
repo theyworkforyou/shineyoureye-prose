@@ -14,11 +14,12 @@ script:
   - cp shineyoureye-sinatra/Gemfile{,.lock} .
   - bundle install
   - cd shineyoureye-sinatra
+  - git reset --hard 4feffdcdc615cc73b5a2967c9b1481b700669662
   - git show -s --oneline
   # This is done by bin/deploy anyway, but we need the data for the tests:
   - bin/prepare-data
   # Check that the tests pass, just in case:
-  - bundle exec rake test && travis_wait bin/deploy staging 
+  - bundle exec rake test && travis_wait bin/deploy production 
   #- travis_wait bin/deploy production
 sudo: false
 rvm:
