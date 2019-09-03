@@ -41,7 +41,7 @@ Kogi 	| APC 	| May 4, 2013 |  |Local government run by Caretaker Committees.
 Kwara 	| APC 	| October 26, 2013 | November 18, 2017  |All local government chairmen suspended and Director of Administration in each LGA is expected to take over administration.
 Lagos 	| APC 	| October 22, 2011| July 22, 2017  |Have elected Chairmen.
 Nasarawa | APC	| March 22, 2014 |May 26, 2018  |Have elected Chairmen.
-Niger 	| APC 	| October 8, 2011 |January 16, 2016  |Have elected Chairmen.
+Niger 	| APC 	| October 8, 2011 |January 16, 2016  |Local governments run by Caretaker Committees.
 Ogun 	| APC 	| July 22, 2013 | October 8, 2016  |State government suspended council boss and directed Head of local government administration to take over.
 Ondo 	| APC 	|  | April 23, 2016  |Governor sacked all elected Chairmen in 2017 and appointed Caretaker Committees. The Caretaker Committees was dissolved on June 13, 2019 and were directed to handover to Directors of Local Government Administration in respective councils.
 Osun 	| APC 	|  | January 27, 2018  |Have elected Chairmen.
