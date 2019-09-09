@@ -1,6 +1,6 @@
 ---
 featured: false
-published: false
+published: true
 ---
 Legistlative Interest(s): N/A
 
