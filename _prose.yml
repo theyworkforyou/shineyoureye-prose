@@ -19,6 +19,11 @@ prose:
           label: "Slug"
           element: "text"
           value: "an-awesome-headline"
+      - name: "author"
+        field:
+          label: "Author"
+          element: "text"
+          value: "EiENigeria"          
     info:
       - name: "published"
         field:
