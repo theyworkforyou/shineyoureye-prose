@@ -3,6 +3,7 @@ title: Amendment Process of CCB and Tribunal Act – 10 Action Points (2nd Readi
 slug: amendment-process-ccb-and-tribunal-act-10-action-p
 layout: post
 published: true
+author: EiENigeria
 ---
 
 Thursday, April 14, 2016.
@@ -13,7 +14,7 @@ A Bill for an Act to amend the CCB Act CAP C15 LFN 2004 and for other related ma
 
 1. Lead debate by [Senator Peter Nwaoboshi](/person/peter-nwaoboshi/ "Senator Peter Nwaoboshi") (Delta North).
 
-2. [Senator Dino Melaye](/person/dino-melaye/ "Senator Dino Melaye") (Kogi West) supports, says amendment as proposed is justified. 
+2. Senator Dino Melaye (Kogi West) supports, says amendment as proposed is justified. 
 
 3. [Senator Jibrin Barau](/person/jibrin-barau/ "Senator Jibrin Barau") (Kano North) – says amendment is about fairness in our judicial system.
 
