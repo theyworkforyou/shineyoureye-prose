@@ -17,7 +17,7 @@ script:
   #- git reset --hard 4feffdcdc615cc73b5a2967c9b1481b700669662
   - git show -s --oneline
   # This is done by bin/deploy anyway, but we need the data for the tests:
-  - travis_retry bin/prepare-data
+  - bin/prepare-data
   # Check that the tests pass, just in case:
   - bundle exec rake test && travis_wait bin/deploy production 
   #- travis_wait bin/deploy production
