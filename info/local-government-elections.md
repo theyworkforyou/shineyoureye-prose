@@ -23,7 +23,7 @@ Bauchi | PDP 	|  | June 20, 2020   |Governor sacked all Caretaker Committee, Dir
 Bayelsa | PDP 	| July 27, 2019 | August 10, 2019  |Have elected Chairmen. 
 Benue 	| PDP 	| November 24, 2012 | June 3, 2017  |Tenure of elected council officials ended in June 2019, Governor appointed Caretaker Committee to take over administration. Election will be conducted in November 2019.
 Borno | APC 	|  | June 13, 2020  |Local government run by Caretaker Committees.
-Cross River | PDP  | September 21, 2013 |  |Local governments run by Caretaker Committees.
+Cross River | PDP  | September 21, 2013 | March 28, 2020 |Local governments run by Caretaker Committees.
 Delta   | PDP 	| October 25, 2014 | January 6, 2018  |Have elected Chairmen.
 Ebonyi 	| PDP 	| October 5, 2013 | April 22, 2017  |Have elected Chairmen.
 Edo 	| APC 	| April 20, 2013 |March 3, 2018  |Have elected Chairmen.
