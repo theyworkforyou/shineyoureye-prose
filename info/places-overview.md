@@ -12,4 +12,4 @@ Each State has 3 [Senatorial Districts](/place/is/senatorial-district/ "Senatori
 
 There are 360 [Federal Constituencies](/place/is/federal-constituency/ "Federal Constituencies") which are a function of state size and population, thus the number of federal constituencies vary from state to state.
 
-There are 990 [State Constituencies](/place/is/state-constituency/ "State Constituencies") across the 36 state in Nigeria.
+There are 990 State Constituencies across the 36 state in Nigeria.
