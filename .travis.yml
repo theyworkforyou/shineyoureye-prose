@@ -3,6 +3,10 @@ branches:
   only:
     - gh-pages
 cache: bundler
+notifications:	
+  email:	
+    recipients:	
+      - pmsye@eienigeria.org
 script:
   - git clone 'https://github.com/theyworkforyou/shineyoureye-sinatra.git'
   # So that Travis can cache the bundle, copy Gemfile and Gemfile.lock
