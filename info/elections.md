@@ -5,13 +5,10 @@ permalink: /info/elections/
 layout: page
 published: true
 ---
-
-ELECTIONS | TENURE ELAPSES	| ELECTIONS DATE
+ELECTIONS DATE | TENURE ELAPSES | ELECTIONS
 ------------- | -------------  | -------------
-Presidential Elections | May 29, 2023 | February 23, 2019
-National Assembly Elections | May 29, 2023 | February 23, 2019
-[State Government Elections](/info/state-government-elections "State Government Elections") | May 29, 2023 | March 9, 2019
-State Assembly Elections | May 29, 2023 | March 9, 2019
+February 23, 2019 | May 29, 2023 | Presidential and National Assembly Elections
+March 9, 2019 | May 29, 2023 | [State Government](/info/state-government-elections "State Government Elections") and State Assembly Elections
 
 -----------
 
