@@ -9,7 +9,7 @@ Local government is the third tier of government in Nigeria. It exists as a sing
 
 Each of the states has enacted its own legislation. While core functions of local government are defined in the 4th Schedule of the Constitution, individual states may augment their responsibilities through legislation. 
 
-### Local Government Elections in Nigeria (as of June 27, 2019)
+### Local Government Elections in Nigeria (as of August 24, 2020)
 
 ---------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Abia 	| PDP 	|  | December 21, 2016  |The elected Chairmen have completed their 
 Bauchi | PDP 	|  | June 20, 2020   |Governor sacked all Caretaker Committee, Director of Administration in each LGA is expected to take over administration.
 Bayelsa | PDP 	| July 27, 2019 | August 10, 2019  |Have elected Chairmen. 
 Benue 	| PDP 	| June 3, 2017 | May 30, 2020  |Have elected Chairmen.
-Borno | APC 	|  | June 13, 2020  |Local government run by Caretaker Committees.
+Borno | APC 	|  | November 28, 2020  |Local government run by Caretaker Committees.
 Cross River | PDP  | March 28, 2020 | May 30, 2020 |Have elected Chairmen.
 Delta   | PDP 	| October 25, 2014 | January 6, 2018  |Have elected Chairmen.
 Ebonyi 	| PDP 	| October 5, 2013 | April 22, 2017  |Have elected Chairmen.
@@ -43,7 +43,7 @@ Lagos 	| APC 	| October 22, 2011| July 22, 2017  |Have elected Chairmen.
 Nasarawa | APC	| March 22, 2014 |May 26, 2018  |Have elected Chairmen.
 Niger 	| APC 	| January 16, 2016 |November 30, 2019  |Local governments run by Caretaker Committees.
 Ogun 	| APC 	| July 22, 2013 | October 8, 2016  |State government suspended council boss and directed Head of local government administration to take over.
-Ondo 	| APC 	|  | April 23, 2016  |Governor sacked all elected Chairmen in 2017 and appointed Caretaker Committees. The Caretaker Committees was dissolved on June 13, 2019 and were directed to handover to Directors of Local Government Administration in respective councils.
+Ondo 	| APC 	| April 23, 2016 | August 22, 2020  |Have elected Chairmen.
 Osun 	| APC 	|  | January 27, 2018  |Have elected Chairmen.
 Oyo 	| PDP 	| December 15, 2007 | May 12, 2018  |
 Plateau | APC	| February 25, 2014 | October 10, 2018  |Have elected Chairmen.
