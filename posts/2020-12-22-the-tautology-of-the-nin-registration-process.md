@@ -1,6 +1,6 @@
 ---
 published: true
-slug: an-awesome-headline
+slug: the-tautology-of-the-nin-registration-process
 author: EiENigeria
 title: The Tautology Of The Nin Registration Process
 ---
