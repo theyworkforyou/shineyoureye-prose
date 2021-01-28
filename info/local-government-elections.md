@@ -9,7 +9,7 @@ Local government is the third tier of government in Nigeria. It exists as a sing
 
 Each of the states has enacted its own legislation. While core functions of local government are defined in the 4th Schedule of the Constitution, individual states may augment their responsibilities through legislation. 
 
-### Local Government Elections in Nigeria (as of August 24, 2020)
+### Local Government Elections in Nigeria (as of January 28, 2021)
 
 ---------------------------------------------------------------
 
@@ -34,7 +34,7 @@ Gombe 	| APC 	| February 23, 2013 |February 25, 2017  |Governor Yahaya dissolves
 Imo 	| PDP   |  |August 25, 2018  |All local government chairmen are suspended, and Deputy Chairmen are Acting Chairmen.	 
 Jigawa 	| APC 	| July 1, 2017 |June 29, 2019  |Have elected Chairmen.
 Kaduna 	| APC 	| December 1, 2012 | May 12, 2018  |Have elected Chairmen.
-Kano 	| APC	| May 17, 2014 | February 10, 2018  |Have elected Chairmen.
+Kano 	| APC	| February 10, 2018 | January 16, 2021  |Have elected Chairmen.
 Katsina | APC 	| August 2, 2014 |  |Local government run by Caretaker Committees.
 Kebbi 	| APC 	| September 15, 2012 | July 15, 2017  |Have elected Chairmen.
 Kogi 	| APC 	| May 4, 2013 |  |Local government run by Caretaker Committees.
