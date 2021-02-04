@@ -2,7 +2,7 @@
 published: true
 slug: nigerias-youth-ramp-up-sars-fight-bolster-demands-as-economy-teeters
 author: Gerelyn Terzo for Sharemoney
-title: 'Nigeria’s Youth Ramp Up Sars Fight, Bolster Demands As Economy Teeters'
+title: 'Nigeria’s Youth Ramp Up SARS Fight, Bolster Demands As Economy Teeters'
 ---
 Nigeria has awakened a sleeping giant — their youth. In a country with a population of roughly 206 million, [50% are under the age of 19](https://www.nytimes.com/article/sars-nigeria-police.html). It is this segment of the population that has been behind the highly publicized protests around the country’s Special Anti-Robbery Squad, or SARS, which operates under Nigeria’s police force and is known to be corrupt. 
 
@@ -56,5 +56,4 @@ The situation is complicated, with the Nigerian northerners and supporters of Pr
 Source: [Twitter](https://twitter.com/AdegbenleSamuel/status/1339335593659133952) 
 
 
-What happens next will largely depend on how the protestors and the country respond. The Nigerian government has vowed to reform the police force, but if they don’t follow through or if the changes are not comprehensive enough, it could ignite even more protests in the not-too-distant future. 
-
+What happens next will largely depend on how the protestors and the country respond. The Nigerian government has vowed to reform the police force, but if they don’t follow through or if the changes are not comprehensive enough, it could ignite even more protests in the not-too-distant future.
