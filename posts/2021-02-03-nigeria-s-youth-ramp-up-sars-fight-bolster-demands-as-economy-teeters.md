@@ -50,7 +50,7 @@ Even without the protests, Nigeria’s economy was already reeling from a downtu
 ## What Now?
 
 The situation is complicated, with the Nigerian northerners and supporters of President Buhari asserting that the protests are being fueled by southerners who are looking to make the president appear bad more than any true complaints by the country’s youth. The protests have largely quieted down in response to the military clampdown in the streets. Meanwhile, the #endSARS movement is still alive and well on social media. 
-![Enough is Enough Protest.png]({{site.baseurl}}/media/prose-images/Enough%20is%20Enough%20Protest.png)
+![Amnesty International Tweet.png]({{site.baseurl}}/media/prose-images/Amnesty%20International%20Tweet.png)
  
 Source: [Twitter](https://twitter.com/AdegbenleSamuel/status/1339335593659133952) 
 
