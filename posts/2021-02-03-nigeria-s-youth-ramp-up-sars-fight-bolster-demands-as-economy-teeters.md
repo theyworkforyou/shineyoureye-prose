@@ -50,9 +50,7 @@ Even without the protests, Nigeria’s economy was already reeling from a downtu
 ## What Now?
 
 The situation is complicated, with the Nigerian northerners and supporters of President Buhari asserting that the protests are being fueled by southerners who are looking to make the president appear bad more than any true complaints by the country’s youth. The protests have largely quieted down in response to the military clampdown in the streets. Meanwhile, the #endSARS movement is still alive and well on social media. 
-![#EndSARS]({{site.baseurl}}/media/prose-images/#EndSARSNow.png)
-
-
+![Protest]({{site.baseurl}}/media/prose-images/Protest.png)
  
 Source: [Twitter](https://twitter.com/AdegbenleSamuel/status/1339335593659133952) 
 
