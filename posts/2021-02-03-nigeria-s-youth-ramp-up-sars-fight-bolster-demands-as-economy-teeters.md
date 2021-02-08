@@ -1,10 +1,10 @@
 ---
 published: true
 slug: nigerias-youth-ramp-up-sars-fight-bolster-demands-as-economy-teeters
-author: 'Gerelyn Terzo for [Sharemoney](https://www.sharemoney.com/us/en/nigeria)'
+author: Gerelyn Terzo for Sharemoney
 title: 'Nigeria’s Youth Ramp Up SARS Fight, Bolster Demands As Economy Teeters'
 ---
-Nigeria has awakened a sleeping giant — their youth. In a country with a population of roughly 206 million, [50% are under the age of 19](https://www.nytimes.com/article/sars-nigeria-police.html). It is this segment of the population that has been behind the highly publicized protests around the country’s Special Anti-Robbery Squad, or SARS, which operates under Nigeria’s police force and is known to be corrupt. 
+[Nigeria](https://www.sharemoney.com/us/en/nigeria) has awakened a sleeping giant — their youth. In a country with a population of roughly 206 million, [50% are under the age of 19](https://www.nytimes.com/article/sars-nigeria-police.html). It is this segment of the population that has been behind the highly publicized protests around the country’s Special Anti-Robbery Squad, or SARS, which operates under Nigeria’s police force and is known to be corrupt. 
 
 The #EndSARS movement started on social media and has since taken the country by storm. Young Nigerians in their 20s and 30s have called for total disbandment of the police group, which they say has been performing the very criminal acts that they were tasked with eliminating, including harassment of innocent people, brutality and killings. The SARS representatives are said to be rogue officers who set up roadblocks and perform stop and search activities, which is where much of the harassment reportedly takes place.
 
