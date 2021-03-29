@@ -45,10 +45,10 @@ Niger 	| APC 	| January 16, 2016 |November 30, 2019  |Local governments run by C
 Ogun 	| APC 	| July 22, 2013 | October 8, 2016  |State government suspended council boss and directed Head of local government administration to take over.
 Ondo 	| APC 	| April 23, 2016 | August 22, 2020  |Have elected Chairmen.
 Osun 	| APC 	|  | January 27, 2018  |Have elected Chairmen.
-Oyo 	| PDP 	| December 15, 2007 | May 12, 2018  |
+Oyo 	| PDP 	| December 15, 2007 | May 12, 2018  |Have elected Chairmen.
 Plateau | APC	| February 25, 2014 | October 10, 2018  |Have elected Chairmen.
 Rivers 	| PDP  | May 23, 2015 | June 16, 2018  |Have elected Chairmen.
-Sokoto 	| PDP 	| July 23, 2011 | March 27, 2021  |
+Sokoto 	| PDP 	| July 23, 2011 | March 27, 2021  |Have elected Chairmen.
 Taraba 	| PDP 	| February 25, 2017 | June 30, 2020  |Have elected Chairmen.
 Yobe 	| APC 	| December 28, 2013 | February 11, 2017  |Caretaker Committee appointed to head the administration after the end of elected Chairmen’s tenure.
 Zamfara | PDP   | January 2, 2016 | April 27, 2019 |Have elected Chairmen.
