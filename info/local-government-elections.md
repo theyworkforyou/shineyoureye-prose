@@ -24,7 +24,7 @@ Bayelsa | PDP 	| July 27, 2019 | August 10, 2019  |Have elected Chairmen.
 Benue 	| PDP 	| June 3, 2017 | May 30, 2020  |Have elected Chairmen.
 Borno | APC 	|  | November 28, 2020  |Local government run by Caretaker Committees.
 Cross River | PDP  | March 28, 2020 | May 30, 2020 |Have elected Chairmen.
-Delta   | PDP 	| October 25, 2014 | January 6, 2018  |Have elected Chairmen.
+Delta   | PDP 	| October 25, 2014 | March 6, 2021  |Have elected Chairmen.
 Ebonyi 	| PDP 	| October 5, 2013 | April 22, 2017  |Have elected Chairmen.
 Edo 	| APC 	| April 20, 2013 |March 3, 2018  |Have elected Chairmen.
 Ekiti 	| APC 	| December 19, 2015| December 23, 2017  |The Chairmen were suspended and Governor Fayemi appointed Coordinating Directors to control the affairs of the LGA.
@@ -48,7 +48,7 @@ Osun 	| APC 	|  | January 27, 2018  |Have elected Chairmen.
 Oyo 	| PDP 	| December 15, 2007 | May 12, 2018  |
 Plateau | APC	| February 25, 2014 | October 10, 2018  |Have elected Chairmen.
 Rivers 	| PDP  | May 23, 2015 | June 16, 2018  |Have elected Chairmen.
-Sokoto 	| PDP 	| July 23, 2011 | March 12, 2016  |Caretaker Committee appointed to head the administration after the end of elected Chairmen’s tenure.
+Sokoto 	| PDP 	| July 23, 2011 | March 27, 2021  |
 Taraba 	| PDP 	| February 25, 2017 | June 30, 2020  |Have elected Chairmen.
 Yobe 	| APC 	| December 28, 2013 | February 11, 2017  |Caretaker Committee appointed to head the administration after the end of elected Chairmen’s tenure.
 Zamfara | PDP   | January 2, 2016 | April 27, 2019 |Have elected Chairmen.
