@@ -9,7 +9,7 @@ Local government is the third tier of government in Nigeria. It exists as a sing
 
 Each of the states has enacted its own legislation. While core functions of local government are defined in the 4th Schedule of the Constitution, individual states may augment their responsibilities through legislation. 
 
-### Local Government Elections in Nigeria (as of March 29, 2021)
+### Local Government Elections in Nigeria (as of April 19, 2021)
 
 ---------------------------------------------------------------
 
@@ -47,7 +47,7 @@ Ondo 	| APC 	| April 23, 2016 | August 22, 2020  |Have elected Chairmen.
 Osun 	| APC 	|  | January 27, 2018  |Have elected Chairmen.
 Oyo 	| PDP 	| December 15, 2007 | May 12, 2018  |Have elected Chairmen.
 Plateau | APC	| February 25, 2014 | October 10, 2018  |Have elected Chairmen.
-Rivers 	| PDP  | May 23, 2015 | June 16, 2018  |Have elected Chairmen.
+Rivers 	| PDP  | June 16, 2018 | April 17, 2021  |Have elected Chairmen.
 Sokoto 	| PDP 	| July 23, 2011 | March 27, 2021  |Have elected Chairmen.
 Taraba 	| PDP 	| February 25, 2017 | June 30, 2020  |Have elected Chairmen.
 Yobe 	| APC 	| December 28, 2013 | February 11, 2017  |Caretaker Committee appointed to head the administration after the end of elected Chairmen’s tenure.
