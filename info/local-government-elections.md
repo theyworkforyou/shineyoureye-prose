@@ -45,7 +45,7 @@ Niger 	| APC 	| January 16, 2016 |November 30, 2019  |Local governments run by C
 Ogun 	| APC 	| July 22, 2013 | October 8, 2016  |State government suspended council boss and directed Head of local government administration to take over.
 Ondo 	| APC 	| April 23, 2016 | August 22, 2020  |Have elected Chairmen.
 Osun 	| APC 	|  | January 27, 2018  |Have elected Chairmen.
-Oyo 	| PDP 	| May 12, 2018 | May 22, 2021  |PDP wins 32 out of the 33 councils declared in the LGA elections held in Oyo State on Saturday. Ido LGA election was suspended and rescheduled for Wednesday, May 26,2021.
+Oyo 	| PDP 	| May 12, 2018 | May 22, 2021  |PDP wins 32 out of the 33 councils declared in the LGA elections held. Ido LGA election was suspended and rescheduled for Wednesday, May 26,2021.
 Plateau | APC	| February 25, 2014 | October 10, 2018  |Have elected Chairmen.
 Rivers 	| PDP  | June 16, 2018 | April 17, 2021  |Have elected Chairmen.
 Sokoto 	| PDP 	| July 23, 2011 | March 27, 2021  |Have elected Chairmen.
