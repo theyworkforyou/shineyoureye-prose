@@ -106,7 +106,7 @@ Other things to consider:
 
 There are many ways to be a part of making Nigeria great. If you want more from your government or are interested in learning more on such topics as voting or ways you can be an advocate for better government, visit the following sites:
 
-- Interesting in Registering to Vote?- Visit [INEC](http://www.inecnigeria.org/ "INEC")
+- Interested in Registering to Vote?- Visit [INEC](http://www.inecnigeria.org/ "INEC")
 
 - Interested in Promoting Government Accountability?- Visit [Enough is Enough Nigeria](http://www.eienigeria.org "EiE Nigeria")
 
