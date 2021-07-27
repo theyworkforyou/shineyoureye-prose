@@ -39,10 +39,10 @@ Katsina | APC 	| August 2, 2014 |  |Local government run by Caretaker Committees
 Kebbi 	| APC 	| September 15, 2012 | July 15, 2017  |Have elected Chairmen.
 Kogi 	| APC 	| May 4, 2013 |  |Local government run by Caretaker Committees.
 Kwara 	| APC 	| October 26, 2013 | November 18, 2017  |All local government chairmen suspended and Director of Administration in each LGA is expected to take over administration.
-Lagos 	| APC 	| October 22, 2011| July 22, 2017  |Have elected Chairmen.
+Lagos 	| APC 	| July 22, 2017 | July 24, 2021  |Have elected Chairmen.
 Nasarawa | APC	| March 22, 2014 |May 26, 2018  |Have elected Chairmen.
 Niger 	| APC 	| January 16, 2016 |November 30, 2019  |Local governments run by Caretaker Committees.
-Ogun 	| APC 	| July 22, 2013 | October 8, 2016  |State government suspended council boss and directed Head of local government administration to take over.
+Ogun 	| APC 	| October 8, 2016 | July 24, 2021  |Elected chairmen.
 Ondo 	| APC 	| April 23, 2016 | August 22, 2020  |Have elected Chairmen.
 Osun 	| APC 	|  | January 27, 2018  |Have elected Chairmen.
 Oyo 	| PDP 	| May 12, 2018 | May 22, 2021  |PDP wins all 33 LGA.
