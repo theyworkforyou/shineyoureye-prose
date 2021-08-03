@@ -9,7 +9,7 @@ Local government is the third tier of government in Nigeria. It exists as a sing
 
 Each of the states has enacted its own legislation. While core functions of local government are defined in the 4th Schedule of the Constitution, individual states may augment their responsibilities through legislation. 
 
-### Local Government Elections in Nigeria (as of May 26, 2021)
+### Local Government Elections in Nigeria (as of August 3, 2021)
 
 ---------------------------------------------------------------
 
@@ -33,16 +33,16 @@ FCT   | APC | March 19, 2016| March 2, 2019  |Have elected Chairmen.
 Gombe 	| APC 	| February 23, 2013 |February 25, 2017  |Governor Yahaya dissolves Council Chairmen and directed Council Secretaries to take over administration.
 Imo 	| PDP   |  |August 25, 2018  |All local government chairmen are suspended, and Deputy Chairmen are Acting Chairmen.	 
 Jigawa 	| APC 	| July 1, 2017 |June 29, 2019  |Have elected Chairmen.
-Kaduna 	| APC 	| December 1, 2012 | May 12, 2018  |Have elected Chairmen.
+Kaduna 	| APC 	| May 12, 2018 | August 14, 2021  |Have elected Chairmen.
 Kano 	| APC	| February 10, 2018 | January 16, 2021  |Have elected Chairmen.
 Katsina | APC 	| August 2, 2014 |  |Local government run by Caretaker Committees.
 Kebbi 	| APC 	| September 15, 2012 | July 15, 2017  |Have elected Chairmen.
 Kogi 	| APC 	| May 4, 2013 |  |Local government run by Caretaker Committees.
 Kwara 	| APC 	| October 26, 2013 | November 18, 2017  |All local government chairmen suspended and Director of Administration in each LGA is expected to take over administration.
 Lagos 	| APC 	| July 22, 2017 | July 24, 2021  |Have elected Chairmen.
-Nasarawa | APC	| March 22, 2014 |May 26, 2018  |Have elected Chairmen.
+Nasarawa | APC	| May 26, 2018 | October 6, 2021  |Have elected Chairmen.
 Niger 	| APC 	| January 16, 2016 |November 30, 2019  |Local governments run by Caretaker Committees.
-Ogun 	| APC 	| October 8, 2016 | July 24, 2021  |Elected chairmen.
+Ogun 	| APC 	| October 8, 2016 | July 24, 2021  |Have elected Chairmen.
 Ondo 	| APC 	| April 23, 2016 | August 22, 2020  |Have elected Chairmen.
 Osun 	| APC 	|  | January 27, 2018  |Have elected Chairmen.
 Oyo 	| PDP 	| May 12, 2018 | May 22, 2021  |PDP wins all 33 LGA.
