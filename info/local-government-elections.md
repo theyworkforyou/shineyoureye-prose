@@ -9,7 +9,7 @@ Local government is the third tier of government in Nigeria. It exists as a sing
 
 Each of the states has enacted its own legislation. While core functions of local government are defined in the 4th Schedule of the Constitution, individual states may augment their responsibilities through legislation. 
 
-### Local Government Elections in Nigeria (as of September 10, 2021)
+### Local Government Elections in Nigeria (as of September 16, 2021)
 
 ---------------------------------------------------------------
 
@@ -17,7 +17,7 @@ STATE | GOVERNING PARTY	| PREVIOUS | MOST RECENT | NOTES
 ------------- | -------------  | ------------- | -------------  | -------------  
 Anambra | APGA 	| January 11, 2014 |  |Local governments run by Caretaker Committees.
 Akwa Ibom | PDP	| June 9, 2012 | November 11, 2017  |Have elected Chairmen. 
-Adamawa | APC 	| November 24, 2012 |  |Caretaker Committee appointed to head the administration after the end of elected Chairmen’s tenure.
+Adamawa | APC 	| November 24, 2012 |December 4, 2021  |Caretaker Committee appointed to head the administration after the end of elected Chairmen’s tenure.
 Abia 	| PDP 	|  | December 21, 2016  |The elected Chairmen have completed their tenure and the governor has appointed Transition Committee Chairmen.
 Bauchi | PDP 	|  | June 20, 2020   |Governor sacked all Caretaker Committee, Director of Administration in each LGA is expected to take over administration.
 Bayelsa | PDP 	| July 27, 2019 | August 10, 2019  |Have elected Chairmen. 
