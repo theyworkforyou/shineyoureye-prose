@@ -50,7 +50,7 @@ Plateau | APC	| February 25, 2014 | October 10, 2018  |Have elected Chairmen.
 Rivers 	| PDP  | June 16, 2018 | April 17, 2021  |Have elected Chairmen.
 Sokoto 	| PDP 	| July 23, 2011 | March 27, 2021  |Have elected Chairmen.
 Taraba 	| PDP 	| February 25, 2017 | June 30, 2020  |Have elected Chairmen.
-Yobe 	| APC 	| December 28, 2013 | February 11, 2017  |Caretaker Committee appointed to head the administration after the end of elected Chairmen’s tenure.
+Yobe 	| APC 	| February 11, 2017 | February 27, 2021  |Caretaker Committee appointed to head the administration after the end of elected Chairmen’s tenure.
 Zamfara | PDP   | January 2, 2016 | April 27, 2019 |Have elected Chairmen.
 <img width=150/>|<img width=150/>|<img width=150/>|<img width=150/>|
 
