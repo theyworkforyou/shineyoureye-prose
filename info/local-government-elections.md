@@ -46,7 +46,7 @@ Ogun 	| APC 	| October 8, 2016 | July 24, 2021  |Have elected Chairmen.
 Ondo 	| APC 	| April 23, 2016 | August 22, 2020  |Have elected Chairmen.
 Osun 	| APC 	|  | January 27, 2018  |Have elected Chairmen.
 Oyo 	| PDP 	| May 12, 2018 | May 22, 2021  |PDP wins all 33 LGA.
-Plateau | APC	| February 25, 2014 | October 10, 2018  |Have elected Chairmen.
+Plateau | APC	| October 10, 2018 | October 9, 2021  |Have elected Chairmen.
 Rivers 	| PDP  | June 16, 2018 | April 17, 2021  |Have elected Chairmen.
 Sokoto 	| PDP 	| July 23, 2011 | March 27, 2021  |Have elected Chairmen.
 Taraba 	| PDP 	| February 25, 2017 | June 30, 2020  |Have elected Chairmen.
