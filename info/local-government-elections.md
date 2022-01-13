@@ -9,7 +9,7 @@ Local government is the third tier of government in Nigeria. It exists as a sing
 
 Each of the states has enacted its own legislation. While core functions of local government are defined in the 4th Schedule of the Constitution, individual states may augment their responsibilities through legislation. 
 
-### Local Government Elections in Nigeria (as of October 14, 2021)
+### Local Government Elections in Nigeria (as of January 13, 2022)
 
 ---------------------------------------------------------------
 
@@ -27,7 +27,7 @@ Cross River | PDP  | March 28, 2020 | May 30, 2020 |Have elected Chairmen.
 Delta   | PDP 	| October 25, 2014 | March 6, 2021  |Have elected Chairmen.
 Ebonyi 	| PDP 	| October 5, 2013 | April 22, 2017  |Have elected Chairmen.
 Edo 	| APC 	| April 20, 2013 |March 3, 2018  |Have elected Chairmen.
-Ekiti 	| APC 	| December 23, 2017| December 7 , 2019  |Have Elected Chairman.
+Ekiti 	| APC 	| December 7 , 2019| December 4, 2021  |Have Elected Chairman.
 Enugu 	| PDP 	| November 2, 2013 | November 4, 2017  |Have elected Chairmen.
 FCT   | APC | March 19, 2016| March 2, 2019  |Have elected Chairmen.
 Gombe 	| APC 	| February 23, 2013 |February 25, 2017  |Governor Yahaya dissolves Council Chairmen and directed Council Secretaries to take over administration.
