@@ -25,7 +25,7 @@ Benue 	| PDP 	| June 3, 2017 | May 30, 2020  |Have elected Chairmen.
 Borno | APC 	|  | November 28, 2020  |Local government run by Caretaker Committees.
 Cross River | PDP  | March 28, 2020 | May 30, 2020 |Have elected Chairmen.
 Delta   | PDP 	| October 25, 2014 | March 6, 2021  |Have elected Chairmen.
-Ebonyi 	| PDP 	| October 5, 2013 | April 22, 2017  |Have elected Chairmen.
+Ebonyi 	| APC 	| April 22, 2017 | June 30, 2022  |Have elected Chairmen.
 Edo 	| APC 	| April 20, 2013 |March 3, 2018  |Have elected Chairmen.
 Ekiti 	| APC 	| December 7 , 2019| December 4, 2021  |Have Elected Chairman.
 Enugu 	| PDP 	| November 2, 2013 | November 4, 2017  |Have elected Chairmen.
