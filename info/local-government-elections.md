@@ -9,7 +9,7 @@ Local government is the third tier of government in Nigeria. It exists as a sing
 
 Each of the states has enacted its own legislation. While core functions of local government are defined in the 4th Schedule of the Constitution, individual states may augment their responsibilities through legislation. 
 
-### Local Government Elections in Nigeria (as of January 13, 2022)
+### Local Government Elections in Nigeria (as of August 24, 2022)
 
 ---------------------------------------------------------------
 
