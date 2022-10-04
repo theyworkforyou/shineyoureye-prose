@@ -30,7 +30,7 @@ Edo 	| APC 	| April 20, 2013 |March 3, 2018  |Have elected Chairmen.
 Ekiti 	| APC 	| December 7 , 2019| December 4, 2021  |Have Elected Chairman.
 Enugu 	| PDP 	| November 2, 2013 | November 4, 2017  |Have elected Chairmen.
 FCT   | APC | March 19, 2016| March 2, 2019  |Have elected Chairmen.
-Gombe 	| APC 	| February 23, 2013 |February 25, 2017  |Governor Yahaya dissolves Council Chairmen and directed Council Secretaries to take over administration.
+Gombe 	| APC 	| February 25, 2017 |December 19, 2020  |Have elected chairman.
 Imo 	| PDP   |  |August 25, 2018  |All local government chairmen are suspended, and Deputy Chairmen are Acting Chairmen.	 
 Jigawa 	| APC 	| July 1, 2017 |June 29, 2019  |Have elected Chairmen.
 Kaduna 	| APC 	| May 12, 2018 | September 4, 2021  |Have elected Chairmen.
