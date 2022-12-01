@@ -9,8 +9,9 @@ ELECTIONS | ELECTIONS DATE | TENURE ELAPSES
 ------------- | -------------  | -------------
 Presidential and National Assembly Elections | Saturday, February 25, 2023 | May 29, 2027 
  [State Government](/info/state-government-elections "State Government Elections") and State Assembly Elections | Saturday, March 11, 2023 | May 29, 2027
- Ekiti Governorship Election | Saturday, June 18, 2022
- Osun Governorship Election | Saturday, July 16, 2022
+ Bayelsa Governorship Election | Saturday, November 11, 2023
+ Imo Governorship Election | Saturday, November 11, 2023
+ Kogi Governorship Election | Saturday, November 11, 2023
 
 
 -----------
