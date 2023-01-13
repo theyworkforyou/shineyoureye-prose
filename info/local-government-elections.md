@@ -9,14 +9,14 @@ Local government is the third tier of government in Nigeria. It exists as a sing
 
 Each of the states has enacted its own legislation. While core functions of local government are defined in the 4th Schedule of the Constitution, individual states may augment their responsibilities through legislation. 
 
-### Local Government Elections in Nigeria (as of December 1, 2022)
+### Local Government Elections in Nigeria (as of January 12, 2023)
 
 ---------------------------------------------------------------
 
 STATE | GOVERNING PARTY	| PREVIOUS | MOST RECENT | NOTES
 ------------- | -------------  | ------------- | -------------  | -------------  
 Anambra | APGA 	| January 11, 2014 |  |Local governments run by Caretaker Committees.
-Akwa Ibom | PDP	| June 9, 2012 | November 11, 2017  |Have elected Chairmen. 
+Akwa Ibom | PDP	| November 11, 2017 | October 31, 2020  |Have elected Chairmen. 
 Adamawa | APC 	| November 24, 2012 |December 4, 2021  |Caretaker Committee appointed to head the administration after the end of elected Chairmen’s tenure.
 Abia 	| PDP 	| December 21, 2016  | December 18, 2020  |Have elected Chairmen.
 Bauchi | PDP 	|  | June 20, 2020   |Governor sacked all Caretaker Committee, Director of Administration in each LGA is expected to take over administration.
@@ -28,15 +28,15 @@ Delta   | PDP 	| October 25, 2014 | March 6, 2021  |Have elected Chairmen.
 Ebonyi 	| APC 	| April 22, 2017 | June 30, 2022  |Have elected Chairmen.
 Edo 	| APC 	| April 20, 2013 |March 3, 2018  |Have elected Chairmen.
 Ekiti 	| APC 	| December 7 , 2019| December 4, 2021  |Have Elected Chairman.
-Enugu 	| PDP 	| November 2, 2013 | November 4, 2017  |Have elected Chairmen.
-FCT   | APC | March 19, 2016| March 2, 2019  |Have elected Chairmen.
+Enugu 	| PDP 	| November 4, 2017 | February 23, 2022  |Have elected Chairmen.
+FCT   | APC | March 2, 2019 | February 12, 2022  |Have elected Chairmen.
 Gombe 	| APC 	| February 25, 2017 |December 19, 2020  |Have elected chairman.
 Imo 	| PDP   |  |August 25, 2018  |All local government chairmen are suspended, and Deputy Chairmen are Acting Chairmen.	 
 Jigawa 	| APC 	| July 1, 2017 |June 29, 2019  |Have elected Chairmen.
 Kaduna 	| APC 	| May 12, 2018 | September 4, 2021  |Have elected Chairmen.
 Kano 	| APC	| February 10, 2018 | January 16, 2021  |Have elected Chairmen.
 Katsina | APC 	| August 2, 2014 |  |Local government run by Caretaker Committees.
-Kebbi 	| APC 	| September 15, 2012 | July 15, 2017  |Have elected Chairmen.
+Kebbi 	| APC 	| July 15, 2017 | February 5, 2022  |Have elected Chairmen.
 Kogi 	| APC 	| May 4, 2013 |  |Local government run by Caretaker Committees.
 Kwara 	| APC 	| October 26, 2013 | November 18, 2017  |All local government chairmen suspended and Director of Administration in each LGA is expected to take over administration.
 Lagos 	| APC 	| July 22, 2017 | July 24, 2021  |Have elected Chairmen.
