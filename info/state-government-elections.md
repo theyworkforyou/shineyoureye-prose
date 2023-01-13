@@ -8,10 +8,11 @@ published: true
 
 STATE | INCUMBENT GOVERNOR | PARTY |ELECTION DATE | NEXT ELECTION DATE
 ------------------|------------------|------------------|------------------|------------------
-Edo | [Godwin Obaseki](/person/godwin-obaseki/ "Godwin Obaseki") | APC | September 28, 2016 |September 19, 2020
-Ondo | [Rotimi Akeredolu](/person/oluwarotimi-akeredolu/ "Rotimi Akeredolu") | APC | November 26, 2016 | October 10, 2020
-Anambra | [Willie Obiano](/person/willie-obiano/ "Willie Obiano") | APGA | November 18, 2017 | November 6, 2021
-Bayelsa | Seriake Dickson | PDP | November 16, 2019 |
-Ekiti | [Kayode Fayemi](/person/kayode-fayemi/ "Kayode Fayemi") | APC | July 14, 2018 | June 18, 2022
-Kogi | [Yahaya Bello](/person/yahaya-adoza-bello/ "Yahaya Bello") | APC | November 16, 2019 |
-Osun | [Gboyega Oyetola](/person/isiaka-adegboyega-oyetola/ "Gboyega Oyetola") | APC | September 22, 2018 | July 16, 2022
+Edo | [Godwin Obaseki](/person/godwin-obaseki/ "Godwin Obaseki") | APC | September 19, 2020 | 2024
+Ondo | [Rotimi Akeredolu](/person/oluwarotimi-akeredolu/ "Rotimi Akeredolu") | APC | October 10, 2020 | 2024
+Anambra | [Charles Soludo](/person/charles-soludo/  "Charles Soludo") | APGA | November 6, 2021 | 2025
+Bayelsa | [Douye Diri](/person/douye-diri "Douye Diri") | PDP | November 16, 2019 | Saturday, November 11, 2023
+Ekiti | [Abiodun Oyebanji](/person/abiodun-oyebanji/  "Abiodun Oyebanji") | APC | June 18, 2022 | 2026
+Kogi | [Yahaya Bello](/person/yahaya-adoza-bello/ "Yahaya Bello") | APC | November 16, 2019 | Saturday, November 11, 2023
+Imo | [Hope Uzodinma](/person/hope-uzodinma "Hope Uzodinma") | APC | March 9, 2019 | Saturday, November 11, 2023
+Osun | [Ademola Adeleke](/person/ademola-adeleke/  "Ademola Adeleke") | PDP | July 16, 2022 | 2026
