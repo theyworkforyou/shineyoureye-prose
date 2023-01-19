@@ -14,3 +14,4 @@ Collection at Local Government Level will resume on Monday, January 23, 2023 and
 The time is 9am - 3pm daily (Saturday and Sunday inclusive)
 
 
+![Voting procedures]({{site.baseurl}}/media/prose-images/Elections Toolkit for Religious Leaders - June 2022-v4_Page_05.jpg)
