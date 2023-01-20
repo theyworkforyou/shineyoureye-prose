@@ -59,7 +59,6 @@ Engage your representatives and make your position on the tolling clear.
 - Hon. Azeez Eshinlokun Habeeb, Local Government Councillor - deputylegislative@etiosalocalgovernment.com
 - Hon. Maiyegun Afis, Local Government Councillor - majoritylegislative@etiosalocalgovernment.com
 - Hon. Towolawi Abayomi, Local Government Councillor - chiefwhiplegis@etiosalocalgovernment.com
-
 2. **Sign the online petition** - change.org/NoJusticeNoToll
  2. **Register to vote, get your PVC and engage in the electoral process.**
  3. **Join a protest**.
