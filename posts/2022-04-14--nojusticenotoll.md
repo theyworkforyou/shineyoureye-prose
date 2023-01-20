@@ -59,9 +59,10 @@ Engage your representatives and make your position on the tolling clear.
 - Hon. Azeez Eshinlokun Habeeb, Local Government Councillor - deputylegislative@etiosalocalgovernment.com
 - Hon. Maiyegun Afis, Local Government Councillor - majoritylegislative@etiosalocalgovernment.com
 - Hon. Towolawi Abayomi, Local Government Councillor - chiefwhiplegis@etiosalocalgovernment.com
+
 2. **Sign the online petition** - change.org/NoJusticeNoToll
- 2. **Register to vote, get your PVC and engage in the electoral process.**
- 3. **Join a protest**.
+2. **Register to vote, get your PVC and engage in the electoral process.**
+2. **Join a protest**.
 
 Rather than work to seek peace, Lagos State is actively working through LCC to inflict more suffering and hardship as it denies its citizens justice. Mr Governor and LASG can NOT ignore what happened on October 20, 2020 as it keeps its operations secret from the very people its officials swore oaths to serve.
 
