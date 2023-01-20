@@ -4,7 +4,7 @@ slug: n4tn-fuel-subsidy-where-to-draw-a-line
 author: EiENigeria
 title: 'N4tn Fuel Subsidy: Where To Draw A Line'
 ---
- [Seun Onigbinde]
+ [By Seun Onigbinde]
 
 Ten years ago, thousands of Nigerian youths protested on the streets of major cities. Joining the global #Occupyprotests, the #OccupyNigeria protests zoomed in on one key topic: the removal of fuel subsidy. At the time, rather than a blatant removal of the subsidy, I felt that the government needed to earn the trust of the people by first addressing its abuse of public resources. We had government spending frivolously and wanting to add more burden on citizens; I felt that was not right. We needed to fight it.
 
