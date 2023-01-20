@@ -13,7 +13,8 @@ On April 1, 2022, Lekki Concession Company Limited (LCC), a company 100% owned b
 
 April 1st - April Fool’s Day. When the announcement was made in March, the message implied in the date chosen by LASG was not lost on Lagosians. There was anger, sadness, frustration and the recurring feeling of being voiceless, invisible and hopeless.
 
-![#NoJusticeNoToll.jpg]({{site.baseurl}}/media/prose-images/#NoJusticeNoToll.jpg)
+![#NoJusticeNoToll.jpeg]({{site.baseurl}}/media/prose-images/#NoJusticeNoToll.jpeg)
+
 
 
 LASG had done its polling and 'consultations' and was confident that the backlash could be contained. The Commissioner for Information and Strategy, Mr Gbenga Omotoso, did some media rounds and promised there would be more engagements. Those engagements were haphazard and dishonest in intent. The decision to toll was a fait accompli.
