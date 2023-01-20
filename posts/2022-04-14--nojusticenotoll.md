@@ -35,24 +35,17 @@ Therefore, as matters relating to the #EndSARS protests, which led to the termin
 However, as discussions continued on the tolling issue, other issues were added:
 1. Lekki Concession Company is NOT a Private Company
 During the Judicial Panel of Inquiry on Police Brutality, LASG and LCC had separate legal teams to give the impression that they were different entities. During the panel, the Head of Service for LASG, Hakeem Muri-Okunola, admitted that LCC was owned by Lagos State while the MD of LCC, Yomi Omomuwasan, said LCC was a private enterprise. Both statements were made under oath.
-
 The deceit continued during Mr Omomuwasan’s Zoom Meeting with Lekki Estates Residents and Stakeholders Association (LERSA) members and other stakeholders including a traditional ruler on Monday, March 14, 2022. In the meeting minutes captured by Gbemi Adelekan for the LERSA Secretariat, _“... the MD stated that LCC is a private company that has continued to incur costs including maintaining over 500 workers in employment, providing essential services to the community including ensuring sanity on our roads. He mentioned that the Company was being considerate by not introducing toll fare on the 2 tollgates, by providing an alternative road for users that would want to avoid paying toll on the Link Bridge, until the ongoing road dualization of the Oniru alternative road is completed.”_
-
 According to the LCC’s website, the LASG, “_... acquired the shares/equity of the previous owners of LCC in December, 2014._”
-
 It was therefore clearly misleading that LCC presented itself to LERSA members and Lagosians through several media rounds, press statements and articles as a private company. Thus, as a public company, all the services that LCC provide in the Lekki-Epe corridor are as of right to taxpayers, not a favour from a private company!
-
 LASG has consistently fought the implementation of the Freedom of Information Act, 2011. As such the finances of the state are opaque and this includes LCC. Since it became a government entity in 2014, its revenues and expenses are unclear. How much is left on the loan and how long will it take to pay it off? The MD of LCC and Mr Governor have promised at different times to make the finances of the Toll Plazas public, but that is yet to happen.
-
 1. **Pending Court Matter**
 In 2012 Ebun Olu-Adegboruwa challenged the legality of tolling and judgement was found in his favour in 2014 at a Federal High Court in Ikoyi. LASG filed an appeal and an order for a stay of execution. The stay of execution was granted almost immediately and tolling continued. As of April 2022, we are unaware that Lagos has a case before the Appeal Court, therefore the stay of execution should be struck out and the judgement executed. In simple terms, it would be illegal for the Lekki-Ikoyi Link Bridge to be tolled.
-
-Mr Governor hosted LERSA and the Lekki Phase 1 Residents Association (LERA) to a meeting on Sunday, April 3rd, in response to LERA’s open letter and their position against the tolling. At the meeting, he stated that he was unaware of the lawsuit and asked the Attorney-General to look into it. 
+Mr Governor hosted LERSA and the Lekki Phase 1 Residents Association (LERA) to a meeting on Sunday, April 3rd, in response to LERA’s open letter and their position against the tolling. At the meeting, he stated that he was unaware of the lawsuit and asked the Attorney-General to look into it.
 
 **Call to Action**
 1. **Engage Your Public Servants**
 LASG and LCC have engaged Lagosians, not just Lekki residents, in a dishonest manner. The Zoom meeting LCC hosted was only accessible to 100 people! They were forced to host a town hall meeting on Wednesday, March 30th just one week before the test run of the tolling technology. I attended the town hall meeting and challenged the Commissioner of Information & Strategy that the tolling was presented as a fait accompli as none of the issues raised - ownership, transparency, court judgement and #EndSARS - were addressed.
-
 Engage your representatives and make your position on the tolling clear.
 - Babajide Sanwo-Olu - @jidesanwoolu
 - Gbenga Omotosho, Commissioner of Information & Strategy - 08034004237
@@ -66,11 +59,10 @@ Engage your representatives and make your position on the tolling clear.
 - Hon. Azeez Eshinlokun Habeeb, Local Government Councillor - deputylegislative@etiosalocalgovernment.com
 - Hon. Maiyegun Afis, Local Government Councillor - majoritylegislative@etiosalocalgovernment.com
 - Hon. Towolawi Abayomi, Local Government Councillor - chiefwhiplegis@etiosalocalgovernment.com
- 
 
-**Sign the online petition** - change.org/NoJusticeNoToll
-**Register to vote, get your PVC and engage in the electoral process.**
-**Join a protest**.
+ 2. **Sign the online petition** - change.org/NoJusticeNoToll
+ 2. **Register to vote, get your PVC and engage in the electoral process.**
+ 3. **Join a protest**.
 
 Rather than work to seek peace, Lagos State is actively working through LCC to inflict more suffering and hardship as it denies its citizens justice. Mr Governor and LASG can NOT ignore what happened on October 20, 2020 as it keeps its operations secret from the very people its officials swore oaths to serve.
 
