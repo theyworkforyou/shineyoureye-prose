@@ -1,6 +1,6 @@
 ---
 published: true
-slug: Empowering Transparency in Governance
+slug: empowering-transparency-in-governance
 author: EiENigeria
 title: Empowering Transparency in Governance
 ---
