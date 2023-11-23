@@ -4,7 +4,7 @@ slug: empowering-transparency-in-governance
 author: EiENigeria
 title: Empowering Transparency in Governance
 ---
-
+![SYE Logo.png]({{site.baseurl}}/media/prose-images/SYE%20Logo.png)
 
 Nigeria faces significant challenges in its governance landscape, and recent insights into the National Assembly's website have shed light on deep-rooted systemic issues. An in-depth examination revealed concerns about the state of the website, echoing sentiments shared by numerous citizens. 
 
