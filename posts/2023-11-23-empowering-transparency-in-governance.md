@@ -38,8 +38,7 @@ However, it's important to acknowledge the challenges encountered during this pr
 Looking ahead, Shine Your Eye aspires to overcome these challenges and further enhance its impact. The long-term vision includes not only addressing immediate information gaps but also advocating for structural reforms within institutions like the National Assembly. By continuing to empower citizens with accurate and up-to-date information, Shine Your Eye aims to foster a culture of accountability, ultimately contributing to a more open and better governance in Nigeria.
 
 
-![Note]({{site.baseurl}}/media/prose-images/Appreciation Note.jpeg)
-
+![SYE Logo.png]({{site.baseurl}}/media/prose-images/SYE%20Logo.png)
 
 
 The acknowledgment of deficiencies in Nigeria's public service rightly highlights the necessity for structural reform. The outdated National Assembly website stands as a visible indicator of a more extensive administrative problem. 
