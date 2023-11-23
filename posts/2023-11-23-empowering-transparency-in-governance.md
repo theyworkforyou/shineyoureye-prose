@@ -13,7 +13,7 @@ The National Assembly's website, designed as a comprehensive repository of legis
 
 The National Assembly's website reveals major shortcomings. It only contains 823 entries from 1999 to 2018, with missing dates and inaccessible documents. The most recent Hansard entry dates back to May 31, 2018, under the 9th Assembly. The Order Papers were last updated in March 2020, and the Bills tracker page lacks proper dates for its content and was updated last in 2022, making it challenging to access crucial legislative information.
 
-![Bill Tracker.jpg]({{site.baseurl}}/media/prose-images/Bill Tracker.jpg)
+![Tracker]({{site.baseurl}}/media/prose-images/Tracker.jpg)
 
 
 In contrast to the Nigerian National Assembly website, the South African National Assembly website shines through its dedication to providing citizens with up-to-date information on recent bills, legislative records, and comprehensive details about elected officials' activities, including the 2023 updates. This commitment ensures easy access to the latest legislative developments and initiatives, significantly enhancing transparency and accountability within the country's governance. The website is consistently updating its content and ensuring that information is easily accessible, setting a great example for effective public information dissemination.
@@ -35,6 +35,9 @@ However, it's important to acknowledge the challenges encountered during this pr
 
 Looking ahead, Shine Your Eye aspires to overcome these challenges and further enhance its impact. The long-term vision includes not only addressing immediate information gaps but also advocating for structural reforms within institutions like the National Assembly. By continuing to empower citizens with accurate and up-to-date information, Shine Your Eye aims to foster a culture of accountability, ultimately contributing to a more open and better governance in Nigeria.
 
-![Lawmaker's appreciation note.png]({{site.baseurl}}/{{site.baseurl}}/media/prose-images/WhatsApp%20Image%202023-11-23%20at%203.23.39%20PM.png)The acknowledgment of deficiencies in Nigeria's public service rightly highlights the necessity for structural reform. The outdated National Assembly website stands as a visible indicator of a more extensive administrative problem. 
+![Note]({{site.baseurl}}/media/prose-images/Appreciation Note.jpeg)
+
+
+The acknowledgment of deficiencies in Nigeria's public service rightly highlights the necessity for structural reform. The outdated National Assembly website stands as a visible indicator of a more extensive administrative problem. 
 
 In conclusion, the urgency for accessible and transparent governance echoes loudly within Nigeria's administrative sphere. The need for structural reform is undeniable. Let’s collectively, actively engage, and contribute to the shaping of a more open and responsible governance landscape.
