@@ -4,6 +4,9 @@ slug: KadunaShineYourEye-Kaduna_Central
 author: EiENigeria
 title: ' #KadunaShineYourEye: Kaduna Central'
 ---
+![]({{site.baseurl}}media/prose-images/kaduna.gif)![kaduna.gif]({{site.baseurl}}/media/prose-images/kaduna.gif)
+
+
 In the heart of Kaduna State, a transformative project named "Kaduna, Shine Your Eye" took root, championed by Enough is Enough Nigeria (EiE Nigeria) and her Kaduna State Partners - Legal Awareness for Nigerian Women (LANW) and Human Rights Monitor (HRM) was supported by the Foreign, Commonwealth and Development Office (FCDO) Nigeria and The Nigerian Civil Society Situation Room.
 A series of impactful town hall meetings were also conducted monthly in November and December 2023 across 10 Local Government Areas in two senatorial districts (Kaduna North and Kaduna Central) bringing together religious and traditional leaders, youth representatives, women leaders, persons with disability and Community Development Charter Champions; as part of our effort to promote citizen's engagement with the National Assembly members by equipping them with adequate information on ZIPs allocation for Kaduna State (ZIPs).
 
