@@ -4,16 +4,13 @@ slug: KadunaShineYourEye-Kaduna_Central
 author: EiENigeria
 title: ' #KadunaShineYourEye: Kaduna Central'
 ---
-![]({{site.baseurl}}media/prose-images/kaduna.gif)![kaduna.gif]({{site.baseurl}}/media/prose-images/kaduna.gif)
+##  **KADUNA CENTRAL**
 
 
 In the heart of Kaduna State, a transformative project named "Kaduna, Shine Your Eye" took root, championed by Enough is Enough Nigeria (EiE Nigeria) and her Kaduna State Partners - Legal Awareness for Nigerian Women (LANW) and Human Rights Monitor (HRM) was supported by the Foreign, Commonwealth and Development Office (FCDO) Nigeria and The Nigerian Civil Society Situation Room.
 A series of impactful town hall meetings were also conducted monthly in November and December 2023 across 10 Local Government Areas in two senatorial districts (Kaduna North and Kaduna Central) bringing together religious and traditional leaders, youth representatives, women leaders, persons with disability and Community Development Charter Champions; as part of our effort to promote citizen's engagement with the National Assembly members by equipping them with adequate information on ZIPs allocation for Kaduna State (ZIPs).
 
-![kaduna2.jpg]({{site.baseurl}}/media/prose-images/kaduna2.jpg)
 
-
-##  **KADUNA CENTRAL**
 ### **Chikun LGA**
 The town hall meetings were held with a cumulative attendance of 27 persons. Salomi Dauda, the LGA Champion led the session by providing an overview of who legislators and executives are, their roles and the expectations of citizens towards these officials. Subsequent conversations were had about citizens not trusting their community leaders due to the assumption that personal gain is at play and the eventual apathy that arises from it. 
 At the second meeting, a brief recap of the first meeting was given and afterward, the importance of citizens knowing and engaging elected representatives was stressed. The role of community leaders in demanding that the needs of their communities be met was also discussed. 
