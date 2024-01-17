@@ -16,7 +16,6 @@ The town hall meetings were held with a cumulative attendance of 27 persons. Sal
 At the second meeting, a brief recap of the first meeting was given and afterward, the importance of citizens knowing and engaging elected representatives was stressed. The role of community leaders in demanding that the needs of their communities be met was also discussed. 
 On a conclusive note, the participants urged that accountability projects like this should be taken seriously to help the LGA, especially because of the recurrent issues.
 
-![#NoJusticeNoToll.jpeg]({{site.baseurl}}/media/prose-images/kaduna2.jpg)
 
 ### **Igabi LGA**
 The first and second town hall meeting was held at the Government Secondary School Rigasa and the Skills Acquisition Centre, Rigasa, respectively with a total of 101 persons in attendance. Comrade Sagir Umar, the Community Champion, set the stage by articulating the objectives of the meeting and further discussions were made about government structures and the importance of citizen engagement.
