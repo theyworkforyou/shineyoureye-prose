@@ -4,7 +4,7 @@ slug: KadunaShineYourEye-Kaduna_Central
 author: EiENigeria
 title: ' #KadunaShineYourEye: Kaduna Central'
 ---
-##  **KADUNA CENTRAL**
+##  **KADUNA CENTRAL SENATORIAL DISTRICT**
 ![#NoJusticeNoToll.jpeg]({{site.baseurl}}/media/prose-images/kaduna.gif)
 
 In the heart of Kaduna State, a transformative project named "Kaduna, Shine Your Eye" took root, championed by Enough is Enough Nigeria (EiE Nigeria) and her Kaduna State Partners - Legal Awareness for Nigerian Women (LANW) and Human Rights Monitor (HRM) was supported by the Foreign, Commonwealth and Development Office (FCDO) Nigeria and The Nigerian Civil Society Situation Room.
