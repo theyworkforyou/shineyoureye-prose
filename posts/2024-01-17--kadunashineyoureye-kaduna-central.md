@@ -1,6 +1,6 @@
 ---
 published: true
-slug: an-awesome-headline
+slug: KadunaShineYourEye-Kaduna_Central
 author: EiENigeria
 title: ' #KadunaShineYourEye: Kaduna Central'
 ---
