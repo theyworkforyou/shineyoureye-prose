@@ -9,8 +9,8 @@ A series of impactful town hall meetings were also conducted monthly in November
 
 
 
-### **KADUNA CENTRAL**
-**Chikun LGA**
+##  **KADUNA CENTRAL**
+### **Chikun LGA**
 The town hall meetings were held with a cumulative attendance of 27 persons. Salomi Dauda, the LGA Champion led the session by providing an overview of who legislators and executives are, their roles and the expectations of citizens towards these officials. Subsequent conversations were had about citizens not trusting their community leaders due to the assumption that personal gain is at play and the eventual apathy that arises from it. 
 At the second meeting, a brief recap of the first meeting was given and afterward, the importance of citizens knowing and engaging elected representatives was stressed. The role of community leaders in demanding that the needs of their communities be met was also discussed. 
 On a conclusive note, the participants urged that accountability projects like this should be taken seriously to help the LGA, especially because of the recurrent issues.
