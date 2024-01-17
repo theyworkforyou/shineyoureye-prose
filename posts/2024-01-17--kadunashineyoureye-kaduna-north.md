@@ -4,7 +4,7 @@ slug: ' #KadunaShineYourEye_Kaduna-North '
 author: EiENigeria
 title: ' #KadunaShineYourEye: Kaduna North '
 ---
-## **KADUNA NORTH**
+## **KADUNA NORTH SENATORIAL DISTRICT**
 ![north.jpg]({{site.baseurl}}/media/prose-images/north.jpg)
 
 
