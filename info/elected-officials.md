@@ -29,6 +29,6 @@ The [National Assembly](http://www.nassnig.org "National Assembly") is Nigeriaâ€
 
 **Deputy Senate President** - [Barau Jibrin](/person/barau-i-jibrin "Barau I Jibrin")
 
-**Speaker of the House** - [Femi Gbajabiamila](/person/femi-gbajabiamila "Femi Gbajabiamila")
+**Speaker of the House** - [Tajudeen Abbas](/person/tajudeen-abbas "Tajudeen Abbas")
 
-**Deputy Speaker of the House** - [Ahmed Idris](/person/ahmed-idris-maje "Ahmed Idris")
+**Deputy Speaker of the House** - [Benjamin Kalu](/person/benjamin-kalu "Benjamin Kalu")
