@@ -16,8 +16,8 @@ Each of the states has enacted its own legislation. While core functions of loca
 STATE | GOVERNING PARTY	| PREVIOUS | MOST RECENT | NOTES
 ------------- | -------------  | ------------- | -------------  | -------------  
 Anambra | APGA 	| January 11, 2014 |  |Local governments run by Caretaker Committees.
-Akwa Ibom | PDP	| November 11, 2017 | October 31, 2020  |Have elected Chairmen. 
-Adamawa | APC 	| November 24, 2012 |December 4, 2021  |Caretaker Committee appointed to head the administration after the end of elected Chairmen’s tenure.
+Akwa Ibom | PDP	| November 11, 2017 | October 31, 2020  |Local governments run by Interim Transition Committees. 
+Adamawa | PDP 	| December 4, 2021 |April 10, 2022  |Have Elected Chairmen
 Abia 	| PDP 	| December 21, 2016  | December 18, 2020  |Have elected Chairmen.
 Bauchi | PDP 	|  | June 20, 2020   |Governor sacked all Caretaker Committee, Director of Administration in each LGA is expected to take over administration.
 Bayelsa | PDP 	| July 27, 2019 | August 10, 2019  |Have elected Chairmen. 
