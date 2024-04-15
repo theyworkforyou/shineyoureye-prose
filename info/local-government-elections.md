@@ -35,7 +35,7 @@ Imo 	| APC   | August 25, 2018 |March 12, 2022 |Have Elected Chairmen
 Jigawa 	| APC 	| June 29, 2019 |June 27, 2021 |Have elected Chairmen.
 Kaduna 	| APC 	| May 12, 2018 | September 4, 2021  |Have elected Chairmen.
 Kano 	| NNPC	| February 10, 2018 | January 16, 2021  |Have elected Chairmen.
-Katsina | APC 	| August 2, 2014 | March 4, 2022 |Elections postponed to February 15, 2025.
+Katsina | APC 	| August 2, 2014 | March 4, 2022 |Have elected Chairmen. Elections postponed to February 15, 2025.
 Kebbi 	| APC 	| July 15, 2017 | February 5, 2022  |Have elected Chairmen.
 Kogi 	| APC 	| May 4, 2013 |  |Local government run by Caretaker Committees.
 Kwara 	| APC 	| October 26, 2013 | November 18, 2017  | All local government chairmen suspended and is being run by Transition Implementation Committee. Elections to come up in 2025.
