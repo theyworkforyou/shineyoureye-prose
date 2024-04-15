@@ -38,16 +38,21 @@ Kano 	| NNPC	| February 10, 2018 | January 16, 2021  |Have elected Chairmen.
 Katsina | APC 	| August 2, 2014 | March 4, 2022 |Elections postponed to February 15, 2025.
 Kebbi 	| APC 	| July 15, 2017 | February 5, 2022  |Have elected Chairmen.
 Kogi 	| APC 	| May 4, 2013 |  |Local government run by Caretaker Committees.
-Kwara 	| APC 	| October 26, 2013 | November 18, 2017  | All local government chairmen suspended and is being run by Transition Implementation Committee. Elections to come up in 2025.
+Kwara 	| APC 	| October 26, 2013 | November 18, 2017  | All local government chairmen suspended and is being run by Transition Implementation Committee. 
+Elections to come up in 2025.
 Lagos 	| APC 	| July 22, 2017 | July 24, 2021  |Have elected Chairmen.
-Nasarawa | APC	| May 26, 2018 | October 6, 2021  |Have elected Chairmen. Elections to come up on August 31st, 2024.
+Nasarawa | APC	| May 26, 2018 | October 6, 2021  |Have elected Chairmen. 
+Elections to come up on August 31st, 2024.
 Niger 	| APC 	| November 30, 2019 |November 10, 2022 |Have Elected Chairmen.
 Ogun 	| APC 	| October 8, 2016 | July 24, 2021  |Have elected Chairmen.
 Ondo 	| APC 	| April 23, 2016 | August 22, 2020  |Elections postponed to July 13, 2024.
-Osun 	| PDP 	| January 27, 2018 | October 15, 2022  |Have elected Chairmen. Elections to come up on February 22nd, 2025.
-Oyo 	| PDP 	| May 12, 2018 | May 22, 2021  |Have elected Chairmen. Elections to come up on April 27th, 2024.
+Osun 	| PDP 	| January 27, 2018 | October 15, 2022  |Have elected Chairmen. 
+Elections to come up on February 22nd, 2025.
+Oyo 	| PDP 	| May 12, 2018 | May 22, 2021  |Have elected Chairmen. 
+Elections to come up on April 27th, 2024.
 Plateau | PDP	| October 10, 2018 | October 9, 2021  |Have elected Chairmen.
-Rivers 	| PDP  | June 16, 2018 | April 17, 2021  |Have elected Chairmen. Elections to come up in 2024.
+Rivers 	| PDP  | June 16, 2018 | April 17, 2021  |Have elected Chairmen. 
+Elections to come up in 2024.
 Sokoto 	| APC 	| July 23, 2011 | March 27, 2021  |Have elected Chairmen.
 Taraba 	| PDP 	| June 30, 2020 | November 18, 2023  |Have elected Chairmen.
 Yobe 	| APC 	| February 11, 2017 | February 27, 2021  |Have elected Chairmen.
