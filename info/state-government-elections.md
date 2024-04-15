@@ -15,4 +15,4 @@ Bayelsa | [Douye Diri](/person/douye-diri "Douye Diri") | PDP | Saturday, Novemb
 Ekiti | [Abiodun Oyebanji](/person/abiodun-oyebanji/  "Abiodun Oyebanji") | APC | June 18, 2022 | 2026
 Kogi | [Ahmed Usman Ododo](/person/ahmed-usman-ododo/ "Ahmed Usman Ododo") | APC | Saturday, November 11, 2023 | 2027
 Imo | [Hope Uzodinma](/person/hope-uzodinma "Hope Uzodinma") | APC | Saturday, November 11, 2023 | 2027
-Osun | [Ademola Adeleke](/person/ademola-adeleke/  "Ademola Adeleke") | PDP | July 16, 2022 | 2026
+Osun | [Ademola Adeleke](/person/ademola-nurudeen-adeleke/  "Ademola Adeleke") | PDP | July 16, 2022 | 2026
