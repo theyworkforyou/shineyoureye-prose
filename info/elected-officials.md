@@ -23,7 +23,7 @@ Judicial
 The judicial branch upholds the mandates of the Constitution. This branch works via a court system.
 
 Legislative
-The [National Assembly](http://www.nassnig.org "National Assembly") is Nigeria’s bicameral legislature and the highest elective law-making body of the country. It consists of the 109-member [**Senate**](http://www.nassnig.org/nass/index.php "Senate") and the 360-member [**House of Representatives**](http://www.nassnig.org/nass2/index.php "House of Representatives"). The term of the National Assembly is 4-years from the date of its first sitting after the general elections. The current 9th National Assembly (2019-2023) was inaugurated on June 11, 2019. 
+The [National Assembly](http://www.nassnig.org "National Assembly") is Nigeria’s bicameral legislature and the highest elective law-making body of the country. It consists of the 109-member [**Senate**](http://www.nassnig.org/nass/index.php "Senate") and the 360-member [**House of Representatives**](http://www.nassnig.org/nass2/index.php "House of Representatives"). The term of the National Assembly is 4-years from the date of its first sitting after the general elections. The current 10th National Assembly (2023-2027) was inaugurated on June 13, 2023. 
 
 **Senate President** - [Godswill Akpabio](/person/akpabio-godswill-obot "Akpabio Godswill Obot")
 
