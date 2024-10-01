@@ -24,14 +24,14 @@ Bayelsa | PDP 	| August 10, 2019 | April 6, 2024  |Governing party (PDP) won all
 Benue 	| APC 	| May 30, 2020 | October 5, 2024  |Have elected Chairmen.
 Borno | APC 	| November 28, 2020  | January 20, 2024  |Governing party (APC) won all 27 council seats.
 Cross River | APC  | May 30, 2020 | October 26, 2024 |Have elected Chairmen.
-Delta   | PDP 	| October 25, 2014 | March 6, 2021  |Have elected Chairmen.
-Ebonyi 	| APC 	| April 22, 2017 | June 30, 2022  |Have elected Chairmen.
+Delta   | PDP 	|  March 6, 2021 | July 13, 2024 |Governing party (PDP) won all 25 council seats.
+Ebonyi 	| APC 	| June 30, 2022 | July 20, 2024 |Governing party (APC) won all 13 council seats.
 Edo 	| PDP	| March 3, 2018 |September 2, 2023 |Have elected Chairmen.
-Ekiti 	| APC 	| December 4 , 2021| December 2, 2021  |Have Elected Chairman.
-Enugu 	| PDP 	| November 4, 2017 | February 23, 2022  |Have elected Chairmen. Elections postponed to October 5, 2024.
-FCT   | PDP | March 2, 2019 | February 12, 2022  |Have elected Chairmen.
-Gombe 	| APC 	| February 25, 2017 |December 19, 2020  |Have elected Chairmen. Elections postponed to April 27, 2024.
-Imo 	| APC   | August 25, 2018 |March 12, 2022 |Have Elected Chairmen	 
+Ekiti 	| APC 	| December 2 , 2021| December 2, 2023 |Governing party (PDP) won all all the 38 chairmanship and 177 councillorship seats.
+Enugu 	| PDP 	|February 23, 2022 | September 21, 2024 |Governing party (PDP) won all all the 17 chairmanship and 260 councillorship seats.
+FCT   | PDP | February 12, 2022 | 2026 |Six elected Chairmen (3 APC, and 3 PDP) were sworn in by Justice Suleiman Belgore on Tuesday, June 14, 2022.
+Gombe 	| APC 	| December 19, 2020 |April 27, 2024 |Governing party (APC) won all 11 Chairmanship and 114 Councilorship positions.
+Imo 	| APC   | March 12, 2022 | September 21, 2024 |Have Elected Chairmen	 
 Jigawa 	| APC 	| June 29, 2019 |June 27, 2021 |Have elected Chairmen.
 Kaduna 	| APC 	| May 12, 2018 | September 4, 2021  |Have elected Chairmen.
 Kano 	| NNPC	| February 10, 2018 | January 16, 2021  |Have elected Chairmen.
