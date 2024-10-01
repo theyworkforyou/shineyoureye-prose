@@ -20,10 +20,10 @@ Akwa Ibom | PDP	| November 2020 | October 5, 2024  |Governing party People’s D
 Adamawa | PDP 	| December 4, 2021 |July 13, 2024  |Governing party (PDP) won all 21 council seats.
 Abia 	| LP 	| December 18, 2020   | November 2, 2024  |Abia state Governor, Dr. Alex Otti (LP), appointed mayors for the 17 LGAs in November 2023. The Mayors will steer the affairs of their assigned LGAs until after the LG elections in November 2024.
 Bauchi | PDP 	| June 20, 2020 | August 17, 2024 |Governing party (PDP) won all 20 council seats.
-Bayelsa | PDP 	| July 27, 2019 | August 10, 2019  |Have elected Chairmen. 
-Benue 	| APC 	| June 3, 2017 | May 30, 2020  |Have elected Chairmen.
-Borno | APC 	| November 28, 2020  | January 20, 2024  |Have elected Chairmen.
-Cross River | APC  | March 28, 2020 | May 30, 2020 |Have elected Chairmen.
+Bayelsa | PDP 	| August 10, 2019 | April 6, 2024  |Governing party (PDP) won all 8 council seatsThe main opposition, APC and LP shunned the exercise, which was conducted by BYSIEC. 
+Benue 	| APC 	| May 30, 2020 | October 5, 2024  |Have elected Chairmen.
+Borno | APC 	| November 28, 2020  | January 20, 2024  |Governing party (APC) won all 27 council seats.
+Cross River | APC  | May 30, 2020 | October 26, 2024 |Have elected Chairmen.
 Delta   | PDP 	| October 25, 2014 | March 6, 2021  |Have elected Chairmen.
 Ebonyi 	| APC 	| April 22, 2017 | June 30, 2022  |Have elected Chairmen.
 Edo 	| PDP	| March 3, 2018 |September 2, 2023 |Have elected Chairmen.
