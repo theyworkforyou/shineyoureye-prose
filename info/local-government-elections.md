@@ -32,14 +32,14 @@ Enugu 	| PDP 	|February 23, 2022 | September 21, 2024 |Governing party (PDP) won
 FCT   | PDP | February 12, 2022 | 2026 |Six elected Chairmen (3 APC, and 3 PDP) were sworn in by Justice Suleiman Belgore on Tuesday, June 14, 2022.
 Gombe 	| APC 	| December 19, 2020 |April 27, 2024 |Governing party (APC) won all 11 Chairmanship and 114 Councilorship positions.
 Imo 	| APC   | March 12, 2022 | September 21, 2024 |Have Elected Chairmen	 
-Jigawa 	| APC 	| June 29, 2019 |June 27, 2021 |Have elected Chairmen.
-Kaduna 	| APC 	| May 12, 2018 | September 4, 2021  |Have elected Chairmen.
-Kano 	| NNPC	| February 10, 2018 | January 16, 2021  |Have elected Chairmen.
-Katsina | APC 	| August 2, 2014 | March 4, 2022 |Have elected Chairmen. Elections postponed to February 15, 2025.
-Kebbi 	| APC 	| July 15, 2017 | February 5, 2022  |Have elected Chairmen.
-Kogi 	| APC 	| May 4, 2013 |  |Local government run by Caretaker Committees.
-Kwara 	| APC 	| October 26, 2013 | November 18, 2017  | All local government chairmen suspended and is being run by Transition Implementation Committee. Elections to come up in 2025.
-Lagos 	| APC 	| July 22, 2017 | July 24, 2021  |Have elected Chairmen.
+Jigawa 	| APC 	| June 27, 2021 |October 5, 2024 |Elections to be held in 26 LGAs, 287 Wards.
+Kaduna 	| APC 	| September 4, 2021 | October 19, 2024  |Have elected Chairmen.
+Kano 	| APC	| January 16, 2021 | October 26, 2024  |Elections to be held in 44 LGAs.
+Katsina | APC 	| March 4, 2022 | February 15, 2025 |
+Kebbi 	| APC 	| February 5, 2022 | August 31, 2024 | Governing party, All Progressives Congress (APC) won all 21 local government chairmanship and 225 councilorship positions in the state.
+Kogi 	| APC 	| May 4, 2013 | October 19, 2024 |
+Kwara 	| APC 	| November 18, 2017 | September 21, 2024  | Governing party, APC, won in All 16 LGAs and 193 Wards.
+Lagos 	| APC 	| July 22, 2017 | July 24, 2021  | Governing party, APC, won 375 out of the 377 councilorship seats spread across the 20 LGs and 37 LCDAs.
 Nasarawa | APC	| May 26, 2018 | October 6, 2021  |Have elected Chairmen. Elections to come up on August 31st, 2024.
 Niger 	| APC 	| November 30, 2019 |November 10, 2022 |Have Elected Chairmen.
 Ogun 	| APC 	| October 8, 2016 | July 24, 2021  |Have elected Chairmen.
