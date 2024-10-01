@@ -29,21 +29,21 @@ Ebonyi 	| APC 	| June 30, 2022 | July 20, 2024 |Governing party (APC) won all 13
 Edo 	| PDP	| March 3, 2018 |September 2, 2023 |Have elected Chairmen.
 Ekiti 	| APC 	| December 2 , 2021| December 2, 2023 |Governing party (PDP) won all all the 38 chairmanship and 177 councillorship seats.
 Enugu 	| PDP 	|February 23, 2022 | September 21, 2024 |Governing party (PDP) won all all the 17 chairmanship and 260 councillorship seats.
-FCT   | PDP | February 12, 2022 | 2026 |Six elected Chairmen (3 APC, and 3 PDP) were sworn in by Justice Suleiman Belgore on Tuesday, June 14, 2022.
+FCT   | PDP |  | February 12, 2022 |Next Election to happen 2026. Six elected Chairmen (3 APC, and 3 PDP) were sworn in by Justice Suleiman Belgore on Tuesday, June 14, 2022.
 Gombe 	| APC 	| December 19, 2020 |April 27, 2024 |Governing party (APC) won all 11 Chairmanship and 114 Councilorship positions.
 Imo 	| APC   | March 12, 2022 | September 21, 2024 |Have Elected Chairmen	 
 Jigawa 	| APC 	| June 27, 2021 |October 5, 2024 |Elections to be held in 26 LGAs, 287 Wards.
 Kaduna 	| APC 	| September 4, 2021 | October 19, 2024  |Have elected Chairmen.
 Kano 	| APC	| January 16, 2021 | October 26, 2024  |Elections to be held in 44 LGAs.
-Katsina | APC 	| March 4, 2022 | February 15, 2025 |
+Katsina | APC 	|  | March 4, 2022| Next Election to happen February 15, 2025
 Kebbi 	| APC 	| February 5, 2022 | August 31, 2024 | Governing party, All Progressives Congress (APC) won all 21 local government chairmanship and 225 councilorship positions in the state.
 Kogi 	| APC 	| May 4, 2013 | October 19, 2024 |
 Kwara 	| APC 	| November 18, 2017 | September 21, 2024  | Governing party, APC, won in All 16 LGAs and 193 Wards.
 Lagos 	| APC 	| July 22, 2017 | July 24, 2021  | Governing party, APC, won 375 out of the 377 councilorship seats spread across the 20 LGs and 37 LCDAs.
-Nasarawa | APC	| May 26, 2018 | October 6, 2021  |Have elected Chairmen. Elections to come up on August 31st, 2024.
-Niger 	| APC 	| November 30, 2019 |November 10, 2022 |Have Elected Chairmen.
-Ogun 	| APC 	| October 8, 2016 | July 24, 2021  |Have elected Chairmen.
-Ondo 	| APC 	| April 23, 2016 | August 22, 2020  |Have elected Chairmen. Elections postponed to July 13, 2024.
+Nasarawa | APC	| October 6, 2021  | August 31st, 2024 |
+Niger 	| APC 	| November 30, 2019 |November 10, 2022 |Have Elected Chairmen. Governing party, APC, won 22 out of 25 seats.
+Ogun 	| APC 	| July 24, 2021 | November 16, 2024  |Have elected Chairmen.
+Ondo 	| APC 	|  | August 22, 2020 |Next Election to happen January 18, 2025
 Osun 	| PDP 	| January 27, 2018 | October 15, 2022  |Have elected Chairmen. Elections to come up on February 22nd, 2025.
 Oyo 	| PDP 	| May 12, 2018 | May 22, 2021  |Have elected Chairmen. Elections to come up on April 27th, 2024.
 Plateau | PDP	| October 10, 2018 | October 9, 2021  |Have elected Chairmen.
