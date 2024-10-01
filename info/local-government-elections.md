@@ -43,14 +43,14 @@ Lagos 	| APC 	| July 22, 2017 | July 24, 2021  | Governing party, APC, won 375 o
 Nasarawa | APC	| October 6, 2021  | August 31st, 2024 |
 Niger 	| APC 	| November 30, 2019 |November 10, 2022 |Have Elected Chairmen. Governing party, APC, won 22 out of 25 seats.
 Ogun 	| APC 	| July 24, 2021 | November 16, 2024  |Have elected Chairmen.
-Ondo 	| APC 	|  | August 22, 2020 |Next Election to happen January 18, 2025
+Ondo 	| APC 	|  | August 22, 2020 | Next Election to happen January 18, 2025
 Osun 	| PDP 	| January 27, 2018 | October 15, 2022  |Have elected Chairmen. Elections to come up on February 22nd, 2025.
-Oyo 	| PDP 	| May 12, 2018 | May 22, 2021  |Have elected Chairmen. Elections to come up on April 27th, 2024.
-Plateau | PDP	| October 10, 2018 | October 9, 2021  |Have elected Chairmen.
-Rivers 	| PDP  | June 16, 2018 | April 17, 2021  |Have elected Chairmen. Elections to come up in 2024.
-Sokoto 	| APC 	| July 23, 2011 | March 27, 2021  |Have elected Chairmen.
-Taraba 	| PDP 	| June 30, 2020 | November 18, 2023  |Have elected Chairmen.
-Yobe 	| APC 	| February 11, 2017 | February 27, 2021  |Have elected Chairmen.
+Oyo 	| PDP 	| May 22, 2021 | April 27, 2024 |Governing party, Peoples Democratic Party (PDP) have won the chairmanship position in all the 33 Local Government Areas.
+Plateau | PDP	| October 9, 2021 | October 9, 2024 | The LGA transition committee was dissolved by the Governor in September. Directors of Personnel Management to assume responsibility for the administration of the 17 council areas until elections are held on October.
+Rivers 	| PDP  | April 17, 2021 | October 5, 2024 | Governor Fubara appointed caretaker committees for the 23 local government areas, following the expiration of the elected council exco’s tenure in June, 2024.
+Sokoto 	| APC 	| March 27, 2021 | September 21, 2024 | Governing party (APC) won all all the 23 chairmanship seats.
+Taraba 	| PDP 	| November 18, 2023  | November 18, 2024 |Governing party (PDP) won all the 16 Chairmanship seats.
+Yobe 	| APC 	| February 27, 2021 |  June 8, 2024 |Governing party All Progressives Congress (APC) won all the 17 Chairmanship seats.
 Zamfara | PDP   | January 2, 2016 | April 27, 2019 |Have elected Chairmen.
 <img width=150/>|<img width=150/>|<img width=150/>|<img width=150/>|
 
