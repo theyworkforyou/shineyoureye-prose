@@ -9,17 +9,17 @@ Local government is the third tier of government in Nigeria. It exists as a sing
 
 Each of the states has enacted its own legislation. While core functions of local government are defined in the 4th Schedule of the Constitution, individual states may augment their responsibilities through legislation. 
 
-### Local Government Elections in Nigeria (as of April 15, 2024)
+### Local Government Elections in Nigeria (as of October 1st, 2024)
 
 ---------------------------------------------------------------
 
 STATE | GOVERNING PARTY	| PREVIOUS | MOST RECENT | NOTES
 ------------- | -------------  | ------------- | -------------  | -------------  
-Anambra | APGA 	| January 11, 2014 |  |Local governments run by Caretaker Committees.
-Akwa Ibom | PDP	| November 11, 2017 | October 31, 2020  |Local governments run by Interim Transition Committees. 
-Adamawa | PDP 	| December 4, 2021 |April 10, 2022  |Have Elected Chairmen
-Abia 	| LP 	| December 21, 2016  | December 18, 2020  |Elections couldn't hold on 19th May, 2023 because of the two court orders restraining the commission from going ahead with the polls.
-Bauchi | PDP 	|  | June 20, 2020   |Governor sacked all Caretaker Committee, Director of Administration in each LGA is expected to take over administration.
+Anambra | APGA 	| January 11, 2014 | September 28, 2024 |Governing party (APGA) won all all chairmanship and councillorship seats across the 21 local government areas of the state
+Akwa Ibom | PDP	| November 2020 | October 5, 2024  |Governing party People’s Democratic Party (PDP) won all the 31 chairmanship and 367 councilorship positions in the previous LGA elections. Local governments run by Interim Transition Committees, following the expiration of the elected exco’s tenure in November 2023.
+Adamawa | PDP 	| December 4, 2021 |July 13, 2024  |Governing party (PDP) won all 21 council seats.
+Abia 	| LP 	| December 18, 2020   | November 2, 2024  |Abia state Governor, Dr. Alex Otti (LP), appointed mayors for the 17 LGAs in November 2023. The Mayors will steer the affairs of their assigned LGAs until after the LG elections in November 2024.
+Bauchi | PDP 	| June 20, 2020 | August 17, 2024 |Governing party (PDP) won all 20 council seats.
 Bayelsa | PDP 	| July 27, 2019 | August 10, 2019  |Have elected Chairmen. 
 Benue 	| APC 	| June 3, 2017 | May 30, 2020  |Have elected Chairmen.
 Borno | APC 	| November 28, 2020  | January 20, 2024  |Have elected Chairmen.
