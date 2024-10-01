@@ -8,7 +8,6 @@ published: true
 
 STATE | INCUMBENT GOVERNOR | PARTY |ELECTION DATE | NEXT ELECTION DATE
 ------------------|------------------|------------------|------------------|------------------
-Edo | [Godwin Obaseki](/person/godwin-obaseki/ "Godwin Obaseki") | PDP | September 19, 2020 | Saturday, September 21, 2024
 Ondo | [Lucky Aiyedatiwa](/person/lucky-aiyedatiwa/ "Lucky Aiyedatiwa") | APC | 2023 | Saturday 16 November 2024
 Anambra | [Charles Soludo](/person/charles-soludo/  "Charles Soludo") | APGA | November 6, 2021 | 2025
 Bayelsa | [Douye Diri](/person/douye-diri "Douye Diri") | PDP | Saturday, November 11, 2023 | 2027
