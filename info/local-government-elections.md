@@ -13,10 +13,9 @@ Each of the states has enacted its own legislation. While core functions of loca
 
 ---------------------------------------------------------------
 
-STATE | GOVERNING PARTY	| PREVIOUS | MOST RECENT | NOTES
+STATE | GOVERNING PARTY	| PREVIOUS | NEXT ELECTION | NOTES
 ------------- | -------------  | ------------- | -------------  | -------------  
-Anambra | APGA 	| January 11, 2014 | September 28, 2024 |Governing party (APGA) won all all chairmanship and councillorship seats across the 21 local government areas of the state
-Akwa Ibom | PDP	| November 2020 | October 5, 2024  |Governing party People’s Democratic Party (PDP) won all the 31 chairmanship and 367 councilorship positions in the previous LGA elections. Local governments run by Interim Transition Committees, following the expiration of the elected exco’s tenure in November 2023.
+Akwa Ibom | PDP	| November 2020 | October 5, 2024  |Governing party People’s Democratic Party (PDP) won all the 31 chairmanship and 367 councilorship positions in the previous LGA elections.
 Adamawa | PDP 	| December 4, 2021 |July 13, 2024  |Governing party (PDP) won all 21 council seats.
 Abia 	| LP 	| December 18, 2020   | November 2, 2024  |Abia state Governor, Dr. Alex Otti (LP), appointed mayors for the 17 LGAs in November 2023. The Mayors will steer the affairs of their assigned LGAs until after the LG elections in November 2024.
 Bauchi | PDP 	| June 20, 2020 | August 17, 2024 |Governing party (PDP) won all 20 council seats.
