@@ -9,11 +9,11 @@ Local government is the third tier of government in Nigeria. It exists as a sing
 
 Each of the states has enacted its own legislation. While core functions of local government are defined in the 4th Schedule of the Constitution, individual states may augment their responsibilities through legislation. 
 
-### Local Government Elections in Nigeria (last Updated October 4th, 2024)
+### Local Government Elections in Nigeria (Last Updated October 4th, 2024)
 
 ---------------------------------------------------------------
 
-STATE | GOVERNING PARTY	| PREVIOUS | NEXT ELECTION | NOTES
+STATE | GOVERNING PARTY	| PREVIOUS | MOST RECENT | NOTES
 ------------- | -------------  | ------------- | -------------  | -------------  
 Akwa Ibom | PDP	| November 2020 | October 5, 2024  |Governing party People’s Democratic Party (PDP) won all the 31 chairmanship and 367 councilorship positions in the previous LGA elections.
 Adamawa | PDP 	| December 4, 2021 |July 13, 2024  |Governing party (PDP) won all 21 council seats.
