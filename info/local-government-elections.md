@@ -9,19 +9,19 @@ Local government is the third tier of government in Nigeria. It exists as a sing
 
 Each of the states has enacted its own legislation. While core functions of local government are defined in the 4th Schedule of the Constitution, individual states may augment their responsibilities through legislation. 
 
-### Local Government Elections in Nigeria (as of October 1st, 2024)
+### Local Government Elections in Nigeria (as of October 7th, 2024)
 
 ---------------------------------------------------------------
 
 STATE | GOVERNING PARTY	| PREVIOUS | MOST RECENT | NOTES
 ------------- | -------------  | ------------- | -------------  | -------------  
 Anambra | APGA 	| January 11, 2014 | September 28, 2024 |Governing party (APGA) won all all chairmanship and councillorship seats across the 21 local government areas of the state
-Akwa Ibom | PDP	| November 2020 | October 5, 2024  |Governing party People’s Democratic Party (PDP) won all the 31 chairmanship and 367 councilorship positions in the previous LGA elections. Local governments run by Interim Transition Committees, following the expiration of the elected exco’s tenure in November 2023.
+Akwa Ibom | PDP	| November 2020 | October 5, 2024  |The governing party People’s Democratic Party (PDP) won 3 of the 31 chairmanship seats, and APC won 1.
 Adamawa | PDP 	| December 4, 2021 |July 13, 2024  |Governing party (PDP) won all 21 council seats.
 Abia 	| LP 	| December 18, 2020   | November 2, 2024  |Abia state Governor, Dr. Alex Otti (LP), appointed mayors for the 17 LGAs in November 2023. The Mayors will steer the affairs of their assigned LGAs until after the LG elections in November 2024.
 Bauchi | PDP 	| June 20, 2020 | August 17, 2024 |Governing party (PDP) won all 20 council seats.
 Bayelsa | PDP 	| August 10, 2019 | April 6, 2024  |Governing party (PDP) won all 8 council seatsThe main opposition, APC and LP shunned the exercise, which was conducted by BYSIEC. 
-Benue 	| APC 	| May 30, 2020 | October 5, 2024  |Have elected Chairmen.
+Benue 	| APC 	| May 30, 2020 | October 5, 2024  |The governing party, All Progressives Party (APC) won all 23 Chairmanship and 276 Councillorship seats.
 Borno | APC 	| November 28, 2020  | January 20, 2024  |Governing party (APC) won all 27 council seats.
 Cross River | APC  | May 30, 2020 | October 26, 2024 |Have elected Chairmen.
 Delta   | PDP 	|  March 6, 2021 | July 13, 2024 |Governing party (PDP) won all 25 council seats.
@@ -32,7 +32,7 @@ Enugu 	| PDP 	|February 23, 2022 | September 21, 2024 |Governing party (PDP) won
 FCT   | PDP |  | February 12, 2022 |Next Election to happen 2026. Six elected Chairmen (3 APC, and 3 PDP) were sworn in by Justice Suleiman Belgore on Tuesday, June 14, 2022.
 Gombe 	| APC 	| December 19, 2020 |April 27, 2024 |Governing party (APC) won all 11 Chairmanship and 114 Councilorship positions.
 Imo 	| APC   | March 12, 2022 | September 21, 2024 |Have Elected Chairmen	 
-Jigawa 	| APC 	| June 27, 2021 |October 5, 2024 |Elections to be held in 26 LGAs, 287 Wards.
+Jigawa 	| APC 	| June 27, 2021 |October 5, 2024 |The governing party, All Progressive Congress (APC) won all the 27 chairmanship and 281 out of 287 councillorship seats contested by 11 political parties.
 Kaduna 	| APC 	| September 4, 2021 | October 19, 2024  |Have elected Chairmen.
 Kano 	| APC	| January 16, 2021 | October 26, 2024  |Elections to be held in 44 LGAs.
 Katsina | APC 	|  | March 4, 2022| Next Election to happen February 15, 2025
@@ -47,7 +47,7 @@ Ondo 	| APC 	|  | August 22, 2020 | Next Election to happen January 18, 2025
 Osun 	| PDP 	| January 27, 2018 | October 15, 2022  |Have elected Chairmen. Elections to come up on February 22nd, 2025.
 Oyo 	| PDP 	| May 22, 2021 | April 27, 2024 |Governing party, Peoples Democratic Party (PDP) have won the chairmanship position in all the 33 Local Government Areas.
 Plateau | PDP	| October 9, 2021 | October 9, 2024 | The LGA transition committee was dissolved by the Governor in September. Directors of Personnel Management to assume responsibility for the administration of the 17 council areas until elections are held on October.
-Rivers 	| PDP  | April 17, 2021 | October 5, 2024 | Governor Fubara appointed caretaker committees for the 23 local government areas, following the expiration of the elected council exco’s tenure in June, 2024.
+Rivers 	| PDP  | April 17, 2021 | October 5, 2024 | APP won 22 out of 23 chairmanship seats in Rivers LG poll.
 Sokoto 	| APC 	| March 27, 2021 | September 21, 2024 | Governing party (APC) won all all the 23 chairmanship seats.
 Taraba 	| PDP 	| November 18, 2023  | November 18, 2024 |Governing party (PDP) won all the 16 Chairmanship seats.
 Yobe 	| APC 	| February 27, 2021 |  June 8, 2024 |Governing party All Progressives Congress (APC) won all the 17 Chairmanship seats.
