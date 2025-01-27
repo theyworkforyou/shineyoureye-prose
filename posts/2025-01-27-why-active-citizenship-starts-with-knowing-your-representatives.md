@@ -1,9 +1,11 @@
 ---
 published: true
-slug: an-awesome-headline
+slug: Why Active Citizenship Starts With Knowing Your Representatives
 author: EiENigeria
 title: Why Active Citizenship Starts With Knowing Your Representatives
 ---
+![Reps.jpg]({{site.baseurl}}/media/prose-images/Reps.jpg)
+
 
 In any democracy, the power truly lies with the people. Citizens have the responsibility to hold their leaders accountable and ensure they fulfil their promises. However, to do this effectively, you must first know who your representatives are. This knowledge is the foundation of active citizenship.
 
@@ -41,4 +43,7 @@ You can also:
 
 Active citizenship starts with knowing your representatives. By understanding who they are and what they do, you can engage with them more effectively and play your part in building a better Nigeria. Democracy works best when citizens are informed, involved, and empowered to act. Start today by finding out who represents you and how you can reach them.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+Take the first step today! Visit [shineyoureye.org](https://www.shineyoureye.org/) to identify your representatives and access their contact details. Hold them accountable, share your concerns, and advocate for the changes you want to see in your community. 
+
+_**Democracy thrives when citizens actively participate!**_
