@@ -39,7 +39,7 @@ Katsina | APC 	| March 4, 2022 |February 15, 2025| Next Election to happen.
 Kebbi 	| APC 	| February 5, 2022 | August 31, 2024 | Governing party, All Progressives Congress (APC) won all 21 local government chairmanship and 225 councilorship positions in the state.
 Kogi 	| APC 	| May 4, 2013 | October 19, 2024 |
 Kwara 	| APC 	| November 18, 2017 | September 21, 2024  | Governing party, APC, won in All 16 LGAs and 193 Wards.
-Lagos 	| APC 	| July 22, 2017 | July 24, 2021  | Governing party, APC, won 375 out of the 377 councilorship seats spread across the 20 LGs and 37 LCDAs.
+Lagos 	| APC 	| July 22, 2017 | 2025 | Next Election will hold in 2025.
 Nasarawa | APC	| October 6, 2021  | August 31st, 2024 |
 Niger 	| APC 	| November 30, 2019 |November 10, 2022 |Have Elected Chairmen. Governing party, APC, won 22 out of 25 seats.
 Ogun 	| APC 	| July 24, 2021 | November 16, 2024  |Have elected Chairmen.
