@@ -7,7 +7,7 @@ published: true
 ---
 ELECTIONS | ELECTIONS DATE | TENURE ELAPSES 
 ------------- | -------------  | -------------
- Ondo Governorship Election | Saturday, November 16, 2024 |
+Anambra Governorship Election | Saturday, November 8, 2025 |
 
 
 -----------
