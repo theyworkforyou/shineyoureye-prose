@@ -9,7 +9,7 @@ Local government is the third tier of government in Nigeria. It exists as a sing
 
 Each of the states has enacted its own legislation. While core functions of local government are defined in the 4th Schedule of the Constitution, individual states may augment their responsibilities through legislation. 
 
-### Local Government Elections in Nigeria (as of October 7th, 2024)
+### Local Government Elections in Nigeria (as of Febuary 26th, 2025)
 
 ---------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Ebonyi 	| APC 	| June 30, 2022 | July 20, 2024 |Governing party (APC) won all 13
 Edo 	| PDP	| March 3, 2018 |September 2, 2023 |Have elected Chairmen.
 Ekiti 	| APC 	| December 2 , 2021| December 2, 2023 |Governing party (PDP) won all all the 38 chairmanship and 177 councillorship seats.
 Enugu 	| PDP 	|February 23, 2022 | September 21, 2024 |Governing party (PDP) won all all the 17 chairmanship and 260 councillorship seats.
-FCT   | PDP | February 12, 2022 | January 20th, 2024 |Next Election to happen 2026. Six elected Chairmen (3 APC, and 3 PDP) were sworn in by Justice Suleiman Belgore on Tuesday, June 14, 2022.
+FCT   | PDP | February 12, 2022 | FEBRUARY 21, 2026 |Next Election to happen 2026. Six elected Chairmen (3 APC, and 3 PDP) were sworn in by Justice Suleiman Belgore on Tuesday, June 14, 2022.
 Gombe 	| APC 	| December 19, 2020 |April 27, 2024 |Governing party (APC) won all 11 Chairmanship and 114 Councilorship positions.
 Imo 	| APC   | March 12, 2022 | September 21, 2024 |Have Elected Chairmen	 
 Jigawa 	| APC 	| June 27, 2021 |October 5, 2024 |The governing party, All Progressive Congress (APC) won all the 27 chairmanship and 281 out of 287 councillorship seats contested by 11 political parties.
