@@ -5,10 +5,6 @@ author: EiENigeria
 title: How to Engage with Your Representatives Effectively
 ---
 
-
-
-
-
 Democracy thrives when citizens actively participate beyond just casting their votes during elections. While voting is an essential part of the democratic process, it is only the first step. True civic engagement requires continuous involvement to ensure that elected officials remain accountable and responsive to the needs of the people. This means regularly communicating with your representatives, monitoring their actions, and pushing for policies that benefit your community. But how exactly can you reach out to them and make your voice count?
 
 ![voting.jpg]({{site.baseurl}}/media/prose-images/voting.jpg)
