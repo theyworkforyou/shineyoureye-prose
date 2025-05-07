@@ -4,6 +4,7 @@ slug: an-awesome-headline
 author: EiENigeria
 title: ' You Have the Power'
 ---
+
 Too many Nigerians believe that power lies only in the hands of politicians. But in a democracy, the power belongs to the people.
 Elected officials are public servants — they were chosen to serve, not to rule. When leaders forget this, it’s our duty to remind them. Accountability is not a favour, it’s a right.
 Your Voice, Your Power
@@ -12,7 +13,7 @@ Unfortunately, many citizens don’t realise this. They don’t know who their r
 It’s time to close that gap.
 
 
-Why You Must Hold Leaders Accountable
+**Why You Must Hold Leaders Accountable**
 They Work for You: You pay taxes. You vote. You have the right to know how your resources are being used.
 It’s Your Future at Stake: Bad governance affects your roads, hospitals, schools, jobs, and safety. Why stay silent?
 Accountability Brings Results: When leaders know the people are watching, they are more likely to act right.
