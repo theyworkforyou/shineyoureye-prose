@@ -4,6 +4,8 @@ slug: an-awesome-headline
 author: EiENigeria
 title: ' You Have the Power'
 ---
+![Power-of-the-people]({{site.baseurl}}/media/prose-images/Power-of-the-people.jpg)
+
 
 Too many Nigerians believe that power lies only in the hands of politicians. But in a democracy, the power belongs to the people.
 Elected officials are public servants — they were chosen to serve, not to rule. When leaders forget this, it’s our duty to remind them. Accountability is not a favour, it’s a right.
