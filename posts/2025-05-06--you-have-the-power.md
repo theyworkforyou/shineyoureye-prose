@@ -24,10 +24,11 @@ Accountability Brings Results: When leaders know the people are watching, they a
 But First… Know Who They Are
 You can’t hold someone accountable if you don’t know who they are.
 That’s why platforms like shineyoureye.org exist. They help you:
-Find out who your elected officials are
-Get their contact information
-Track what they’ve done (or haven’t done)
-Send them a message directly
+- Find out who your elected officials are
+- Get their contact information
+- Track what they’ve done (or haven’t done)
+- Send them a message directly
+
 
 
 You deserve to know what your representatives are doing with your mandate. And if they’re not working, you have the power to call them out — or vote them out.
