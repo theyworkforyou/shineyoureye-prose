@@ -30,7 +30,6 @@ That’s why platforms like shineyoureye.org exist. They help you:
 - Send them a message directly
 
 
-
 You deserve to know what your representatives are doing with your mandate. And if they’re not working, you have the power to call them out — or vote them out.
 Start Now. Take Charge.
 
