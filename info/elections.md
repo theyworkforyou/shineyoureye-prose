@@ -8,8 +8,8 @@ published: true
 ELECTIONS | ELECTIONS DATE | TENURE ELAPSES 
 ------------- | -------------  | -------------
 
-Osun Governorship Election | Saturday, June 20, 2026 |
-Ekiti Governorship Election | Saturday, August 15, 2026 |
+Ekiti Governorship Election | Saturday, June 20, 2026 |
+Osun Governorship Election | Saturday, August 15, 2026 |
 
 -----------
 
