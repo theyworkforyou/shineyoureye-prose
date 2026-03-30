@@ -7,7 +7,7 @@ published: true
 ---
 ELECTIONS | ELECTIONS DATE | TENURE ELAPSES 
 ------------- | -------------  | -------------
-Anambra Governorship Election | Saturday, November 8, 2025 |
+Osun Governorship Election | Saturday, November 8, 2025 |
 
 
 -----------
