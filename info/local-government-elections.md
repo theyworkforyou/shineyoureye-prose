@@ -13,7 +13,7 @@ Each of the states has enacted its own legislation. While core functions of loca
 
 ---------------------------------------------------------------
 
-STATE | GOVERNING PARTY	| PREVIOUS | MOST RECENT | NOTES
+STATE | GOVERNING PARTY	| PREVIOUS | NEXT | NOTES
 ------------- | -------------  | ------------- | -------------  | -------------  
 Anambra | APGA | August 29, 2026 | Not announced | APGA won all 21 chairmanship seats and all councillorship seats across the state.
 Akwa Ibom | APC | October 26, 2024 | Not announced | PDP won 30 of the 31 chairmanship seats, while APC won 1. Governor Umo Eno has since moved from PDP to APC.
