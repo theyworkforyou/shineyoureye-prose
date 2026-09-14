@@ -28,7 +28,7 @@ Delta | APC | July 13, 2024 | Not announced | Governing party at the time (PDP) 
 Ebonyi | APC | July 20, 2024 | Not announced | Governing party (APC) won all 13 chairmanship and 171 councillorship seats.
 Edo | APC | July 11, 2026 | Not announced | APC won all 18 chairmanship and 192 councillorship seats. PDP boycotted the election.
 Ekiti | APC | December 2, 2023 | Not announced | Governing party (APC) won all 16 local government chairmanship seats.
-Enugu | APC | September 21, 2024 | Not announced | PDP won all 17 chairmanship seats and 260 councillorship seats. Governor Peter Mbah has since moved from PDP to APC.
+Enugu | APC | September 26, 2026 | Not announced | PDP won all 17 chairmanship seats and 260 councillorship seats. Governor Peter Mbah has since moved from PDP to APC.
 FCT | N/A | February 21, 2026 | Not announced | APC won 5 of the 6 Area Councils, while PDP won Gwagwalada Area Council.
 Gombe | APC | June 27, 2026 | Not announced | Governing party (APC) won all chairmanship and councillorship positions declared.
 Imo | APC | September 21, 2024 | Not announced | APC has elected chairmen in the 27 local government areas.
@@ -37,7 +37,7 @@ Kaduna | APC | October 19, 2024 | Not announced | APC won all 23 chairmanship an
 Kano | APC | October 26, 2024 | Not announced | NNPP won all 44 chairmanship and 484 councillorship seats. Governor Abba Yusuf has since moved from NNPP to APC.
 Katsina | APC | February 15, 2025 | Not announced | Governing party (APC) won all 34 chairmanship and 361 councillorship seats.
 Kebbi | APC | August 31, 2024 | Not announced | Governing party (APC) won all 21 local government chairmanship and 225 councillorship positions.
-Kogi | APC | October 19, 2024 | Not announced | Governing party (APC) won all 21 chairmanship and 239 councillorship seats.
+Kogi | APC | October 17, 2026 | Not announced | Governing party (APC) won all 21 chairmanship and 239 councillorship seats.
 Kwara | APC | September 21, 2024 | Not announced | Governing party (APC) won all 16 chairmanship and 193 councillorship seats.
 Lagos | APC | July 12, 2025 | Not announced | Governing party (APC) won all 20 chairmanship seats and 375 of 376 councillorship seats.
 Nasarawa | APC | November 2, 2024 | Not announced | Governing party (APC) won all 13 chairmanship seats and 140 of 147 councillorship seats.
@@ -46,7 +46,7 @@ Ogun | APC | November 16, 2024 | Not announced | Governing party (APC) won all 2
 Ondo | APC | January 18, 2025 | Not announced | Governing party (APC) won all 18 chairmanship and 203 councillorship seats.
 Osun | PDP | February 22, 2025 | Not announced | Governing party (PDP) won all 30 chairmanship and 332 councillorship seats.
 Oyo | PDP | April 27, 2024 | December 29, 2026 | Governing party (PDP) won all 33 local government chairmanship positions. The next election is scheduled for December 29, 2026.
-Plateau | PDP | October 9, 2024 | Not announced | PDP won all 17 chairmanship seats.
+Plateau | PDP |September 9, 2026 | Not announced | PDP won all 17 chairmanship seats.
 Rivers | APC | October 5, 2024 | Not announced | APP won 22 of the 23 chairmanship seats in the Rivers local government election. Governor Siminalayi Fubara has since moved to APC.
 Sokoto | APC | September 21, 2024 | Not announced | Governing party (APC) won all 23 chairmanship seats.
 Taraba | APC | November 18, 2023 | Not announced | PDP won all 16 chairmanship seats. Governor Agbu Kefas has since moved from PDP to APC.
