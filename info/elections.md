@@ -7,8 +7,7 @@ published: true
 ---
 ELECTIONS | ELECTIONS DATE | TENURE ELAPSES 
 ------------- | -------------  | -------------
-Ekiti Governorship Election|Saturday, June 20, 2026|
-Osun Governorship Election|Saturday, August 15, 2026|
+Nigeria General Election|Saturday, January 16, 2027|
 
 -----------
 
